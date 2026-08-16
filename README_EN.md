@@ -33,9 +33,26 @@ On 1.20.1 (FML3), the server's mod list is **encoded** in the protocol; mineflay
 - **Creative**: executing `give/setblock/fill` as OP requires non-survival permissions.
 - Set on spawn with a **watchdog**: while not yet in creative, re-apply every 3s (kubejs auto-op may lag).
 
+### Component table
+
+| Component | Location | Role |
+|---|---|---|
+| bot | `mc-god-bot.js` (this repo) | mineflayer connecting to the LAN port, sending/receiving messages and running commands as OP |
+| kubejs bridge | game dir `kubejs/server_scripts/god-bridge.js` (not in this repo) | auto-OP ludwiggod on login + trigger-word ack (in-game toast when a player calls "god") |
+| message files | game dir `mc-bridge/inbox.jsonl` / `outbox.jsonl` | two-way channel |
+| monitor | Claude session Monitor | watches inbox.jsonl, responds on events |
+
+> Note: the kubejs6 class filter blocks Java IO, so all file I/O moved to the bot process (external Node, no such limit).
+
 ### Why event filtering?
 
-To keep inbox from being flooded by casual chat. Only trigger words (神/god/@claude) and important events (join/death/command receipt) go to inbox; ordinary chat stays in local logs.
+To keep inbox from being flooded by casual chat. Filtering rules:
+
+| Level | Content | Destination |
+|---|---|---|
+| trigger | chat containing 神/god/@claude | inbox (Claude receives) |
+| important | player join / death / command receipt | inbox |
+| ignored | ordinary chat, system broadcasts, `Teleported` feedback | bot local log only |
 
 ---
 
@@ -65,6 +82,32 @@ grep "上线" /tmp/mc-god-bot.log
 ```
 
 Deps: `mineflayer` + `@tcortega/minecraft-protocol-forge@1.2.0` (FML3 handshake).
+
+### forge-mods.json (required for the FML3 handshake)
+
+The bot reads `/tmp/forge-mods.json` at startup to declare the local mod list during the FML3 handshake. Format: `[{"modid":"...","version":"..."}]`, generated from the mods dir:
+
+```bash
+python3 -c "import json,os;print(json.dumps([{'modid':f.split('-')[0] if '-' in f else f.split('.')[0],'version':'1'} for f in os.listdir('mods') if f.endswith('.jar')]))" > /tmp/forge-mods.json
+```
+
+(Real environments generate it from mod metadata for accuracy; this quick command rebuilds a placeholder.)
+
+### Common commands (run as OP)
+
+Claude writes `/`-prefixed commands via outbox to execute in-game:
+
+```text
+give <player> <item> <count>                                  give items
+effect give <player> <effect> <seconds> <level> true          apply buff
+gamerule keepInventory true                                   keep inventory on death
+execute at <player> run setblock ~ ~-1 ~ <block>              place a block at feet
+execute as <player> at @s run kill @e[type=<entity>,distance=..40]   clear mobs
+say <message>                                                 broadcast (Claude speaks)
+scanchests                                                    special: scan nearby chests → inbox
+```
+
+> `scanchests` is a built-in special command (not a game command) for locating mod storage blocks like obsidian chests.
 
 ---
 

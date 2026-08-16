@@ -33,9 +33,26 @@ Claude 写 outbox.jsonl → bot 每秒轮询 → 以 OP 执行指令 → 游戏�
 - **创造模式**：OP 执行 `give/setblock/fill` 等需要非生存权限。
 - 上线自动设置，且带**看门狗**：只要还没进创造模式，每 3 秒重发（kubejs auto-op 可能滞后）。
 
+### 组件表
+
+| 组件 | 位置 | 职责 |
+|---|---|---|
+| bot | 本仓 `mc-god-bot.js` | mineflayer 连局域网端口，OP 身份收发消息、执行指令 |
+| kubejs 桥 | 游戏目录 `kubejs/server_scripts/god-bridge.js`（不在本仓） | ludwiggod 上线自动 OP + 触发词回执（玩家喊「神」时游戏内提示） |
+| 消息文件 | 游戏目录 `mc-bridge/inbox.jsonl` / `outbox.jsonl` | 双向通道 |
+| 监视器 | Claude 会话内 Monitor | 盯 inbox.jsonl，收到事件即响应 |
+
+> 注意：kubejs6 类过滤器封了 Java IO，文件读写全部移到 bot 进程（外部 Node 无此限制）。
+
 ### 为什么事件分级？
 
-避免 inbox 被普通聊天刷爆。只把「触发词」（神/god/@claude）和重要事件（加入/死亡/命令回执）进 inbox，普通聊天只进本地日志。
+避免 inbox 被普通聊天刷爆。分级规则：
+
+| 级别 | 内容 | 去向 |
+|---|---|---|
+| 触发 | 聊天含「神」/god/@claude | inbox（Claude 收到） |
+| 重要 | 玩家加入 / 死亡 / 命令回执 | inbox |
+| 忽略 | 普通聊天、系统广播、`Teleported` 反馈 | 仅 bot 本地日志 |
 
 ---
 
@@ -65,6 +82,32 @@ grep "上线" /tmp/mc-god-bot.log
 ```
 
 依赖：`mineflayer` + `@tcortega/minecraft-protocol-forge@1.2.0`（FML3 握手）。
+
+### forge-mods.json（FML3 握手必需）
+
+bot 启动时读取 `/tmp/forge-mods.json`，用于 FML3 握手声明本地 mod 列表。格式：`[{"modid":"...","version":"..."}]`，从 mods 目录生成：
+
+```bash
+python3 -c "import json,os;print(json.dumps([{'modid':f.split('-')[0] if '-' in f else f.split('.')[0],'version':'1'} for f in os.listdir('mods') if f.endswith('.jar')]))" > /tmp/forge-mods.json
+```
+
+（实际环境从 mod 列表元数据生成更准，此命令用于快速重建占位。）
+
+### 常用指令（OP 执行）
+
+Claude 通过 outbox 写 `/` 开头命令即可在游戏内执行：
+
+```text
+give <玩家> <物品> <数量>                                 发物品
+effect give <玩家> <效果> <秒> <等级> true                 上 buff
+gamerule keepInventory true                              死亡不掉落
+execute at <玩家> run setblock ~ ~-1 ~ <方块>             在脚下放方块
+execute as <玩家> at @s run kill @e[type=<实体>,distance=..40]  清怪
+say <消息>                                                全服广播(Claude 说话)
+scanchests                                                特殊命令:扫描玩家附近箱子→inbox
+```
+
+> `scanchests` 是 bot 内置的特殊命令（非游戏指令），用于定位黑曜石箱等模组存储方块。
 
 ---
 
