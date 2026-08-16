@@ -10,7 +10,7 @@ const fs = require('fs');
 const BRIDGE = process.env.HOME + '/Library/Application Support/minecraft/mc-bridge';
 const INBOX = BRIDGE + '/inbox.jsonl';
 const OUTBOX = BRIDGE + '/outbox.jsonl';
-const HP_MAP = { 'ludwigxu': 1000000 };   // 玩家 -> 死亡后自动补的最大血量
+const HP_MAP = { 'ludwigxu': null };   // 玩家 -> 死亡后自动补的最大血量;null=不自动调(仅死亡通知,2026-08-16 停用)
 // bot 声称的 mod 列表(FML3 格式: "modid@version";含 minecraft/forge 本体)
 const FORGE_MODS = JSON.parse(fs.readFileSync('/tmp/forge-mods.json', 'utf8'))
   .map(m => m.modid + '@' + m.version)
@@ -68,20 +68,42 @@ function start() {
   bot.on('spawn', () => {
     try { bot.setViewDistance(2); } catch (e) {}   // 最小视距,不拉区块
     // 上线自动设置:创造模式 + 隐身(神的化身,对玩家不可见)
-    // spawn 后 3 秒执行,等 kubejs auto-op 生效;spawn 可能因 tp 重复触发,重复设置无害
-    setTimeout(() => {
+    // 立即尝试 + 看门狗:只要还没进创造模式,每 3 秒重发(kubejs auto-op 可能滞后)
+    const tryGod = () => {
       try {
         bot.chat('/gamemode creative ludwiggod');
         bot.chat('/effect give ludwiggod minecraft:invisibility 999999 0 true');
-        console.log('[god] creative + invisible');
+        console.log('[god] creative + invisible (attempt)');
+      } catch (e) {}
+    };
+    tryGod();
+    const wd = setInterval(() => {
+      try {
+        if (bot.game && bot.game.gameMode !== 'creative') tryGod();
       } catch (e) {}
     }, 3000);
+    // 地面心跳:物理关停且出生点在半空时,服务器 allow-flight=false 会在 ~4s 把 bot
+    // 当"浮空太久"踢掉(loop 根源)。周期性上报 onGround=true 重置浮空计时,撑到拿到 OP。
+    const hb = setInterval(() => {
+      try {
+        const e = bot.entity;
+        if (e && e.position) {
+          bot._client.write('position', {
+            x: e.position.x, y: e.position.y, z: e.position.z,
+            yaw: e.yaw || 0, pitch: e.pitch || 0, onGround: true,
+          });
+        }
+      } catch (e) {}
+    }, 2000);
+    bot.once('end', () => { clearInterval(wd); clearInterval(hb); });
     log('bot', 'ludwiggod', 'spawned');
     console.log('[bot] 上线');
   });
 
   bot.on('chat', (username, message) => {
     if (username === 'ludwiggod') return;
+    // 传送反馈噪音(PIGGOD 名字含 "god" 会误触发触发词),不进 inbox
+    if (/^Teleported \S+ to /.test(message)) return;
     // 事件分级:仅触发词(神/god/@claude)进 inbox,普通聊天只进本地日志
     const lower = message.toLowerCase();
     const isTrigger = lower.indexOf('神') !== -1 || lower.indexOf('god') !== -1 || lower.indexOf('@claude') !== -1;
@@ -98,16 +120,19 @@ function start() {
       let text = json.toString();
       text = text.replace(/§[0-9a-fk-or]/g, '');
       // 系统广播不写 inbox(噪音),仅本地日志;死亡补血逻辑独立处理
-      if (text && text.indexOf(']') !== -1) { console.log('[msg]', text); }
-      // 死亡自动补血:死亡广播 3 秒后重设最大血量(防重生回退)
+      if (text) { console.log('[msg]', text); }
+      // 死亡事件进 inbox(Claude 诊断);自动补血已停(HP_MAP 值为 null 不调),只保留通知
       for (const name of Object.keys(HP_MAP)) {
         if (text.includes(name) && /died|was slain|was shot|was blown|burned to death|drowned|suffocated|starved to death|fell from|fell off|hit the ground|was impaled|was killed|was pricked|blew up/.test(text)) {
           log('death', name, text);   // 死亡原因原文进 inbox,方便 Claude 诊断
-          setTimeout(() => {
-            bot.chat('/attribute ' + name + ' minecraft:generic.max_health base set ' + HP_MAP[name]);
-            log('revive', name, 'hp restored');
-            console.log('[revive]', name, 'hp ->', HP_MAP[name]);
-          }, 3000);
+          const hp = HP_MAP[name];
+          if (hp) {
+            setTimeout(() => {
+              bot.chat('/attribute ' + name + ' minecraft:generic.max_health base set ' + hp);
+              log('revive', name, 'hp restored');
+              console.log('[revive]', name, 'hp ->', hp);
+            }, 3000);
+          }
         }
       }
     } catch (e) {}
@@ -139,6 +164,36 @@ function start() {
         try {
           const cmd = JSON.parse(l.trim()).cmd;
           if (cmd) {
+            if (cmd === 'scanchests') {
+              // 扫描 ludwigxu 附近的存储方块(箱子/木桶/潜影盒),把位置发到 inbox
+              try {
+                const t = bot.players['ludwigxu'];
+                const p = t && t.entity ? t.entity.position : null;
+                if (!p) { console.log('[scan] ludwigxu 不在线'); continue; }
+                // 打玩家当前位置 + 附近 3 格内所有非空气块的原始名,定位黑曜石箱子真实注册名
+                const here = p.floored();
+                console.log('[scan] ludwigxu @ ' + here.x + ',' + here.y + ',' + here.z + ' yaw=' + (t.entity.yaw).toFixed(1));
+                const nearby = bot.findBlocks({ matching: b => b.name !== 'minecraft:air', maxDistance: 6, point: p, count: 128 });
+                // mineflayer 不认识 mod 块 → name 全 undefined;改用 type id(数字)识别,mod 块 id 远大于原版
+                const byType = {};
+                nearby.forEach(b => { byType[b.type] = (byType[b.type] || 0) + 1; });
+                console.log('[scan] nearby types:', Object.entries(byType).map(([t, c]) => '#' + t + 'x' + c).join(' '));
+                const names = {};
+                nearby.forEach(b => { names[b.name] = (names[b.name] || 0) + 1; });
+                console.log('[scan] nearby blocks:', Object.entries(names).map(([n, c]) => n + 'x' + c).join(' '));
+                const found = bot.findBlocks({
+                  // 原版 chest/barrel/shulker + 模组箱子(ironchest 黑曜石箱等, name 是 ironchest:obsidian_chest 这种完整注册名)
+                  matching: b => /(chest|barrel|shulker)/i.test(b.name),
+                  maxDistance: 10,
+                  point: p,
+                  count: 64,
+                });
+                const list = found.map(b => b.name + ' ' + b.position.x + ',' + b.position.y + ',' + b.position.z);
+                log('exec', 'god', 'scanchests: ' + (list.length ? list.join(' | ') : '无'), '');
+                console.log('[scan] chests:', list.length ? list.join(' | ') : '无');
+              } catch (e) { console.error('[scan err]', e.message); }
+              continue;
+            }
             bot.chat('/' + cmd);
             log('exec', 'god', cmd, 'sent');
             console.log('[exec]', cmd);
