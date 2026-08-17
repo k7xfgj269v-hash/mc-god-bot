@@ -30,9 +30,11 @@ function copyFile (from, to, label) {
   console.log('[OK] ' + label + ' -> node_modules/' + to)
 }
 
-// 1. 整文件替换:压缩层(循环消费多包)+ 反序列化器(FullPacketParser 循环拆包)
+// 1. 整文件替换:压缩层(循环消费多包)。
+//    解析噪音(PartialReadError 堆栈 / "Chunk size" 日志)由客户端原生选项
+//    hideErrors: true 压掉——原版 FullPacketParser 两处日志都被 noErrorLogging 把关,
+//    无需再补丁 protodef serializer.js。
 copyFile('compression.js', 'minecraft-protocol/src/transforms/compression.js', 'compression.js')
-copyFile('serializer.js', 'protodef/src/serializer.js', 'protodef serializer.js')
 
 // 2. 精确字符串替换:fml3.json 的 ServerRegistry.snapshot -> restBuffer
 // 注意:JSON 文件可能是 CRLF 行尾,用正则匹配 \n 以兼容 \r?\n
@@ -111,7 +113,7 @@ patchFile('minecraft-data/minecraft-data/data/pc/1.20/protocol.json', [
 // 3. mineflayer setQuickBarSlot:非法槽位忽略而非断言(Forge 错位包会发负值/超界 slot)
 patchFile('mineflayer/lib/plugins/simple_inventory.js', [[
   'assert.ok(slot >= 0)\n    assert.ok(slot < 9)',
-  'if (!(slot >= 0 && slot < 9)) return // Forge 服务器偶尔发错位的 held_item_slot(非法槽位),忽略,避免断言崩连接'
+  'if (slot < 0 || slot >= QUICK_BAR_COUNT) return // Forge 错位包会发非法槽位,忽略'
 ]], 'mineflayer setQuickBarSlot')
 
 console.log('\n全部补丁已应用。重启 bot: cd <repo> && pkill -f mc-god-bot; nohup node mc-god-bot.js >> /tmp/mc-god-bot.log 2>&1 &')
