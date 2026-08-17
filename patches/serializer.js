@@ -69,16 +69,12 @@ class FullPacketParser extends Transform {
   }
 
   _transform (chunk, enc, cb) {
-    // Forge 服务器会把多个包合并压缩进同一个 blob,解压层解出的是「多包拼接」,
-    // 原版只解析第一个包就把剩下的丢掉 → 丢包。这里循环解析 chunk 内所有包。
-    let offset = 0
+    let packet
     try {
-      while (offset < chunk.length) {
-        const packet = this.parsePacketBuffer(chunk.slice(offset))
-        if (packet.metadata.size <= 0) break // 安全:消耗 0 字节说明解析卡住,停止防死循环
-        this.push(packet)
-        offset += packet.metadata.size
-      }
+      packet = this.parsePacketBuffer(chunk)
+      // 原版在此打 "Chunk size is X but only Y was read" 日志:
+      // Forge 服务器把多包合并进一个 blob,反序列化器只解析第一个包、丢弃剩余(多为 bot
+      // 不需要的 mod 错位包)。这是正常保护,日志纯噪音,压掉。
     } catch (e) {
       if (e.partialReadError) {
         if (!this.noErrorLogging) {
@@ -89,6 +85,7 @@ class FullPacketParser extends Transform {
         return cb(e)
       }
     }
+    this.push(packet)
     cb()
   }
 }

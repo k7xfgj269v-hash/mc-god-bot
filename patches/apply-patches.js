@@ -45,6 +45,7 @@ function patchFile (rel, pairs, label) {
   const p = path.join(NM, rel)
   if (!fs.existsSync(p)) die(label + ': ' + rel + ' 不存在')
   let s = fs.readFileSync(p, 'utf8')
+  let applied = 0
   for (const [old, neu] of pairs) {
     const re = new RegExp(esc(old))
     const neuRe = new RegExp(esc(neu))
@@ -55,9 +56,12 @@ function patchFile (rel, pairs, label) {
     }
     if ((s.match(re) || []).length > 1) die(label + ': 目标片段不唯一 -> ' + old.slice(0, 60))
     s = s.replace(re, neu)
+    applied++
   }
-  fs.writeFileSync(p, s)
-  console.log('[OK] ' + label)
+  if (applied > 0) {
+    fs.writeFileSync(p, s)
+    console.log('[OK] ' + label)
+  }
 }
 
 patchFile('@tcortega/minecraft-protocol-forge/src/client/data/fml3.json', [[
@@ -103,5 +107,11 @@ patchFile('minecraft-data/minecraft-data/data/pc/1.20/protocol.json', [
     console.log('[OK] protocol.json declare_recipes.recipes')
   }
 }
+
+// 3. mineflayer setQuickBarSlot:非法槽位忽略而非断言(Forge 错位包会发负值/超界 slot)
+patchFile('mineflayer/lib/plugins/simple_inventory.js', [[
+  'assert.ok(slot >= 0)\n    assert.ok(slot < 9)',
+  'if (!(slot >= 0 && slot < 9)) return // Forge 服务器偶尔发错位的 held_item_slot(非法槽位),忽略,避免断言崩连接'
+]], 'mineflayer setQuickBarSlot')
 
 console.log('\n全部补丁已应用。重启 bot: cd <repo> && pkill -f mc-god-bot; nohup node mc-god-bot.js >> /tmp/mc-god-bot.log 2>&1 &')
