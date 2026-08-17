@@ -16,11 +16,42 @@ const FORGE_MODS = JSON.parse(fs.readFileSync('/tmp/forge-mods.json', 'utf8'))
   .map(m => m.modid + '@' + m.version)
   .concat(['minecraft@1.20.1', 'forge@47.3.22']);
 
+// 死亡原因匹配:玩家死亡时服务器广播原文含这些词 → 进 inbox 通知 Claude
+const DEATH_CAUSES = /died|was slain|was shot|was blown|burned to death|drowned|suffocated|starved to death|fell from|fell off|hit the ground|was impaled|was killed|was pricked|blew up/;
+
 function log(type, player, msg, extra) {
   try {
     const line = JSON.stringify({ t: type, p: String(player || ''), m: String(msg || ''), x: String(extra || ''), ts: Date.now() });
     fs.appendFileSync(INBOX, line + '\n');
   } catch (e) {}
+}
+
+// scanchests 特殊指令:扫描 ludwigxu 附近的存储方块(箱子/木桶/潜影盒),把位置发到 inbox
+function handleScanChests(bot) {
+  const t = bot.players['ludwigxu'];
+  const p = t && t.entity ? t.entity.position : null;
+  if (!p) { console.log('[scan] ludwigxu 不在线'); return; }
+  // 打玩家当前位置 + 附近 3 格内所有非空气块的原始名,定位黑曜石箱子真实注册名
+  const here = p.floored();
+  console.log('[scan] ludwigxu @ ' + here.x + ',' + here.y + ',' + here.z + ' yaw=' + (t.entity.yaw).toFixed(1));
+  const nearby = bot.findBlocks({ matching: b => b.name !== 'minecraft:air', maxDistance: 6, point: p, count: 128 });
+  // mineflayer 不认识 mod 块 → name 全 undefined;改用 type id(数字)识别,mod 块 id 远大于原版
+  const byType = {};
+  nearby.forEach(b => { byType[b.type] = (byType[b.type] || 0) + 1; });
+  console.log('[scan] nearby types:', Object.entries(byType).map(([t, c]) => '#' + t + 'x' + c).join(' '));
+  const names = {};
+  nearby.forEach(b => { names[b.name] = (names[b.name] || 0) + 1; });
+  console.log('[scan] nearby blocks:', Object.entries(names).map(([n, c]) => n + 'x' + c).join(' '));
+  const found = bot.findBlocks({
+    // 原版 chest/barrel/shulker + 模组箱子(ironchest 黑曜石箱等, name 是 ironchest:obsidian_chest 这种完整注册名)
+    matching: b => /(chest|barrel|shulker)/i.test(b.name),
+    maxDistance: 10,
+    point: p,
+    count: 64,
+  });
+  const list = found.map(b => b.name + ' ' + b.position.x + ',' + b.position.y + ',' + b.position.z);
+  log('exec', 'god', 'scanchests: ' + (list.length ? list.join(' | ') : '无'), '');
+  console.log('[scan] chests:', list.length ? list.join(' | ') : '无');
 }
 
 process.on('uncaughtException', (e) => {
@@ -31,7 +62,7 @@ process.on('unhandledRejection', (e) => console.error('[unhandled]', e));
 function start() {
   const bot = mineflayer.createBot({
     host: '127.0.0.1', port: 51620,
-    username: 'ludwiggod', auth: 'offline', hideErrors: false,
+    username: 'ludwiggod', auth: 'offline', hideErrors: true,   // 原生压掉解析噪音(见 patches/README),真错误仍会报
     version: false,                 // 触发 minecraft-protocol 自动版本协商(hook 时机)
     physicsEnabled: false,          // 只做协议入口,不跑物理模拟
   });
@@ -123,7 +154,7 @@ function start() {
       if (text) { console.log('[msg]', text); }
       // 死亡事件进 inbox(Claude 诊断);自动补血已停(HP_MAP 值为 null 不调),只保留通知
       for (const name of Object.keys(HP_MAP)) {
-        if (text.includes(name) && /died|was slain|was shot|was blown|burned to death|drowned|suffocated|starved to death|fell from|fell off|hit the ground|was impaled|was killed|was pricked|blew up/.test(text)) {
+        if (text.includes(name) && DEATH_CAUSES.test(text)) {
           log('death', name, text);   // 死亡原因原文进 inbox,方便 Claude 诊断
           const hp = HP_MAP[name];
           if (hp) {
@@ -165,33 +196,7 @@ function start() {
           const cmd = JSON.parse(l.trim()).cmd;
           if (cmd) {
             if (cmd === 'scanchests') {
-              // 扫描 ludwigxu 附近的存储方块(箱子/木桶/潜影盒),把位置发到 inbox
-              try {
-                const t = bot.players['ludwigxu'];
-                const p = t && t.entity ? t.entity.position : null;
-                if (!p) { console.log('[scan] ludwigxu 不在线'); continue; }
-                // 打玩家当前位置 + 附近 3 格内所有非空气块的原始名,定位黑曜石箱子真实注册名
-                const here = p.floored();
-                console.log('[scan] ludwigxu @ ' + here.x + ',' + here.y + ',' + here.z + ' yaw=' + (t.entity.yaw).toFixed(1));
-                const nearby = bot.findBlocks({ matching: b => b.name !== 'minecraft:air', maxDistance: 6, point: p, count: 128 });
-                // mineflayer 不认识 mod 块 → name 全 undefined;改用 type id(数字)识别,mod 块 id 远大于原版
-                const byType = {};
-                nearby.forEach(b => { byType[b.type] = (byType[b.type] || 0) + 1; });
-                console.log('[scan] nearby types:', Object.entries(byType).map(([t, c]) => '#' + t + 'x' + c).join(' '));
-                const names = {};
-                nearby.forEach(b => { names[b.name] = (names[b.name] || 0) + 1; });
-                console.log('[scan] nearby blocks:', Object.entries(names).map(([n, c]) => n + 'x' + c).join(' '));
-                const found = bot.findBlocks({
-                  // 原版 chest/barrel/shulker + 模组箱子(ironchest 黑曜石箱等, name 是 ironchest:obsidian_chest 这种完整注册名)
-                  matching: b => /(chest|barrel|shulker)/i.test(b.name),
-                  maxDistance: 10,
-                  point: p,
-                  count: 64,
-                });
-                const list = found.map(b => b.name + ' ' + b.position.x + ',' + b.position.y + ',' + b.position.z);
-                log('exec', 'god', 'scanchests: ' + (list.length ? list.join(' | ') : '无'), '');
-                console.log('[scan] chests:', list.length ? list.join(' | ') : '无');
-              } catch (e) { console.error('[scan err]', e.message); }
+              handleScanChests(bot);
               continue;
             }
             bot.chat('/' + cmd);
