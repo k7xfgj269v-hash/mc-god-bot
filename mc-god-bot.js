@@ -10,9 +10,10 @@ const fs = require('fs');
 const BRIDGE = process.env.HOME + '/Library/Application Support/minecraft/mc-bridge';
 const INBOX = BRIDGE + '/inbox.jsonl';
 const OUTBOX = BRIDGE + '/outbox.jsonl';
+let currentBot = null;   // 当前连接实例, 供模块级 outbox 轮询取用(重连后自动切到新连接)
 const HP_MAP = { 'ludwigxu': null };   // 玩家 -> 死亡后自动补的最大血量;null=不自动调(仅死亡通知,2026-08-16 停用)
 // bot 声称的 mod 列表(FML3 格式: "modid@version";含 minecraft/forge 本体)
-const FORGE_MODS = JSON.parse(fs.readFileSync('/tmp/forge-mods.json', 'utf8'))
+const FORGE_MODS = JSON.parse(fs.readFileSync(__dirname + '/forge-mods.json', 'utf8'))
   .map(m => m.modid + '@' + m.version)
   .concat(['minecraft@1.20.1', 'forge@47.3.22']);
 
@@ -21,6 +22,12 @@ const DEATH_CAUSES = /died|was slain|was shot|was blown|burned to death|drowned|
 
 function log(type, player, msg, extra) {
   try {
+    // inbox 只增不减 → 超 8MB 改名归档(保留数据, 不删), 下次写新文件
+    const st = fs.statSync(INBOX, { throwIfNoEntry: false });
+    if (st && st.size > 8 * 1024 * 1024) {
+      const ts = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '');
+      fs.renameSync(INBOX, INBOX.replace(/\.jsonl$/, '-' + ts + '.jsonl'));
+    }
     const line = JSON.stringify({ t: type, p: String(player || ''), m: String(msg || ''), x: String(extra || ''), ts: Date.now() });
     fs.appendFileSync(INBOX, line + '\n');
   } catch (e) {}
@@ -66,6 +73,7 @@ function start() {
     version: false,                 // 触发 minecraft-protocol 自动版本协商(hook 时机)
     physicsEnabled: false,          // 只做协议入口,不跑物理模拟
   });
+  currentBot = bot;
   if (!bot._client.autoVersionHooks) bot._client.autoVersionHooks = [];
   bot._client.autoVersionHooks.push(function (response, client, options) {
     if (!response.forgeData || !response.forgeData.d) return;   // 仅 FML3
@@ -96,21 +104,30 @@ function start() {
     console.log('[diag] declare_commands re-patched after login');
   });
 
+  // 神的化身设置:旁观者模式(无敌不可见) + 隐身, bot 连接级复用
+  const setGod = () => {
+    try {
+      bot.chat('/gamemode spectator ludwiggod');
+      bot.chat('/effect give ludwiggod minecraft:invisibility 999999 0 true');
+      console.log('[god] spectator + invisible (attempt)');
+    } catch (e) {}
+  };
   bot.on('spawn', () => {
-    try { bot.setViewDistance(2); } catch (e) {}   // 最小视距,不拉区块
-    // 上线自动设置:创造模式 + 隐身(神的化身,对玩家不可见)
-    // 立即尝试 + 看门狗:只要还没进创造模式,每 3 秒重发(kubejs auto-op 可能滞后)
-    const tryGod = () => {
-      try {
-        bot.chat('/gamemode creative ludwiggod');
-        bot.chat('/effect give ludwiggod minecraft:invisibility 999999 0 true');
-        console.log('[god] creative + invisible (attempt)');
-      } catch (e) {}
-    };
-    tryGod();
+    try { bot.setViewDistance(5); } catch (e) {}   // 视距5:约80格半径,足够大范围 /fill 所需区块(原为2,2026-09-03改)
+    if (bot._godInit) {
+      // 重生/二次 spawn: 只需重设状态(spectator+隐身), 看门狗已注册
+      setGod();
+      log('bot', 'ludwiggod', 're-spawned');
+      console.log('[bot] 重生上线');
+      return;
+    }
+    bot._godInit = true;
+    // 上线自动设置:旁观者模式 + 隐身(旁观者天然无敌不可见, 不会被玩家杀死)
+    setGod();
+    // 看门狗:只要还没进旁观者模式,每 3 秒重发(kubejs auto-op 可能滞后)
     const wd = setInterval(() => {
       try {
-        if (bot.game && bot.game.gameMode !== 'creative') tryGod();
+        if (bot.game && bot.game.gameMode !== 'spectator') setGod();
       } catch (e) {}
     }, 3000);
     // 地面心跳:物理关停且出生点在半空时,服务器 allow-flight=false 会在 ~4s 把 bot
@@ -126,19 +143,34 @@ function start() {
         }
       } catch (e) {}
     }, 2000);
-    bot.once('end', () => { clearInterval(wd); clearInterval(hb); });
+    bot.once('end', () => { clearInterval(wd); clearInterval(hb); bot._godInit = false; });
     log('bot', 'ludwiggod', 'spawned');
     console.log('[bot] 上线');
+  });
+  // 自动重生: 死亡后立即 respawn(保持连接, 不走断线重连)
+  bot.on('death', () => {
+    console.log('[bot] 死亡, 自动重生');
+    log('bot', 'ludwiggod', 'death, auto-respawn');
+    try { bot.respawn(); } catch (e) {}
+  });
+  bot.on('respawn', () => {
+    console.log('[bot] 重生完成, 恢复状态');
+    setGod();
   });
 
   bot.on('chat', (username, message) => {
     if (username === 'ludwiggod') return;
-    // 传送反馈噪音(PIGGOD 名字含 "god" 会误触发触发词),不进 inbox
-    if (/^Teleported \S+ to /.test(message)) return;
-    // 事件分级:仅触发词(神/god/@claude)进 inbox,普通聊天只进本地日志
+    // 发给神的信息全收:ludwigxu/PIGGOD 是仅有的两名玩家, 真人聊的每一句都进 inbox,
+    // 让 Claude 连追问(「然后呢」「不够」这类不带触发词的话)也能收到;
+    // 系统/命令回显噪音(切模式/commands.*/传送/进度/备份)继续不进 inbox, 避免刷屏
+    const CHAT_NOISE = /^(set own game mode to |teleported |commands\.|backup |.* joined the game|.* has (made|completed|reached|achieved) )/i;
     const lower = message.toLowerCase();
     const isTrigger = lower.indexOf('神') !== -1 || lower.indexOf('god') !== -1 || lower.indexOf('@claude') !== -1;
-    if (isTrigger) {
+    const isPlayer = username === 'ludwigxu' || username === 'PIGGOD';
+    if (CHAT_NOISE.test(message)) {
+      // 噪音优先于触发词:传送回显里含 PIGGOD 的 "god" 会误触发, 一律不进 inbox
+      console.log('[chat-skip]', username + ':', message);
+    } else if (isPlayer || isTrigger) {
       log('chat', username, message);
       console.log('[chat]', username + ':', message);
     } else {
@@ -180,33 +212,43 @@ function start() {
   bot.on('end', () => {
     console.log('[bot] 连接断开,5 秒后重连...');
     log('bot', 'ludwiggod', 'disconnected');
+    if (currentBot === bot) currentBot = null;   // 重连窗口内挂起 outbox 消费, 命令留在文件里
     setTimeout(start, 5000);
   });
   bot.on('error', (e) => { console.error('[bot err]', e.message); });
 
-  // outbox 轮询
-  setInterval(() => {
-    try {
-      if (!fs.existsSync(OUTBOX)) return;
-      const content = fs.readFileSync(OUTBOX, 'utf8');
-      fs.rmSync(OUTBOX, { force: true });
-      const lines = content.split('\n').filter(l => l.trim());
-      for (const l of lines) {
-        try {
-          const cmd = JSON.parse(l.trim()).cmd;
-          if (cmd) {
-            if (cmd === 'scanchests') {
-              handleScanChests(bot);
-              continue;
-            }
-            bot.chat('/' + cmd);
-            log('exec', 'god', cmd, 'sent');
-            console.log('[exec]', cmd);
-          }
-        } catch (e) { console.error('[outbox bad line]', l); }
-      }
-    } catch (e) { console.error('[outbox err]', e.message); }
-  }, 1000);
 }
+
+// outbox 轮询:模块级只注册一次
+// (原写在 start() 内 → 每次重连都新注册一个且从不清理, 堆叠后多个轮询抢读同一文件 → outbox bad line)
+setInterval(() => {
+  const bot = currentBot;
+  if (!bot) return;   // 未连接/重连窗口内不消费, 命令留在 outbox 等新连接
+  try {
+    if (!fs.existsSync(OUTBOX)) return;
+    const content = fs.readFileSync(OUTBOX, 'utf8');
+    fs.rmSync(OUTBOX, { force: true });
+    const lines = content.split('\n').filter(l => l.trim());
+    for (const l of lines) {
+      try {
+        const cmd = JSON.parse(l.trim()).cmd;
+        if (cmd) {
+          if (cmd === 'scanchests') {
+            handleScanChests(bot);
+            continue;
+          }
+          // 以 ! 开头的 cmd = 发纯聊天消息(不拼 /), 用于触发 kubejs PlayerEvents.chat
+          if (cmd.startsWith('!')) {
+            bot.chat(cmd.slice(1));
+          } else {
+            bot.chat('/' + cmd);
+          }
+          log('exec', 'god', cmd, 'sent');
+          console.log('[exec]', cmd);
+        }
+      } catch (e) { console.error('[outbox bad line]', l); }
+    }
+  } catch (e) { console.error('[outbox err]', e.message); }
+}, 1000);
 
 start();
