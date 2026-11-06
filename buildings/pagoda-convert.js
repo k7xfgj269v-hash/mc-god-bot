@@ -1,7 +1,7 @@
 // pagoda-convert.js — 把 Sponge v3 schematic 转成 fill/setblock 命令序列
 // 用法: node pagoda-convert.js <schem> <baseX> <baseY> <baseZ> [--stats]
 // 索引: index = x + z*W + y*W*L  (W=Width=x, L=Length=z, H=Height=y)
-const nbt = require('/Users/ludwigxu/Documents/Projects/mc-lzmx/node_modules/prismarine-nbt');
+const nbt = require('/Users/ludwigxu/Documents/mc-lzmx/node_modules/prismarine-nbt');
 const fs = require('fs'); const zlib = require('zlib');
 
 const schemPath = process.argv[2];

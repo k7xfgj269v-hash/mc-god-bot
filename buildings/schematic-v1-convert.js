@@ -1,9 +1,9 @@
 // schematic-v1-convert.js — 老式 .schematic(MCEdit v1, Alpha) → 1.20.1 fill/setblock 命令
 // 用法: node schematic-v1-convert.js <file> <baseX> <baseY> <baseZ> [--stats]
 // 索引: index = x + z*W + y*W*L ; Blocks=byteArray(带符号,需 &0xFF), Data=metadata
-const nbt = require('/Users/ludwigxu/Documents/Projects/mc-lzmx/node_modules/prismarine-nbt');
+const nbt = require('/Users/ludwigxu/Documents/mc-lzmx/node_modules/prismarine-nbt');
 const fs = require('fs'); const zlib = require('zlib');
-const md = require('/Users/ludwigxu/Documents/Projects/mc-lzmx/node_modules/minecraft-data')('1.12.2');
+const md = require('/Users/ludwigxu/Documents/mc-lzmx/node_modules/minecraft-data')('1.12.2');
 
 const schemPath = process.argv[2];
 const [baseX, baseY, baseZ] = process.argv.slice(3, 6).map(Number);
