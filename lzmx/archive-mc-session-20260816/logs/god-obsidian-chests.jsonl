@@ -1,0 +1,6 @@
+{"cmd":"execute at ludwigxu run setblock ~-2 ~-1 ~ ironchest:obsidian_chest"}
+{"cmd":"execute at ludwigxu run setblock ~-1 ~-1 ~ ironchest:obsidian_chest"}
+{"cmd":"execute at ludwigxu run setblock ~ ~-1 ~ ironchest:obsidian_chest"}
+{"cmd":"execute at ludwigxu run setblock ~1 ~-1 ~ ironchest:obsidian_chest"}
+{"cmd":"execute at ludwigxu run setblock ~2 ~-1 ~ ironchest:obsidian_chest"}
+{"cmd":"say 神谕 5个黑曜石箱子已放在你脚下排成一排"}

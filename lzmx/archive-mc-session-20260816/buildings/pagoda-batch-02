@@ -1,0 +1,205 @@
+{"cmd":"setblock -668 81 -133 calcite"}
+{"cmd":"setblock -676 81 -130 calcite"}
+{"cmd":"setblock -672 81 -129 calcite"}
+{"cmd":"setblock -669 81 -129 calcite"}
+{"cmd":"fill -676 81 -128 -668 81 -128 dark_oak_slab[type=top]"}
+{"cmd":"fill -678 81 -127 -667 81 -127 spruce_trapdoor[facing=south,half=top,open=false,powered=false]"}
+{"cmd":"fill -675 82 -140 -669 82 -140 dark_oak_slab[type=top]"}
+{"cmd":"setblock -677 82 -139 spruce_slab[type=top]"}
+{"cmd":"setblock -676 82 -139 spruce_slab[type=top]"}
+{"cmd":"fill -675 82 -139 -669 82 -139 spruce_slab[type=double]"}
+{"cmd":"setblock -668 82 -139 spruce_slab[type=top]"}
+{"cmd":"setblock -667 82 -139 spruce_slab[type=top]"}
+{"cmd":"setblock -678 82 -138 spruce_slab[type=top]"}
+{"cmd":"setblock -678 82 -137 spruce_slab[type=top]"}
+{"cmd":"setblock -677 82 -138 dark_oak_slab[type=double]"}
+{"cmd":"setblock -676 82 -138 dark_oak_slab[type=double]"}
+{"cmd":"fill -675 82 -138 -669 82 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -668 82 -138 dark_oak_slab[type=double]"}
+{"cmd":"setblock -667 82 -138 dark_oak_slab[type=double]"}
+{"cmd":"setblock -666 82 -138 spruce_slab[type=top]"}
+{"cmd":"setblock -666 82 -137 spruce_slab[type=top]"}
+{"cmd":"setblock -677 82 -137 dark_oak_slab[type=double]"}
+{"cmd":"fill -676 82 -137 -676 83 -129 stripped_acacia_wood[axis=y]"}
+{"cmd":"fill -668 82 -137 -668 83 -129 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 82 -137 dark_oak_slab[type=double]"}
+{"cmd":"fill -679 82 -136 -679 82 -130 dark_oak_slab[type=top]"}
+{"cmd":"fill -678 82 -136 -678 82 -130 spruce_slab[type=double]"}
+{"cmd":"fill -677 82 -136 -677 82 -130 stripped_acacia_wood[axis=y]"}
+{"cmd":"fill -675 82 -136 -669 82 -136 oak_log[axis=x]"}
+{"cmd":"fill -667 82 -136 -667 82 -130 stripped_acacia_wood[axis=y]"}
+{"cmd":"fill -666 82 -136 -666 82 -130 spruce_slab[type=double]"}
+{"cmd":"fill -665 82 -136 -665 82 -130 dark_oak_slab[type=top]"}
+{"cmd":"fill -675 82 -133 -669 82 -133 oak_log[axis=x]"}
+{"cmd":"fill -675 82 -130 -669 82 -130 oak_log[axis=x]"}
+{"cmd":"setblock -678 82 -129 spruce_slab[type=top]"}
+{"cmd":"setblock -678 82 -128 spruce_slab[type=top]"}
+{"cmd":"setblock -677 82 -129 dark_oak_slab[type=double]"}
+{"cmd":"setblock -677 82 -128 dark_oak_slab[type=double]"}
+{"cmd":"fill -675 82 -129 -669 82 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 82 -129 dark_oak_slab[type=double]"}
+{"cmd":"setblock -667 82 -128 dark_oak_slab[type=double]"}
+{"cmd":"setblock -666 82 -129 spruce_slab[type=top]"}
+{"cmd":"setblock -666 82 -128 spruce_slab[type=top]"}
+{"cmd":"setblock -676 82 -128 dark_oak_slab[type=double]"}
+{"cmd":"setblock -668 82 -128 dark_oak_slab[type=double]"}
+{"cmd":"setblock -677 82 -127 spruce_slab[type=top]"}
+{"cmd":"setblock -676 82 -127 spruce_slab[type=top]"}
+{"cmd":"fill -675 82 -127 -669 82 -127 spruce_slab[type=double]"}
+{"cmd":"setblock -668 82 -127 spruce_slab[type=top]"}
+{"cmd":"setblock -667 82 -127 spruce_slab[type=top]"}
+{"cmd":"fill -675 82 -126 -669 82 -126 dark_oak_slab[type=top]"}
+{"cmd":"setblock -678 83 -140 dark_oak_slab[type=top]"}
+{"cmd":"setblock -677 83 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -676 83 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -668 83 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -667 83 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -666 83 -140 dark_oak_slab[type=top]"}
+{"cmd":"setblock -679 83 -139 dark_oak_slab[type=top]"}
+{"cmd":"setblock -678 83 -139 spruce_slab[type=double]"}
+{"cmd":"setblock -677 83 -139 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -677 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -676 83 -139 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -676 83 -138 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -675 83 -139 acacia_slab[type=bottom]"}
+{"cmd":"setblock -674 83 -139 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -673 83 -139 acacia_slab[type=bottom]"}
+{"cmd":"setblock -672 83 -139 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -671 83 -139 acacia_slab[type=bottom]"}
+{"cmd":"setblock -670 83 -139 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -669 83 -139 acacia_slab[type=bottom]"}
+{"cmd":"setblock -668 83 -139 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -668 83 -138 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -667 83 -139 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -139 spruce_slab[type=double]"}
+{"cmd":"setblock -665 83 -139 dark_oak_slab[type=top]"}
+{"cmd":"setblock -679 83 -138 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -679 83 -137 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -675 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -675 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -674 83 -138 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -673 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -673 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -672 83 -138 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -671 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -671 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -670 83 -138 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -669 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -669 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -138 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -665 83 -138 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -665 83 -137 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -137 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -677 83 -137 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -674 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -672 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -670 83 -137 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 83 -137 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -666 83 -137 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -678 83 -136 acacia_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -136 stripped_acacia_wood[axis=y]"}
+{"cmd":"fill -675 83 -136 -675 83 -130 oak_log[axis=z]"}
+{"cmd":"fill -674 83 -136 -674 83 -133 spruce_trapdoor[facing=south,half=top,open=false,powered=false]"}
+{"cmd":"fill -673 83 -136 -673 83 -130 oak_log[axis=z]"}
+{"cmd":"fill -672 83 -136 -672 83 -133 spruce_trapdoor[facing=south,half=top,open=false,powered=false]"}
+{"cmd":"fill -671 83 -136 -671 83 -130 oak_log[axis=z]"}
+{"cmd":"fill -670 83 -136 -670 83 -133 spruce_trapdoor[facing=south,half=top,open=false,powered=false]"}
+{"cmd":"fill -669 83 -136 -669 83 -130 oak_log[axis=z]"}
+{"cmd":"setblock -667 83 -136 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -136 acacia_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -135 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -135 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -667 83 -135 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -666 83 -135 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -134 acacia_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -134 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 83 -134 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -134 acacia_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -133 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -133 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -667 83 -133 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -666 83 -133 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -132 acacia_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -132 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -674 83 -132 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -674 83 -131 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -674 83 -130 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -672 83 -132 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -672 83 -131 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -672 83 -130 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -670 83 -132 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -670 83 -131 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -670 83 -130 spruce_trapdoor[facing=north,half=top,open=false,powered=false]"}
+{"cmd":"setblock -667 83 -132 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -132 acacia_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -131 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -131 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -667 83 -131 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -666 83 -131 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -130 acacia_slab[type=bottom]"}
+{"cmd":"setblock -677 83 -130 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 83 -130 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -130 acacia_slab[type=bottom]"}
+{"cmd":"setblock -679 83 -129 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -679 83 -128 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -129 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -677 83 -129 stripped_mangrove_wood[axis=y]"}
+{"cmd":"fill -675 83 -129 -669 83 -129 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -667 83 -129 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -666 83 -129 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -665 83 -129 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -665 83 -128 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -678 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -677 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -676 83 -128 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -676 83 -127 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -675 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -674 83 -128 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -673 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -672 83 -128 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -671 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -670 83 -128 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -669 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -668 83 -128 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -668 83 -127 stripped_mangrove_wood[axis=y]"}
+{"cmd":"setblock -667 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -128 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -679 83 -127 dark_oak_slab[type=top]"}
+{"cmd":"setblock -678 83 -127 spruce_slab[type=double]"}
+{"cmd":"setblock -677 83 -127 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -675 83 -127 acacia_slab[type=bottom]"}
+{"cmd":"setblock -674 83 -127 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -673 83 -127 acacia_slab[type=bottom]"}
+{"cmd":"setblock -672 83 -127 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -671 83 -127 acacia_slab[type=bottom]"}
+{"cmd":"setblock -670 83 -127 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -669 83 -127 acacia_slab[type=bottom]"}
+{"cmd":"setblock -667 83 -127 stripped_acacia_wood[axis=y]"}
+{"cmd":"setblock -666 83 -127 spruce_slab[type=double]"}
+{"cmd":"setblock -665 83 -127 dark_oak_slab[type=top]"}
+{"cmd":"setblock -678 83 -126 dark_oak_slab[type=top]"}
+{"cmd":"setblock -677 83 -126 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -676 83 -126 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -668 83 -126 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -667 83 -126 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -666 83 -126 dark_oak_slab[type=top]"}
+{"cmd":"setblock -679 84 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -665 84 -140 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -678 84 -139 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -666 84 -139 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -677 84 -138 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -667 84 -138 dark_oak_slab[type=bottom]"}
+{"cmd":"setblock -676 84 -137 dark_oak_planks"}
+{"cmd":"setblock -675 84 -137 acacia_slab[type=bottom]"}
+{"cmd":"setblock -674 84 -137 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -673 84 -137 acacia_slab[type=bottom]"}
+{"cmd":"setblock -672 84 -137 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -671 84 -137 acacia_slab[type=bottom]"}
+{"cmd":"setblock -670 84 -137 mangrove_slab[type=bottom]"}
+{"cmd":"setblock -669 84 -137 acacia_slab[type=bottom]"}
+{"cmd":"setblock -668 84 -137 dark_oak_planks"}
+{"cmd":"setblock -676 84 -136 acacia_slab[type=bottom]"}
+{"cmd":"fill -675 84 -136 -669 84 -136 cyan_terracotta"}
+{"cmd":"setblock -668 84 -136 acacia_slab[type=bottom]"}

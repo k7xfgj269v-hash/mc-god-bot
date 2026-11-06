@@ -1,0 +1,3250 @@
+{"cmd":"fill -693 68 -175 -649 69 -143 dirt"}
+{"cmd":"fill -693 68 -142 -650 68 -135 dirt"}
+{"cmd":"setblock -649 68 -142 sand"}
+{"cmd":"setblock -649 69 -142 sand"}
+{"cmd":"setblock -649 70 -142 sand"}
+{"cmd":"fill -693 68 -134 -686 68 -128 dirt"}
+{"cmd":"setblock -685 68 -134 sand"}
+{"cmd":"setblock -685 69 -134 sand"}
+{"cmd":"fill -684 68 -134 -650 68 -131 dirt"}
+{"cmd":"fill -649 68 -134 -649 69 -131 sand"}
+{"cmd":"fill -685 68 -133 -685 68 -110 dirt"}
+{"cmd":"fill -684 68 -130 -681 68 -121 dirt"}
+{"cmd":"fill -677 68 -130 -676 69 -130 sand"}
+{"cmd":"fill -674 68 -130 -649 68 -110 dirt"}
+{"cmd":"fill -680 68 -129 -675 68 -110 dirt"}
+{"cmd":"fill -693 68 -127 -693 68 -119 dirt"}
+{"cmd":"fill -692 68 -127 -687 68 -118 light_blue_terracotta"}
+{"cmd":"fill -686 68 -127 -686 68 -118 dirt"}
+{"cmd":"fill -684 68 -120 -682 69 -110 dirt"}
+{"cmd":"setblock -681 68 -120 grass_block"}
+{"cmd":"fill -681 68 -119 -681 68 -110 dirt"}
+{"cmd":"fill -693 68 -118 -693 69 -110 light_blue_terracotta"}
+{"cmd":"fill -686 68 -117 -686 69 -110 light_blue_terracotta"}
+{"cmd":"fill -693 69 -142 -650 69 -138 dirt"}
+{"cmd":"fill -693 69 -137 -690 69 -132 dirt"}
+{"cmd":"setblock -689 69 -137 sand"}
+{"cmd":"setblock -688 69 -137 sand"}
+{"cmd":"fill -687 69 -137 -650 69 -137 dirt"}
+{"cmd":"fill -689 69 -136 -689 69 -129 dirt"}
+{"cmd":"setblock -688 69 -136 sand"}
+{"cmd":"setblock -687 69 -136 sand"}
+{"cmd":"fill -686 69 -136 -678 69 -136 dirt"}
+{"cmd":"fill -677 69 -136 -676 69 -134 sand"}
+{"cmd":"fill -675 69 -136 -650 69 -127 dirt"}
+{"cmd":"fill -688 69 -135 -688 69 -129 dirt"}
+{"cmd":"setblock -687 69 -135 sand"}
+{"cmd":"setblock -686 69 -135 sand"}
+{"cmd":"setblock -685 69 -135 dirt"}
+{"cmd":"setblock -684 69 -135 sand"}
+{"cmd":"setblock -683 69 -135 sand"}
+{"cmd":"setblock -682 69 -135 sand"}
+{"cmd":"fill -681 69 -135 -678 69 -135 dirt"}
+{"cmd":"fill -687 69 -134 -687 69 -129 dirt"}
+{"cmd":"setblock -686 69 -134 sand"}
+{"cmd":"setblock -684 69 -134 sand"}
+{"cmd":"fill -683 69 -134 -683 69 -131 dirt"}
+{"cmd":"setblock -682 69 -134 sand"}
+{"cmd":"setblock -682 69 -133 sand"}
+{"cmd":"setblock -681 69 -134 dirt"}
+{"cmd":"setblock -680 69 -134 dirt"}
+{"cmd":"setblock -679 69 -134 dirt"}
+{"cmd":"setblock -678 69 -134 sand"}
+{"cmd":"setblock -678 69 -133 sand"}
+{"cmd":"fill -686 69 -133 -684 69 -131 dirt"}
+{"cmd":"setblock -681 69 -133 sand"}
+{"cmd":"setblock -680 69 -133 sand"}
+{"cmd":"setblock -679 69 -133 sand"}
+{"cmd":"fill -677 69 -133 -676 69 -131 dirt"}
+{"cmd":"fill -682 69 -132 -678 69 -131 dirt"}
+{"cmd":"setblock -693 69 -131 podzol"}
+{"cmd":"setblock -693 70 -131 podzol"}
+{"cmd":"fill -692 69 -131 -690 69 -129 dirt"}
+{"cmd":"setblock -693 69 -130 dirt"}
+{"cmd":"setblock -693 69 -129 dirt"}
+{"cmd":"setblock -693 69 -128 dirt"}
+{"cmd":"fill -686 69 -130 -685 69 -128 dirt"}
+{"cmd":"fill -684 69 -130 -681 69 -130 sand"}
+{"cmd":"fill -680 69 -130 -680 69 -110 dirt"}
+{"cmd":"fill -649 69 -130 -649 69 -110 dirt"}
+{"cmd":"fill -684 69 -129 -681 69 -125 dirt"}
+{"cmd":"fill -679 69 -129 -676 69 -127 dirt"}
+{"cmd":"fill -692 69 -128 -687 69 -128 light_blue_terracotta"}
+{"cmd":"fill -693 69 -127 -693 69 -119 light_blue_terracotta"}
+{"cmd":"fill -686 69 -127 -686 69 -118 light_blue_terracotta"}
+{"cmd":"fill -685 69 -127 -685 69 -115 dirt"}
+{"cmd":"setblock -679 69 -126 glowstone"}
+{"cmd":"fill -678 69 -126 -676 69 -116 dirt"}
+{"cmd":"setblock -675 69 -126 glowstone"}
+{"cmd":"fill -674 69 -126 -672 69 -110 dirt"}
+{"cmd":"setblock -671 69 -126 glowstone"}
+{"cmd":"fill -670 69 -126 -650 69 -110 dirt"}
+{"cmd":"fill -679 69 -125 -679 69 -110 dirt"}
+{"cmd":"fill -675 69 -125 -675 69 -116 dirt"}
+{"cmd":"fill -671 69 -125 -671 69 -110 dirt"}
+{"cmd":"fill -684 69 -124 -682 69 -121 dirt"}
+{"cmd":"setblock -681 69 -124 glowstone"}
+{"cmd":"setblock -681 69 -123 dirt"}
+{"cmd":"setblock -681 69 -122 dirt"}
+{"cmd":"setblock -681 69 -121 dirt"}
+{"cmd":"setblock -681 69 -120 glowstone"}
+{"cmd":"setblock -681 69 -119 dirt"}
+{"cmd":"setblock -681 69 -118 dirt"}
+{"cmd":"setblock -681 69 -117 dirt"}
+{"cmd":"setblock -681 69 -116 glowstone"}
+{"cmd":"setblock -681 69 -115 dirt"}
+{"cmd":"setblock -681 69 -114 dirt"}
+{"cmd":"setblock -681 69 -113 dirt"}
+{"cmd":"fill -678 69 -115 -677 69 -110 dirt"}
+{"cmd":"setblock -676 69 -115 light_gray_wool"}
+{"cmd":"setblock -675 69 -115 light_gray_wool"}
+{"cmd":"setblock -685 69 -114 sandstone"}
+{"cmd":"setblock -676 69 -114 dirt"}
+{"cmd":"setblock -675 69 -114 dirt"}
+{"cmd":"fill -685 69 -113 -685 69 -110 dirt"}
+{"cmd":"setblock -676 69 -113 light_gray_wool"}
+{"cmd":"fill -675 69 -113 -675 69 -110 dirt"}
+{"cmd":"setblock -681 69 -112 glowstone"}
+{"cmd":"setblock -676 69 -112 dirt"}
+{"cmd":"setblock -676 69 -111 dirt"}
+{"cmd":"setblock -676 69 -110 dirt"}
+{"cmd":"setblock -681 69 -111 dirt"}
+{"cmd":"setblock -681 69 -110 dirt"}
+{"cmd":"setblock -693 70 -175 grass_block"}
+{"cmd":"fill -692 70 -175 -672 70 -175 podzol"}
+{"cmd":"setblock -671 70 -175 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -175 stone_slab[type=double]"}
+{"cmd":"fill -669 70 -175 -650 70 -155 podzol"}
+{"cmd":"fill -649 70 -175 -649 70 -143 grass_block"}
+{"cmd":"fill -693 70 -174 -673 70 -155 podzol"}
+{"cmd":"setblock -672 70 -174 stone_slab[type=double]"}
+{"cmd":"setblock -672 70 -173 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -174 podzol"}
+{"cmd":"setblock -670 70 -174 podzol"}
+{"cmd":"setblock -671 70 -173 podzol"}
+{"cmd":"setblock -670 70 -173 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -172 stone_slab[type=double]"}
+{"cmd":"setblock -672 70 -172 podzol"}
+{"cmd":"setblock -671 70 -172 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -171 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -170 stone_slab[type=double]"}
+{"cmd":"setblock -672 70 -171 stone_slab[type=double]"}
+{"cmd":"setblock -672 70 -170 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -171 podzol"}
+{"cmd":"setblock -670 70 -170 stone_slab[type=double]"}
+{"cmd":"fill -672 70 -169 -670 70 -137 podzol"}
+{"cmd":"setblock -693 70 -154 podzol"}
+{"cmd":"setblock -692 70 -154 stone_slab[type=double]"}
+{"cmd":"setblock -691 70 -154 stone_slab[type=double]"}
+{"cmd":"setblock -690 70 -154 podzol"}
+{"cmd":"fill -689 70 -154 -688 70 -153 stone_slab[type=double]"}
+{"cmd":"fill -687 70 -154 -673 70 -138 podzol"}
+{"cmd":"fill -669 70 -154 -655 70 -131 podzol"}
+{"cmd":"setblock -654 70 -154 stone_slab[type=double]"}
+{"cmd":"setblock -653 70 -154 stone_slab[type=double]"}
+{"cmd":"setblock -652 70 -154 podzol"}
+{"cmd":"fill -651 70 -154 -650 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -693 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -693 70 -152 stone_slab[type=double]"}
+{"cmd":"setblock -692 70 -153 podzol"}
+{"cmd":"setblock -691 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -690 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -654 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -654 70 -152 stone_slab[type=double]"}
+{"cmd":"fill -653 70 -153 -653 70 -131 podzol"}
+{"cmd":"setblock -652 70 -153 stone_slab[type=double]"}
+{"cmd":"setblock -652 70 -152 stone_slab[type=double]"}
+{"cmd":"setblock -692 70 -152 stone_slab[type=double]"}
+{"cmd":"setblock -691 70 -152 stone_slab[type=double]"}
+{"cmd":"fill -690 70 -152 -690 70 -131 podzol"}
+{"cmd":"setblock -689 70 -152 stone_slab[type=double]"}
+{"cmd":"fill -688 70 -152 -688 70 -139 podzol"}
+{"cmd":"fill -651 70 -152 -651 70 -131 podzol"}
+{"cmd":"setblock -650 70 -152 stone_slab[type=double]"}
+{"cmd":"fill -693 70 -151 -691 70 -132 podzol"}
+{"cmd":"fill -689 70 -151 -689 70 -139 podzol"}
+{"cmd":"fill -654 70 -151 -654 70 -131 podzol"}
+{"cmd":"fill -652 70 -151 -652 70 -131 podzol"}
+{"cmd":"fill -650 70 -151 -650 70 -135 podzol"}
+{"cmd":"setblock -689 70 -138 sand"}
+{"cmd":"setblock -688 70 -138 sand"}
+{"cmd":"setblock -687 70 -137 sand"}
+{"cmd":"fill -686 70 -137 -673 70 -137 podzol"}
+{"cmd":"setblock -689 70 -136 sand"}
+{"cmd":"setblock -686 70 -136 sand"}
+{"cmd":"setblock -685 70 -136 podzol"}
+{"cmd":"setblock -684 70 -136 sand"}
+{"cmd":"setblock -683 70 -136 sand"}
+{"cmd":"setblock -682 70 -136 sand"}
+{"cmd":"fill -681 70 -136 -679 70 -135 podzol"}
+{"cmd":"setblock -678 70 -136 sand"}
+{"cmd":"fill -675 70 -136 -673 70 -135 podzol"}
+{"cmd":"setblock -672 70 -136 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -136 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -136 stone_slab[type=double]"}
+{"cmd":"fill -689 70 -135 -689 70 -131 podzol"}
+{"cmd":"setblock -688 70 -135 sand"}
+{"cmd":"setblock -685 70 -135 sand"}
+{"cmd":"setblock -678 70 -135 podzol"}
+{"cmd":"setblock -672 70 -135 podzol"}
+{"cmd":"setblock -671 70 -135 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -135 podzol"}
+{"cmd":"fill -688 70 -134 -688 70 -131 podzol"}
+{"cmd":"setblock -687 70 -134 sand"}
+{"cmd":"setblock -683 70 -134 sand"}
+{"cmd":"setblock -683 70 -133 sand"}
+{"cmd":"setblock -681 70 -134 sand"}
+{"cmd":"setblock -680 70 -134 sand"}
+{"cmd":"setblock -679 70 -134 sand"}
+{"cmd":"setblock -675 70 -134 sand"}
+{"cmd":"fill -674 70 -134 -673 70 -131 podzol"}
+{"cmd":"setblock -672 70 -134 stone_slab[type=double]"}
+{"cmd":"setblock -672 70 -133 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -134 podzol"}
+{"cmd":"setblock -670 70 -134 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -133 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -132 stone_slab[type=double]"}
+{"cmd":"setblock -650 70 -134 sand"}
+{"cmd":"setblock -687 70 -133 podzol"}
+{"cmd":"setblock -687 70 -132 podzol"}
+{"cmd":"setblock -687 70 -131 podzol"}
+{"cmd":"setblock -686 70 -133 sand"}
+{"cmd":"setblock -685 70 -133 podzol"}
+{"cmd":"setblock -685 70 -132 podzol"}
+{"cmd":"setblock -685 70 -131 podzol"}
+{"cmd":"setblock -684 70 -133 sand"}
+{"cmd":"setblock -677 70 -133 podzol"}
+{"cmd":"setblock -677 70 -132 podzol"}
+{"cmd":"setblock -677 70 -131 podzol"}
+{"cmd":"setblock -676 70 -133 sand"}
+{"cmd":"setblock -675 70 -133 podzol"}
+{"cmd":"setblock -675 70 -132 podzol"}
+{"cmd":"setblock -675 70 -131 podzol"}
+{"cmd":"setblock -671 70 -133 stone_slab[type=double]"}
+{"cmd":"setblock -650 70 -133 podzol"}
+{"cmd":"setblock -649 70 -133 sand"}
+{"cmd":"setblock -686 70 -132 podzol"}
+{"cmd":"setblock -686 70 -131 podzol"}
+{"cmd":"fill -684 70 -132 -682 70 -131 podzol"}
+{"cmd":"setblock -681 70 -132 sand"}
+{"cmd":"setblock -680 70 -132 sand"}
+{"cmd":"setblock -679 70 -132 podzol"}
+{"cmd":"setblock -679 70 -131 podzol"}
+{"cmd":"setblock -678 70 -132 sand"}
+{"cmd":"setblock -676 70 -132 podzol"}
+{"cmd":"setblock -676 70 -131 podzol"}
+{"cmd":"setblock -672 70 -132 podzol"}
+{"cmd":"setblock -671 70 -132 podzol"}
+{"cmd":"setblock -650 70 -132 sand"}
+{"cmd":"setblock -692 70 -131 podzol"}
+{"cmd":"setblock -691 70 -131 podzol"}
+{"cmd":"setblock -681 70 -131 podzol"}
+{"cmd":"setblock -680 70 -131 podzol"}
+{"cmd":"setblock -678 70 -131 podzol"}
+{"cmd":"setblock -672 70 -131 stone_slab[type=double]"}
+{"cmd":"setblock -671 70 -131 stone_slab[type=double]"}
+{"cmd":"setblock -670 70 -131 podzol"}
+{"cmd":"setblock -650 70 -131 podzol"}
+{"cmd":"setblock -649 70 -131 sand"}
+{"cmd":"fill -693 70 -130 -649 70 -130 grass_block"}
+{"cmd":"fill -693 70 -129 -669 70 -110 grass_block"}
+{"cmd":"setblock -668 70 -129 dirt"}
+{"cmd":"fill -667 70 -129 -649 70 -129 grass_block"}
+{"cmd":"fill -668 70 -128 -667 70 -126 grass_block"}
+{"cmd":"fill -666 70 -128 -649 70 -128 podzol"}
+{"cmd":"fill -666 70 -127 -658 70 -121 podzol"}
+{"cmd":"setblock -657 70 -127 stone_slab[type=top]"}
+{"cmd":"setblock -656 70 -127 stone_slab[type=top]"}
+{"cmd":"setblock -655 70 -127 stone_slab[type=top]"}
+{"cmd":"fill -654 70 -127 -649 70 -111 podzol"}
+{"cmd":"fill -657 70 -126 -655 70 -111 podzol"}
+{"cmd":"setblock -668 70 -125 dirt"}
+{"cmd":"fill -667 70 -125 -667 70 -110 grass_block"}
+{"cmd":"fill -668 70 -124 -668 70 -110 grass_block"}
+{"cmd":"setblock -666 70 -120 stone_slab[type=top]"}
+{"cmd":"setblock -666 70 -119 stone_slab[type=top]"}
+{"cmd":"setblock -665 70 -120 podzol"}
+{"cmd":"setblock -664 70 -120 stone_slab[type=top]"}
+{"cmd":"setblock -664 70 -119 stone_slab[type=top]"}
+{"cmd":"setblock -664 70 -118 stone_slab[type=top]"}
+{"cmd":"fill -663 70 -120 -658 70 -111 podzol"}
+{"cmd":"setblock -665 70 -119 stone_slab[type=top]"}
+{"cmd":"fill -666 70 -118 -665 70 -111 podzol"}
+{"cmd":"fill -664 70 -117 -664 70 -111 podzol"}
+{"cmd":"fill -666 70 -110 -649 70 -110 grass_block"}
+{"cmd":"fill -684 71 -174 -681 71 -173 spruce_leaves"}
+{"cmd":"fill -677 71 -174 -675 71 -173 spruce_leaves"}
+{"cmd":"fill -666 71 -174 -663 71 -173 spruce_leaves"}
+{"cmd":"fill -659 71 -174 -656 71 -173 spruce_leaves"}
+{"cmd":"setblock -685 71 -173 spruce_leaves"}
+{"cmd":"setblock -685 71 -172 spruce_leaves"}
+{"cmd":"setblock -685 71 -171 spruce_leaves"}
+{"cmd":"fill -678 71 -173 -678 71 -170 spruce_leaves"}
+{"cmd":"fill -674 71 -173 -674 71 -170 spruce_leaves"}
+{"cmd":"fill -667 71 -173 -667 71 -170 spruce_leaves"}
+{"cmd":"setblock -660 71 -173 spruce_leaves"}
+{"cmd":"setblock -660 71 -172 spruce_leaves"}
+{"cmd":"setblock -660 71 -171 spruce_leaves"}
+{"cmd":"fill -690 71 -172 -690 76 -172 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -684 71 -172 spruce_leaves"}
+{"cmd":"setblock -684 71 -171 spruce_leaves"}
+{"cmd":"setblock -684 71 -170 spruce_leaves"}
+{"cmd":"setblock -683 71 -172 spruce_log[axis=y]"}
+{"cmd":"fill -682 71 -172 -681 71 -170 spruce_leaves"}
+{"cmd":"setblock -677 71 -172 spruce_leaves"}
+{"cmd":"setblock -677 71 -171 spruce_leaves"}
+{"cmd":"setblock -677 71 -170 spruce_leaves"}
+{"cmd":"setblock -676 71 -172 spruce_log[axis=y]"}
+{"cmd":"setblock -675 71 -172 spruce_leaves"}
+{"cmd":"setblock -675 71 -171 spruce_leaves"}
+{"cmd":"setblock -675 71 -170 spruce_leaves"}
+{"cmd":"setblock -666 71 -172 spruce_leaves"}
+{"cmd":"setblock -666 71 -171 spruce_leaves"}
+{"cmd":"setblock -666 71 -170 spruce_leaves"}
+{"cmd":"setblock -665 71 -172 spruce_log[axis=y]"}
+{"cmd":"fill -664 71 -172 -663 71 -170 spruce_leaves"}
+{"cmd":"setblock -659 71 -172 spruce_leaves"}
+{"cmd":"setblock -659 71 -171 spruce_leaves"}
+{"cmd":"setblock -659 71 -170 spruce_leaves"}
+{"cmd":"setblock -658 71 -172 spruce_log[axis=y]"}
+{"cmd":"fill -657 71 -172 -656 71 -171 spruce_leaves"}
+{"cmd":"fill -652 71 -172 -652 75 -172 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -683 71 -171 spruce_leaves"}
+{"cmd":"setblock -683 71 -170 spruce_leaves"}
+{"cmd":"setblock -676 71 -171 spruce_leaves"}
+{"cmd":"setblock -676 71 -170 spruce_leaves"}
+{"cmd":"setblock -665 71 -171 spruce_leaves"}
+{"cmd":"setblock -665 71 -170 spruce_leaves"}
+{"cmd":"setblock -658 71 -171 spruce_leaves"}
+{"cmd":"setblock -658 71 -170 spruce_leaves"}
+{"cmd":"setblock -657 71 -170 spruce_leaves"}
+{"cmd":"fill -692 71 -169 -689 71 -168 spruce_leaves"}
+{"cmd":"setblock -673 71 -169 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -672 71 -169 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -671 71 -169 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -670 71 -169 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -669 71 -169 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -688 71 -168 spruce_leaves"}
+{"cmd":"setblock -688 71 -167 spruce_leaves"}
+{"cmd":"setblock -688 71 -166 spruce_leaves"}
+{"cmd":"fill -686 71 -168 -656 71 -138 oak_planks"}
+{"cmd":"fill -692 71 -167 -691 71 -165 spruce_leaves"}
+{"cmd":"setblock -690 71 -167 spruce_log[axis=y]"}
+{"cmd":"setblock -689 71 -167 spruce_leaves"}
+{"cmd":"setblock -689 71 -166 spruce_leaves"}
+{"cmd":"setblock -689 71 -165 spruce_leaves"}
+{"cmd":"setblock -690 71 -166 spruce_leaves"}
+{"cmd":"setblock -690 71 -165 spruce_leaves"}
+{"cmd":"fill -653 71 -166 -651 71 -165 spruce_leaves"}
+{"cmd":"setblock -654 71 -165 spruce_leaves"}
+{"cmd":"setblock -654 71 -164 spruce_leaves"}
+{"cmd":"setblock -654 71 -163 spruce_leaves"}
+{"cmd":"fill -650 71 -165 -650 71 -162 spruce_leaves"}
+{"cmd":"setblock -653 71 -164 spruce_leaves"}
+{"cmd":"setblock -653 71 -163 spruce_leaves"}
+{"cmd":"setblock -653 71 -162 spruce_leaves"}
+{"cmd":"setblock -652 71 -164 spruce_log[axis=y]"}
+{"cmd":"setblock -651 71 -164 spruce_leaves"}
+{"cmd":"setblock -651 71 -163 spruce_leaves"}
+{"cmd":"setblock -651 71 -162 spruce_leaves"}
+{"cmd":"setblock -652 71 -163 spruce_leaves"}
+{"cmd":"setblock -652 71 -162 spruce_leaves"}
+{"cmd":"fill -692 71 -161 -688 71 -160 spruce_leaves"}
+{"cmd":"fill -692 71 -159 -691 71 -157 spruce_leaves"}
+{"cmd":"setblock -690 71 -159 spruce_log[axis=y]"}
+{"cmd":"fill -689 71 -159 -688 71 -157 spruce_leaves"}
+{"cmd":"fill -655 71 -159 -651 71 -158 spruce_leaves"}
+{"cmd":"setblock -690 71 -158 spruce_leaves"}
+{"cmd":"setblock -690 71 -157 spruce_leaves"}
+{"cmd":"fill -655 71 -157 -654 71 -156 spruce_leaves"}
+{"cmd":"setblock -653 71 -157 spruce_log[axis=y]"}
+{"cmd":"fill -652 71 -157 -651 71 -156 spruce_leaves"}
+{"cmd":"setblock -653 71 -156 spruce_leaves"}
+{"cmd":"setblock -653 72 -156 spruce_leaves"}
+{"cmd":"setblock -687 71 -155 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -655 71 -155 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -687 71 -154 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -687 71 -153 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -687 71 -152 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -655 71 -154 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -655 71 -153 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -655 71 -152 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -687 71 -151 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -655 71 -151 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -653 71 -149 -650 71 -148 spruce_leaves"}
+{"cmd":"fill -691 71 -148 -688 71 -147 spruce_leaves"}
+{"cmd":"setblock -692 71 -147 spruce_leaves"}
+{"cmd":"setblock -692 71 -146 spruce_leaves"}
+{"cmd":"setblock -692 71 -145 spruce_leaves"}
+{"cmd":"fill -653 71 -147 -652 71 -145 spruce_leaves"}
+{"cmd":"setblock -651 71 -147 spruce_log[axis=y]"}
+{"cmd":"setblock -650 71 -147 spruce_leaves"}
+{"cmd":"setblock -650 71 -146 spruce_leaves"}
+{"cmd":"setblock -650 71 -145 spruce_leaves"}
+{"cmd":"setblock -691 71 -146 spruce_leaves"}
+{"cmd":"setblock -691 71 -145 spruce_leaves"}
+{"cmd":"setblock -691 71 -144 spruce_leaves"}
+{"cmd":"setblock -690 71 -146 spruce_log[axis=y]"}
+{"cmd":"fill -689 71 -146 -688 71 -145 spruce_leaves"}
+{"cmd":"setblock -651 71 -146 spruce_leaves"}
+{"cmd":"setblock -651 71 -145 spruce_leaves"}
+{"cmd":"setblock -690 71 -145 spruce_leaves"}
+{"cmd":"setblock -690 71 -144 spruce_leaves"}
+{"cmd":"setblock -689 71 -144 spruce_leaves"}
+{"cmd":"fill -653 71 -143 -651 71 -142 spruce_leaves"}
+{"cmd":"fill -690 71 -142 -688 71 -141 spruce_leaves"}
+{"cmd":"fill -654 71 -142 -654 71 -139 spruce_leaves"}
+{"cmd":"fill -650 71 -142 -650 71 -139 spruce_leaves"}
+{"cmd":"fill -691 71 -141 -691 71 -138 spruce_leaves"}
+{"cmd":"fill -687 71 -141 -687 71 -138 spruce_leaves"}
+{"cmd":"setblock -653 71 -141 spruce_leaves"}
+{"cmd":"setblock -653 71 -140 spruce_leaves"}
+{"cmd":"setblock -653 71 -139 spruce_leaves"}
+{"cmd":"setblock -652 71 -141 spruce_log[axis=y]"}
+{"cmd":"setblock -651 71 -141 spruce_leaves"}
+{"cmd":"setblock -651 71 -140 spruce_leaves"}
+{"cmd":"setblock -651 71 -139 spruce_leaves"}
+{"cmd":"setblock -690 71 -140 spruce_leaves"}
+{"cmd":"setblock -690 71 -139 spruce_leaves"}
+{"cmd":"setblock -690 71 -138 spruce_leaves"}
+{"cmd":"setblock -689 71 -140 spruce_log[axis=y]"}
+{"cmd":"setblock -688 71 -140 spruce_leaves"}
+{"cmd":"setblock -688 71 -139 spruce_leaves"}
+{"cmd":"setblock -688 71 -138 spruce_leaves"}
+{"cmd":"setblock -652 71 -140 spruce_leaves"}
+{"cmd":"setblock -652 71 -139 spruce_leaves"}
+{"cmd":"setblock -689 71 -139 spruce_leaves"}
+{"cmd":"setblock -689 71 -138 spruce_leaves"}
+{"cmd":"fill -682 71 -137 -681 71 -136 spruce_leaves"}
+{"cmd":"setblock -680 71 -137 spruce_log[axis=y]"}
+{"cmd":"fill -679 71 -137 -678 71 -136 spruce_leaves"}
+{"cmd":"setblock -677 71 -137 sand"}
+{"cmd":"setblock -676 71 -137 gravel"}
+{"cmd":"setblock -675 71 -137 gravel"}
+{"cmd":"setblock -674 71 -137 gravel"}
+{"cmd":"setblock -673 71 -137 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -672 71 -137 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -671 71 -137 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -670 71 -137 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -669 71 -137 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -667 71 -137 -664 71 -136 spruce_leaves"}
+{"cmd":"fill -659 71 -137 -656 71 -136 spruce_leaves"}
+{"cmd":"setblock -680 71 -136 spruce_leaves"}
+{"cmd":"setblock -680 71 -135 spruce_leaves"}
+{"cmd":"setblock -675 71 -136 gravel"}
+{"cmd":"setblock -674 71 -136 sand"}
+{"cmd":"setblock -674 71 -135 sand"}
+{"cmd":"setblock -668 71 -136 spruce_leaves"}
+{"cmd":"setblock -668 71 -135 spruce_leaves"}
+{"cmd":"setblock -668 71 -134 spruce_leaves"}
+{"cmd":"setblock -655 71 -136 spruce_leaves"}
+{"cmd":"setblock -655 71 -135 spruce_leaves"}
+{"cmd":"setblock -655 71 -134 spruce_leaves"}
+{"cmd":"setblock -681 71 -135 spruce_leaves"}
+{"cmd":"setblock -679 71 -135 spruce_leaves"}
+{"cmd":"setblock -675 71 -135 sand"}
+{"cmd":"setblock -667 71 -135 spruce_leaves"}
+{"cmd":"setblock -667 71 -134 spruce_leaves"}
+{"cmd":"setblock -667 71 -133 spruce_leaves"}
+{"cmd":"setblock -666 71 -135 spruce_log[axis=y]"}
+{"cmd":"fill -665 71 -135 -664 71 -133 spruce_leaves"}
+{"cmd":"fill -659 71 -135 -658 71 -134 spruce_leaves"}
+{"cmd":"setblock -657 71 -135 spruce_log[axis=y]"}
+{"cmd":"setblock -656 71 -135 spruce_leaves"}
+{"cmd":"setblock -656 71 -134 spruce_leaves"}
+{"cmd":"setblock -656 71 -133 spruce_leaves"}
+{"cmd":"fill -690 71 -134 -690 74 -134 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -666 71 -134 spruce_leaves"}
+{"cmd":"setblock -666 71 -133 spruce_leaves"}
+{"cmd":"setblock -657 71 -134 spruce_leaves"}
+{"cmd":"setblock -657 71 -133 spruce_leaves"}
+{"cmd":"fill -652 71 -134 -652 75 -134 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -658 71 -133 spruce_leaves"}
+{"cmd":"fill -670 71 -131 -667 71 -130 spruce_leaves"}
+{"cmd":"setblock -666 71 -130 spruce_leaves"}
+{"cmd":"setblock -666 71 -129 spruce_leaves"}
+{"cmd":"setblock -666 71 -128 spruce_leaves"}
+{"cmd":"fill -670 71 -129 -669 71 -127 spruce_leaves"}
+{"cmd":"setblock -668 71 -129 spruce_log[axis=y]"}
+{"cmd":"setblock -667 71 -129 spruce_leaves"}
+{"cmd":"setblock -667 71 -128 spruce_leaves"}
+{"cmd":"setblock -667 71 -127 spruce_leaves"}
+{"cmd":"setblock -668 71 -128 spruce_leaves"}
+{"cmd":"setblock -668 71 -127 spruce_leaves"}
+{"cmd":"fill -660 71 -128 -660 75 -128 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -658 71 -126 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -657 71 -126 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -656 71 -126 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -655 71 -126 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -654 71 -126 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -668 71 -125 -668 76 -125 cyan_shulker_box[facing=up]"}
+{"cmd":"fill -665 71 -125 -663 71 -124 spruce_leaves"}
+{"cmd":"fill -662 71 -125 -650 71 -123 oak_planks"}
+{"cmd":"setblock -666 71 -124 spruce_leaves"}
+{"cmd":"setblock -666 71 -123 spruce_leaves"}
+{"cmd":"setblock -666 71 -122 spruce_leaves"}
+{"cmd":"setblock -665 71 -123 spruce_leaves"}
+{"cmd":"setblock -665 71 -122 spruce_leaves"}
+{"cmd":"setblock -665 71 -121 spruce_leaves"}
+{"cmd":"setblock -664 71 -123 spruce_log[axis=y]"}
+{"cmd":"setblock -663 71 -123 spruce_leaves"}
+{"cmd":"setblock -663 71 -122 spruce_leaves"}
+{"cmd":"setblock -664 71 -122 spruce_leaves"}
+{"cmd":"setblock -664 71 -121 spruce_leaves"}
+{"cmd":"fill -662 71 -122 -660 71 -113 oak_planks"}
+{"cmd":"fill -659 71 -122 -659 75 -122 oak_log[axis=y]"}
+{"cmd":"fill -658 71 -122 -654 71 -122 oak_planks"}
+{"cmd":"fill -653 71 -122 -653 75 -122 oak_log[axis=y]"}
+{"cmd":"fill -652 71 -122 -650 71 -113 oak_planks"}
+{"cmd":"setblock -663 71 -121 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -659 71 -121 -659 71 -117 oak_planks"}
+{"cmd":"fill -658 71 -121 -654 71 -121 sand"}
+{"cmd":"fill -653 71 -121 -653 71 -117 oak_planks"}
+{"cmd":"setblock -649 71 -121 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -663 71 -120 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -663 71 -119 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -663 71 -118 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -658 71 -120 -658 71 -117 sand"}
+{"cmd":"setblock -657 71 -120 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 71 -120 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 71 -120 oak_slab[type=bottom]"}
+{"cmd":"fill -654 71 -120 -654 71 -117 sand"}
+{"cmd":"setblock -649 71 -120 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -649 71 -119 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -649 71 -118 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -657 71 -119 oak_slab[type=bottom]"}
+{"cmd":"setblock -657 71 -118 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 71 -119 oak_log[axis=y]"}
+{"cmd":"setblock -655 71 -119 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 71 -118 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 71 -118 oak_slab[type=bottom]"}
+{"cmd":"setblock -663 71 -117 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -657 71 -117 sand"}
+{"cmd":"setblock -656 71 -117 sand"}
+{"cmd":"setblock -655 71 -117 sand"}
+{"cmd":"setblock -649 71 -117 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -659 71 -116 -659 75 -116 oak_log[axis=y]"}
+{"cmd":"fill -658 71 -116 -654 71 -113 oak_planks"}
+{"cmd":"fill -653 71 -116 -653 75 -116 oak_log[axis=y]"}
+{"cmd":"setblock -659 71 -115 oak_planks"}
+{"cmd":"setblock -659 71 -114 oak_planks"}
+{"cmd":"setblock -659 71 -113 oak_planks"}
+{"cmd":"setblock -653 71 -115 oak_planks"}
+{"cmd":"setblock -653 71 -114 oak_planks"}
+{"cmd":"setblock -653 71 -113 oak_planks"}
+{"cmd":"fill -666 71 -113 -666 75 -113 cyan_shulker_box[facing=up]"}
+{"cmd":"setblock -658 71 -112 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -657 71 -112 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -656 71 -112 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -655 71 -112 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -654 71 -112 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -684 72 -173 -682 72 -172 spruce_leaves"}
+{"cmd":"fill -677 72 -173 -675 72 -172 spruce_leaves"}
+{"cmd":"fill -665 72 -173 -664 72 -172 spruce_leaves"}
+{"cmd":"fill -659 72 -173 -658 72 -172 spruce_leaves"}
+{"cmd":"setblock -666 72 -172 spruce_leaves"}
+{"cmd":"setblock -666 72 -171 spruce_leaves"}
+{"cmd":"setblock -657 72 -172 spruce_leaves"}
+{"cmd":"setblock -657 72 -171 spruce_leaves"}
+{"cmd":"setblock -683 72 -171 spruce_leaves"}
+{"cmd":"setblock -676 72 -171 spruce_leaves"}
+{"cmd":"setblock -675 72 -171 spruce_leaves"}
+{"cmd":"setblock -665 72 -171 spruce_leaves"}
+{"cmd":"setblock -658 72 -171 spruce_leaves"}
+{"cmd":"fill -690 72 -168 -689 72 -166 spruce_leaves"}
+{"cmd":"fill -686 72 -168 -673 72 -162 oak_planks"}
+{"cmd":"setblock -672 72 -168 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -671 72 -168 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -670 72 -168 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -669 72 -168 -656 72 -165 oak_planks"}
+{"cmd":"setblock -691 72 -167 spruce_leaves"}
+{"cmd":"setblock -691 72 -166 spruce_leaves"}
+{"cmd":"fill -672 72 -167 -670 72 -158 oak_planks"}
+{"cmd":"fill -652 72 -165 -651 72 -163 spruce_leaves"}
+{"cmd":"fill -669 72 -164 -661 72 -158 oak_planks"}
+{"cmd":"setblock -660 72 -164 glowstone"}
+{"cmd":"fill -659 72 -164 -656 72 -155 oak_planks"}
+{"cmd":"setblock -653 72 -164 spruce_leaves"}
+{"cmd":"setblock -653 72 -163 spruce_leaves"}
+{"cmd":"fill -660 72 -163 -660 72 -143 oak_planks"}
+{"cmd":"fill -686 72 -161 -683 72 -155 oak_planks"}
+{"cmd":"setblock -682 72 -161 glowstone"}
+{"cmd":"fill -681 72 -161 -673 72 -158 oak_planks"}
+{"cmd":"setblock -690 72 -160 spruce_leaves"}
+{"cmd":"setblock -690 72 -159 spruce_leaves"}
+{"cmd":"setblock -690 72 -158 spruce_leaves"}
+{"cmd":"fill -682 72 -160 -682 72 -143 oak_planks"}
+{"cmd":"setblock -691 72 -159 spruce_leaves"}
+{"cmd":"setblock -689 72 -159 spruce_leaves"}
+{"cmd":"fill -654 72 -158 -653 72 -157 spruce_leaves"}
+{"cmd":"fill -681 72 -157 -676 72 -138 oak_planks"}
+{"cmd":"fill -675 72 -157 -667 72 -149 sand"}
+{"cmd":"fill -666 72 -157 -661 72 -138 oak_planks"}
+{"cmd":"setblock -652 72 -157 spruce_leaves"}
+{"cmd":"setblock -654 72 -156 spruce_leaves"}
+{"cmd":"setblock -686 72 -154 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -686 72 -153 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -686 72 -152 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -685 72 -154 -683 72 -138 oak_planks"}
+{"cmd":"fill -659 72 -154 -657 72 -138 oak_planks"}
+{"cmd":"setblock -656 72 -154 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -656 72 -153 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -656 72 -152 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -649 72 -154 -649 73 -150 oak_leaves"}
+{"cmd":"fill -686 72 -151 -686 72 -138 oak_planks"}
+{"cmd":"fill -656 72 -151 -656 72 -138 oak_planks"}
+{"cmd":"fill -675 72 -148 -667 72 -139 oak_planks"}
+{"cmd":"fill -652 72 -148 -650 72 -147 spruce_leaves"}
+{"cmd":"fill -691 72 -147 -690 72 -145 spruce_leaves"}
+{"cmd":"setblock -689 72 -146 spruce_leaves"}
+{"cmd":"setblock -689 72 -145 spruce_leaves"}
+{"cmd":"setblock -651 72 -146 spruce_leaves"}
+{"cmd":"setblock -682 72 -142 glowstone"}
+{"cmd":"setblock -660 72 -142 glowstone"}
+{"cmd":"setblock -652 72 -142 spruce_leaves"}
+{"cmd":"setblock -652 72 -141 spruce_leaves"}
+{"cmd":"setblock -652 72 -140 spruce_leaves"}
+{"cmd":"fill -690 72 -141 -688 72 -140 spruce_leaves"}
+{"cmd":"fill -682 72 -141 -682 72 -138 oak_planks"}
+{"cmd":"fill -660 72 -141 -660 72 -138 oak_planks"}
+{"cmd":"setblock -653 72 -141 spruce_leaves"}
+{"cmd":"setblock -653 72 -140 spruce_leaves"}
+{"cmd":"setblock -651 72 -141 spruce_leaves"}
+{"cmd":"setblock -689 72 -139 spruce_leaves"}
+{"cmd":"setblock -688 72 -139 spruce_leaves"}
+{"cmd":"setblock -675 72 -138 oak_planks"}
+{"cmd":"setblock -674 72 -138 oak_planks"}
+{"cmd":"setblock -673 72 -138 oak_planks"}
+{"cmd":"setblock -672 72 -138 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -671 72 -138 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -670 72 -138 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -669 72 -138 oak_planks"}
+{"cmd":"setblock -668 72 -138 oak_planks"}
+{"cmd":"setblock -667 72 -138 oak_planks"}
+{"cmd":"setblock -681 72 -137 spruce_leaves"}
+{"cmd":"setblock -680 72 -137 spruce_leaves"}
+{"cmd":"setblock -679 72 -137 spruce_leaves"}
+{"cmd":"setblock -675 72 -137 sand"}
+{"cmd":"setblock -674 72 -137 gravel"}
+{"cmd":"setblock -680 72 -136 spruce_leaves"}
+{"cmd":"setblock -679 72 -136 spruce_leaves"}
+{"cmd":"setblock -674 72 -136 sand"}
+{"cmd":"fill -667 72 -136 -666 72 -134 spruce_leaves"}
+{"cmd":"fill -658 72 -136 -657 72 -135 spruce_leaves"}
+{"cmd":"setblock -665 72 -135 spruce_leaves"}
+{"cmd":"setblock -665 72 -134 spruce_leaves"}
+{"cmd":"setblock -656 72 -135 spruce_leaves"}
+{"cmd":"setblock -657 72 -134 spruce_leaves"}
+{"cmd":"setblock -668 72 -130 spruce_leaves"}
+{"cmd":"setblock -668 72 -129 spruce_leaves"}
+{"cmd":"setblock -668 72 -128 spruce_leaves"}
+{"cmd":"setblock -669 72 -129 spruce_leaves"}
+{"cmd":"setblock -669 72 -128 spruce_leaves"}
+{"cmd":"setblock -667 72 -129 spruce_leaves"}
+{"cmd":"fill -662 72 -125 -658 72 -125 oak_fence"}
+{"cmd":"fill -654 72 -125 -650 72 -125 oak_fence"}
+{"cmd":"fill -665 72 -124 -664 72 -122 spruce_leaves"}
+{"cmd":"fill -662 72 -124 -662 72 -121 oak_fence"}
+{"cmd":"fill -650 72 -124 -650 72 -121 oak_fence"}
+{"cmd":"setblock -663 72 -123 spruce_leaves"}
+{"cmd":"fill -658 72 -122 -654 74 -122 white_terracotta"}
+{"cmd":"fill -659 72 -121 -659 74 -120 white_terracotta"}
+{"cmd":"fill -653 72 -121 -653 74 -117 white_terracotta"}
+{"cmd":"fill -659 72 -118 -659 74 -117 white_terracotta"}
+{"cmd":"fill -662 72 -117 -662 72 -113 oak_fence"}
+{"cmd":"fill -650 72 -117 -650 72 -113 oak_fence"}
+{"cmd":"fill -658 72 -116 -654 74 -116 white_terracotta"}
+{"cmd":"fill -661 72 -113 -658 72 -113 oak_fence"}
+{"cmd":"fill -654 72 -113 -651 72 -113 oak_fence"}
+{"cmd":"setblock -676 73 -172 spruce_leaves"}
+{"cmd":"fill -686 73 -168 -673 73 -168 oak_fence"}
+{"cmd":"fill -669 73 -168 -656 73 -168 oak_fence"}
+{"cmd":"fill -686 73 -167 -686 73 -155 oak_fence"}
+{"cmd":"fill -656 73 -167 -656 73 -155 oak_fence"}
+{"cmd":"fill -683 73 -165 -683 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -682 73 -165 -679 73 -165 oak_log[axis=x]"}
+{"cmd":"fill -678 73 -165 -678 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -677 73 -165 -674 73 -165 oak_log[axis=x]"}
+{"cmd":"fill -673 73 -165 -673 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -669 73 -165 -669 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -668 73 -165 -665 73 -165 oak_log[axis=x]"}
+{"cmd":"fill -664 73 -165 -664 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -663 73 -165 -660 73 -165 oak_log[axis=x]"}
+{"cmd":"fill -659 73 -165 -659 76 -165 oak_log[axis=y]"}
+{"cmd":"fill -683 73 -164 -683 73 -161 oak_log[axis=z]"}
+{"cmd":"setblock -680 73 -164 glowstone"}
+{"cmd":"setblock -677 73 -164 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -677 73 -163 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -659 73 -164 -659 73 -161 oak_log[axis=z]"}
+{"cmd":"setblock -682 73 -163 glowstone"}
+{"cmd":"fill -680 73 -163 -680 74 -162 oak_log[axis=y]"}
+{"cmd":"setblock -679 73 -163 oak_log[axis=x]"}
+{"cmd":"setblock -678 73 -163 oak_log[axis=x]"}
+{"cmd":"setblock -682 73 -162 oak_log[axis=x]"}
+{"cmd":"setblock -681 73 -162 oak_log[axis=x]"}
+{"cmd":"fill -679 73 -162 -677 74 -162 oak_fence"}
+{"cmd":"fill -683 73 -160 -683 76 -160 oak_log[axis=y]"}
+{"cmd":"fill -659 73 -160 -659 76 -160 oak_log[axis=y]"}
+{"cmd":"setblock -690 73 -159 spruce_leaves"}
+{"cmd":"fill -683 73 -159 -683 73 -156 oak_log[axis=z]"}
+{"cmd":"fill -659 73 -159 -659 73 -156 oak_log[axis=z]"}
+{"cmd":"fill -649 73 -158 -649 76 -158 oak_leaves"}
+{"cmd":"fill -683 73 -155 -683 76 -155 oak_log[axis=y]"}
+{"cmd":"fill -659 73 -155 -659 76 -155 oak_log[axis=y]"}
+{"cmd":"fill -686 73 -151 -686 73 -138 oak_fence"}
+{"cmd":"fill -683 73 -151 -683 76 -151 oak_log[axis=y]"}
+{"cmd":"fill -659 73 -151 -659 76 -151 oak_log[axis=y]"}
+{"cmd":"fill -656 73 -151 -656 73 -138 oak_fence"}
+{"cmd":"fill -683 73 -150 -683 73 -147 oak_log[axis=z]"}
+{"cmd":"fill -659 73 -150 -659 73 -147 oak_log[axis=z]"}
+{"cmd":"setblock -651 73 -147 spruce_leaves"}
+{"cmd":"fill -683 73 -146 -683 76 -146 oak_log[axis=y]"}
+{"cmd":"fill -659 73 -146 -659 76 -146 oak_log[axis=y]"}
+{"cmd":"fill -683 73 -145 -683 73 -142 oak_log[axis=z]"}
+{"cmd":"fill -659 73 -145 -659 73 -142 oak_log[axis=z]"}
+{"cmd":"fill -683 73 -141 -683 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -682 73 -141 -679 73 -141 oak_log[axis=x]"}
+{"cmd":"fill -678 73 -141 -678 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -677 73 -141 -674 73 -141 oak_log[axis=x]"}
+{"cmd":"fill -673 73 -141 -673 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -669 73 -141 -669 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -668 73 -141 -665 73 -141 oak_log[axis=x]"}
+{"cmd":"fill -664 73 -141 -664 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -663 73 -141 -660 73 -141 oak_log[axis=x]"}
+{"cmd":"fill -659 73 -141 -659 76 -141 oak_log[axis=y]"}
+{"cmd":"fill -685 73 -138 -673 73 -138 oak_fence"}
+{"cmd":"fill -669 73 -138 -657 73 -138 oak_fence"}
+{"cmd":"setblock -657 73 -135 spruce_leaves"}
+{"cmd":"setblock -668 73 -129 spruce_leaves"}
+{"cmd":"setblock -658 73 -125 oak_fence"}
+{"cmd":"setblock -658 74 -125 oak_fence"}
+{"cmd":"setblock -654 73 -125 oak_fence"}
+{"cmd":"setblock -654 74 -125 oak_fence"}
+{"cmd":"setblock -662 73 -121 oak_fence"}
+{"cmd":"setblock -662 74 -121 oak_fence"}
+{"cmd":"setblock -650 73 -121 oak_fence"}
+{"cmd":"setblock -650 74 -121 oak_fence"}
+{"cmd":"setblock -662 73 -117 oak_fence"}
+{"cmd":"setblock -662 74 -117 oak_fence"}
+{"cmd":"setblock -650 73 -117 oak_fence"}
+{"cmd":"setblock -650 74 -117 oak_fence"}
+{"cmd":"setblock -658 73 -113 oak_fence"}
+{"cmd":"setblock -658 74 -113 oak_fence"}
+{"cmd":"setblock -654 73 -113 oak_fence"}
+{"cmd":"setblock -654 74 -113 oak_fence"}
+{"cmd":"setblock -649 74 -175 jungle_leaves"}
+{"cmd":"setblock -649 75 -175 jungle_leaves"}
+{"cmd":"setblock -686 74 -168 oak_fence"}
+{"cmd":"setblock -686 75 -168 oak_fence"}
+{"cmd":"setblock -686 76 -168 oak_fence"}
+{"cmd":"setblock -673 74 -168 oak_fence"}
+{"cmd":"setblock -673 75 -168 oak_fence"}
+{"cmd":"setblock -673 76 -168 oak_fence"}
+{"cmd":"setblock -669 74 -168 oak_fence"}
+{"cmd":"setblock -669 75 -168 oak_fence"}
+{"cmd":"setblock -669 76 -168 oak_fence"}
+{"cmd":"setblock -656 74 -168 oak_fence"}
+{"cmd":"setblock -656 75 -168 oak_fence"}
+{"cmd":"setblock -656 76 -168 oak_fence"}
+{"cmd":"fill -682 74 -166 -679 75 -166 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -677 74 -166 -674 75 -166 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -668 74 -166 -665 75 -166 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -663 74 -166 -660 75 -166 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -682 74 -165 -679 75 -165 white_terracotta"}
+{"cmd":"fill -677 74 -165 -674 75 -165 white_terracotta"}
+{"cmd":"fill -668 74 -165 -665 75 -165 white_terracotta"}
+{"cmd":"fill -663 74 -165 -660 75 -165 white_terracotta"}
+{"cmd":"fill -684 74 -164 -684 74 -161 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"fill -683 74 -164 -683 75 -161 white_terracotta"}
+{"cmd":"setblock -678 74 -164 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -678 74 -163 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -659 74 -164 -659 75 -161 white_terracotta"}
+{"cmd":"fill -658 74 -164 -658 75 -161 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -679 74 -163 oak_log[axis=x]"}
+{"cmd":"setblock -682 74 -162 white_terracotta"}
+{"cmd":"setblock -681 74 -162 white_terracotta"}
+{"cmd":"fill -684 74 -159 -684 75 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -683 74 -159 -683 75 -156 white_terracotta"}
+{"cmd":"fill -659 74 -159 -659 75 -156 white_terracotta"}
+{"cmd":"fill -658 74 -159 -658 75 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -649 74 -159 oak_leaves"}
+{"cmd":"setblock -649 75 -159 oak_leaves"}
+{"cmd":"setblock -649 74 -157 oak_leaves"}
+{"cmd":"setblock -686 74 -155 oak_fence"}
+{"cmd":"setblock -686 75 -155 oak_fence"}
+{"cmd":"setblock -686 76 -155 oak_fence"}
+{"cmd":"setblock -656 74 -155 oak_fence"}
+{"cmd":"setblock -656 75 -155 oak_fence"}
+{"cmd":"setblock -656 76 -155 oak_fence"}
+{"cmd":"setblock -649 74 -152 oak_leaves"}
+{"cmd":"setblock -649 75 -152 oak_leaves"}
+{"cmd":"setblock -686 74 -151 oak_fence"}
+{"cmd":"setblock -686 75 -151 oak_fence"}
+{"cmd":"setblock -686 76 -151 oak_fence"}
+{"cmd":"setblock -656 74 -151 oak_fence"}
+{"cmd":"setblock -656 75 -151 oak_fence"}
+{"cmd":"setblock -656 76 -151 oak_fence"}
+{"cmd":"fill -684 74 -150 -684 75 -147 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -683 74 -150 -683 75 -147 white_terracotta"}
+{"cmd":"fill -659 74 -150 -659 75 -147 white_terracotta"}
+{"cmd":"fill -658 74 -150 -658 75 -147 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"fill -684 74 -145 -684 74 -142 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"fill -683 74 -145 -683 75 -142 white_terracotta"}
+{"cmd":"fill -659 74 -145 -659 75 -142 white_terracotta"}
+{"cmd":"fill -658 74 -145 -658 75 -142 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"fill -682 74 -141 -679 75 -141 white_terracotta"}
+{"cmd":"fill -677 74 -141 -674 75 -141 white_terracotta"}
+{"cmd":"fill -668 74 -141 -665 75 -141 white_terracotta"}
+{"cmd":"fill -663 74 -141 -660 75 -141 white_terracotta"}
+{"cmd":"setblock -682 74 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -682 75 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -681 74 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -680 74 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -679 74 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -679 75 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"fill -677 74 -140 -676 75 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -675 74 -140 -674 75 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"fill -668 74 -140 -665 75 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -663 74 -140 -660 75 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -686 74 -138 oak_fence"}
+{"cmd":"setblock -686 75 -138 oak_fence"}
+{"cmd":"setblock -686 76 -138 oak_fence"}
+{"cmd":"setblock -673 74 -138 oak_fence"}
+{"cmd":"setblock -673 75 -138 oak_fence"}
+{"cmd":"setblock -673 76 -138 oak_fence"}
+{"cmd":"setblock -669 74 -138 oak_fence"}
+{"cmd":"setblock -669 75 -138 oak_fence"}
+{"cmd":"setblock -669 76 -138 oak_fence"}
+{"cmd":"setblock -656 74 -138 oak_fence"}
+{"cmd":"setblock -656 75 -138 oak_fence"}
+{"cmd":"setblock -656 76 -138 oak_fence"}
+{"cmd":"setblock -660 74 -125 oak_fence"}
+{"cmd":"setblock -659 74 -125 oak_fence"}
+{"cmd":"setblock -657 74 -125 oak_fence"}
+{"cmd":"setblock -656 74 -125 oak_fence"}
+{"cmd":"setblock -655 74 -125 oak_fence"}
+{"cmd":"setblock -653 74 -125 oak_fence"}
+{"cmd":"setblock -652 74 -125 oak_fence"}
+{"cmd":"setblock -661 74 -124 oak_fence"}
+{"cmd":"setblock -660 74 -124 oak_fence"}
+{"cmd":"setblock -652 74 -124 oak_fence"}
+{"cmd":"setblock -651 74 -124 oak_fence"}
+{"cmd":"setblock -662 74 -123 oak_fence"}
+{"cmd":"setblock -661 74 -123 oak_fence"}
+{"cmd":"setblock -651 74 -123 oak_fence"}
+{"cmd":"setblock -650 74 -123 oak_fence"}
+{"cmd":"setblock -662 74 -122 oak_fence"}
+{"cmd":"setblock -650 74 -122 oak_fence"}
+{"cmd":"setblock -662 74 -120 oak_fence"}
+{"cmd":"setblock -662 74 -119 oak_fence"}
+{"cmd":"setblock -662 74 -118 oak_fence"}
+{"cmd":"setblock -650 74 -120 oak_fence"}
+{"cmd":"setblock -650 74 -119 oak_fence"}
+{"cmd":"setblock -650 74 -118 oak_fence"}
+{"cmd":"setblock -659 74 -119 white_terracotta"}
+{"cmd":"setblock -662 74 -116 oak_fence"}
+{"cmd":"setblock -662 74 -115 oak_fence"}
+{"cmd":"setblock -650 74 -116 oak_fence"}
+{"cmd":"setblock -650 74 -115 oak_fence"}
+{"cmd":"setblock -661 74 -115 oak_fence"}
+{"cmd":"setblock -661 74 -114 oak_fence"}
+{"cmd":"setblock -651 74 -115 oak_fence"}
+{"cmd":"setblock -651 74 -114 oak_fence"}
+{"cmd":"setblock -660 74 -114 oak_fence"}
+{"cmd":"setblock -660 74 -113 oak_fence"}
+{"cmd":"setblock -652 74 -114 oak_fence"}
+{"cmd":"setblock -652 74 -113 oak_fence"}
+{"cmd":"setblock -659 74 -113 oak_fence"}
+{"cmd":"setblock -657 74 -113 oak_fence"}
+{"cmd":"setblock -656 74 -113 oak_fence"}
+{"cmd":"setblock -655 74 -113 oak_fence"}
+{"cmd":"setblock -653 74 -113 oak_fence"}
+{"cmd":"setblock -656 74 -110 purple_shulker_box[facing=down]"}
+{"cmd":"fill -684 75 -164 -684 75 -161 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -679 75 -164 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -679 75 -163 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -682 75 -162 oak_log[axis=x]"}
+{"cmd":"setblock -681 75 -162 oak_log[axis=x]"}
+{"cmd":"fill -680 75 -162 -680 78 -162 oak_log[axis=y]"}
+{"cmd":"setblock -679 75 -162 oak_fence"}
+{"cmd":"setblock -678 75 -162 oak_fence"}
+{"cmd":"fill -684 75 -145 -684 75 -142 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -681 75 -140 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -680 75 -140 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -661 75 -125 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -660 75 -125 -660 75 -113 oak_planks"}
+{"cmd":"fill -659 75 -125 -653 75 -125 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -652 75 -125 -652 75 -113 oak_planks"}
+{"cmd":"setblock -651 75 -125 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -662 75 -124 oak_stairs[facing=south,half=top]"}
+{"cmd":"fill -661 75 -124 -661 75 -114 oak_planks"}
+{"cmd":"fill -659 75 -124 -653 75 -123 oak_planks"}
+{"cmd":"fill -651 75 -124 -651 75 -114 oak_planks"}
+{"cmd":"setblock -650 75 -124 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -662 75 -123 oak_planks"}
+{"cmd":"setblock -650 75 -123 oak_planks"}
+{"cmd":"fill -662 75 -122 -662 75 -116 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -658 75 -122 -654 75 -122 oak_log[axis=y]"}
+{"cmd":"fill -650 75 -122 -650 75 -116 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -659 75 -121 -659 75 -117 oak_log[axis=y]"}
+{"cmd":"fill -658 75 -121 -654 75 -120 oak_planks"}
+{"cmd":"fill -653 75 -121 -653 75 -117 oak_log[axis=y]"}
+{"cmd":"fill -658 75 -119 -657 75 -117 oak_planks"}
+{"cmd":"setblock -656 75 -119 glowstone"}
+{"cmd":"fill -655 75 -119 -654 75 -117 oak_planks"}
+{"cmd":"setblock -656 75 -118 oak_planks"}
+{"cmd":"setblock -656 75 -117 oak_planks"}
+{"cmd":"fill -658 75 -116 -654 75 -116 oak_log[axis=y]"}
+{"cmd":"setblock -662 75 -115 oak_planks"}
+{"cmd":"fill -659 75 -115 -653 75 -114 oak_planks"}
+{"cmd":"setblock -650 75 -115 oak_planks"}
+{"cmd":"setblock -662 75 -114 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -650 75 -114 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -661 75 -113 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -659 75 -113 -653 75 -113 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -651 75 -113 oak_stairs[facing=west,half=top]"}
+{"cmd":"fill -685 76 -168 -674 76 -168 oak_fence"}
+{"cmd":"setblock -672 76 -168 oak_fence"}
+{"cmd":"setblock -671 76 -168 oak_fence"}
+{"cmd":"setblock -670 76 -168 oak_fence"}
+{"cmd":"fill -668 76 -168 -657 76 -168 oak_fence"}
+{"cmd":"fill -686 76 -167 -686 76 -156 oak_fence"}
+{"cmd":"fill -656 76 -167 -656 76 -162 oak_fence"}
+{"cmd":"fill -682 76 -165 -679 76 -165 oak_log[axis=x]"}
+{"cmd":"fill -677 76 -165 -674 76 -165 oak_log[axis=x]"}
+{"cmd":"setblock -672 76 -165 oak_log[axis=x]"}
+{"cmd":"setblock -671 76 -165 oak_log[axis=x]"}
+{"cmd":"setblock -670 76 -165 oak_log[axis=x]"}
+{"cmd":"fill -668 76 -165 -665 76 -165 oak_log[axis=x]"}
+{"cmd":"fill -663 76 -165 -660 76 -165 oak_log[axis=x]"}
+{"cmd":"fill -683 76 -164 -683 76 -161 oak_log[axis=z]"}
+{"cmd":"fill -682 76 -164 -681 76 -160 oak_planks"}
+{"cmd":"setblock -680 76 -164 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -680 76 -163 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -659 76 -164 -659 76 -161 oak_log[axis=z]"}
+{"cmd":"setblock -679 76 -162 oak_fence"}
+{"cmd":"fill -680 76 -161 -679 76 -160 oak_planks"}
+{"cmd":"fill -656 76 -160 -656 76 -156 oak_fence"}
+{"cmd":"fill -683 76 -159 -683 76 -156 oak_log[axis=z]"}
+{"cmd":"fill -659 76 -159 -659 76 -156 oak_log[axis=z]"}
+{"cmd":"setblock -686 76 -154 oak_fence"}
+{"cmd":"setblock -686 76 -153 oak_fence"}
+{"cmd":"setblock -686 76 -152 oak_fence"}
+{"cmd":"setblock -683 76 -154 oak_log[axis=z]"}
+{"cmd":"setblock -683 76 -153 oak_log[axis=z]"}
+{"cmd":"setblock -683 76 -152 oak_log[axis=z]"}
+{"cmd":"setblock -659 76 -154 oak_log[axis=z]"}
+{"cmd":"setblock -659 76 -153 oak_log[axis=z]"}
+{"cmd":"setblock -659 76 -152 oak_log[axis=z]"}
+{"cmd":"setblock -656 76 -154 oak_fence"}
+{"cmd":"setblock -656 76 -153 oak_fence"}
+{"cmd":"setblock -656 76 -152 oak_fence"}
+{"cmd":"fill -686 76 -150 -686 76 -139 oak_fence"}
+{"cmd":"fill -683 76 -150 -683 76 -147 oak_log[axis=z]"}
+{"cmd":"fill -659 76 -150 -659 76 -147 oak_log[axis=z]"}
+{"cmd":"fill -656 76 -150 -656 76 -139 oak_fence"}
+{"cmd":"fill -683 76 -145 -683 76 -142 oak_log[axis=z]"}
+{"cmd":"fill -659 76 -145 -659 76 -142 oak_log[axis=z]"}
+{"cmd":"fill -682 76 -141 -679 76 -141 oak_log[axis=x]"}
+{"cmd":"fill -677 76 -141 -674 76 -141 oak_log[axis=x]"}
+{"cmd":"setblock -672 76 -141 oak_log[axis=x]"}
+{"cmd":"setblock -671 76 -141 oak_log[axis=x]"}
+{"cmd":"setblock -670 76 -141 oak_log[axis=x]"}
+{"cmd":"fill -668 76 -141 -665 76 -141 oak_log[axis=x]"}
+{"cmd":"fill -663 76 -141 -660 76 -141 oak_log[axis=x]"}
+{"cmd":"fill -685 76 -138 -674 76 -138 oak_fence"}
+{"cmd":"setblock -672 76 -138 oak_fence"}
+{"cmd":"setblock -671 76 -138 oak_fence"}
+{"cmd":"setblock -670 76 -138 oak_fence"}
+{"cmd":"fill -668 76 -138 -657 76 -138 oak_fence"}
+{"cmd":"setblock -662 76 -125 oak_slab[type=top]"}
+{"cmd":"setblock -661 76 -125 oak_slab[type=bottom]"}
+{"cmd":"setblock -651 76 -125 oak_slab[type=bottom]"}
+{"cmd":"setblock -650 76 -125 oak_slab[type=top]"}
+{"cmd":"setblock -662 76 -124 oak_slab[type=bottom]"}
+{"cmd":"fill -659 76 -124 -653 76 -124 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -650 76 -124 oak_slab[type=bottom]"}
+{"cmd":"fill -659 76 -123 -653 76 -123 oak_planks"}
+{"cmd":"fill -661 76 -122 -661 76 -116 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -660 76 -122 -660 76 -116 oak_planks"}
+{"cmd":"setblock -659 76 -122 glowstone"}
+{"cmd":"setblock -654 76 -122 glowstone"}
+{"cmd":"fill -652 76 -122 -652 76 -116 oak_planks"}
+{"cmd":"fill -651 76 -122 -651 76 -116 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -659 76 -116 glowstone"}
+{"cmd":"setblock -653 76 -116 glowstone"}
+{"cmd":"fill -659 76 -115 -653 76 -115 oak_planks"}
+{"cmd":"setblock -662 76 -114 oak_slab[type=bottom]"}
+{"cmd":"fill -659 76 -114 -653 76 -114 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -650 76 -114 oak_slab[type=bottom]"}
+{"cmd":"setblock -662 76 -113 oak_slab[type=top]"}
+{"cmd":"setblock -661 76 -113 oak_slab[type=bottom]"}
+{"cmd":"setblock -651 76 -113 oak_slab[type=bottom]"}
+{"cmd":"setblock -650 76 -113 oak_slab[type=top]"}
+{"cmd":"fill -686 77 -169 -685 77 -168 oak_planks"}
+{"cmd":"fill -684 77 -169 -658 77 -169 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -657 77 -169 -656 77 -168 oak_planks"}
+{"cmd":"setblock -687 77 -168 oak_planks"}
+{"cmd":"setblock -687 77 -167 oak_planks"}
+{"cmd":"fill -684 77 -168 -658 77 -166 oak_planks"}
+{"cmd":"setblock -655 77 -168 oak_planks"}
+{"cmd":"setblock -655 77 -167 oak_planks"}
+{"cmd":"fill -686 77 -167 -686 77 -137 oak_planks"}
+{"cmd":"setblock -685 77 -167 glowstone"}
+{"cmd":"setblock -657 77 -167 glowstone"}
+{"cmd":"fill -656 77 -167 -656 77 -137 oak_planks"}
+{"cmd":"fill -687 77 -166 -687 77 -140 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -685 77 -166 -685 78 -140 oak_planks"}
+{"cmd":"fill -657 77 -166 -657 78 -142 oak_planks"}
+{"cmd":"fill -655 77 -166 -655 77 -140 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -684 77 -165 -684 77 -138 oak_planks"}
+{"cmd":"setblock -671 77 -165 glowstone"}
+{"cmd":"fill -658 77 -165 -658 77 -138 oak_planks"}
+{"cmd":"setblock -679 77 -161 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -679 77 -160 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -683 77 -153 glowstone"}
+{"cmd":"setblock -659 77 -153 glowstone"}
+{"cmd":"setblock -671 77 -141 glowstone"}
+{"cmd":"setblock -657 77 -141 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -683 77 -140 -659 77 -138 oak_planks"}
+{"cmd":"setblock -657 77 -140 oak_planks"}
+{"cmd":"setblock -657 78 -140 oak_planks"}
+{"cmd":"setblock -687 77 -139 oak_planks"}
+{"cmd":"setblock -687 77 -138 oak_planks"}
+{"cmd":"setblock -685 77 -139 glowstone"}
+{"cmd":"setblock -657 77 -139 glowstone"}
+{"cmd":"setblock -655 77 -139 oak_planks"}
+{"cmd":"setblock -655 77 -138 oak_planks"}
+{"cmd":"setblock -685 77 -138 oak_planks"}
+{"cmd":"setblock -685 77 -137 oak_planks"}
+{"cmd":"setblock -657 77 -138 oak_planks"}
+{"cmd":"setblock -657 77 -137 oak_planks"}
+{"cmd":"fill -684 77 -137 -658 77 -137 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -659 77 -123 -653 77 -123 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -660 77 -122 -660 77 -116 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -659 77 -122 -653 77 -120 oak_planks"}
+{"cmd":"fill -652 77 -122 -652 77 -116 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -659 77 -119 -657 77 -116 oak_planks"}
+{"cmd":"setblock -656 77 -119 glowstone"}
+{"cmd":"fill -655 77 -119 -653 77 -116 oak_planks"}
+{"cmd":"setblock -656 77 -118 oak_planks"}
+{"cmd":"setblock -656 77 -117 oak_planks"}
+{"cmd":"setblock -656 77 -116 oak_planks"}
+{"cmd":"fill -659 77 -115 -653 77 -115 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -687 78 -169 oak_slab[type=top]"}
+{"cmd":"setblock -686 78 -169 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 78 -169 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 78 -169 oak_slab[type=top]"}
+{"cmd":"setblock -687 78 -168 oak_slab[type=bottom]"}
+{"cmd":"setblock -685 78 -168 oak_slab[type=bottom]"}
+{"cmd":"fill -684 78 -168 -658 78 -168 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -657 78 -168 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 78 -168 oak_slab[type=bottom]"}
+{"cmd":"setblock -686 78 -167 oak_slab[type=bottom]"}
+{"cmd":"fill -684 78 -167 -658 78 -167 oak_planks"}
+{"cmd":"setblock -656 78 -167 oak_slab[type=bottom]"}
+{"cmd":"fill -686 78 -166 -686 78 -140 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -684 78 -166 glowstone"}
+{"cmd":"setblock -683 78 -166 oak_planks"}
+{"cmd":"setblock -683 79 -166 oak_planks"}
+{"cmd":"setblock -682 78 -166 glowstone"}
+{"cmd":"fill -681 78 -166 -661 79 -166 oak_planks"}
+{"cmd":"setblock -660 78 -166 glowstone"}
+{"cmd":"setblock -659 78 -166 oak_planks"}
+{"cmd":"setblock -659 79 -166 oak_planks"}
+{"cmd":"setblock -658 78 -166 glowstone"}
+{"cmd":"fill -656 78 -166 -656 78 -140 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -684 78 -165 oak_planks"}
+{"cmd":"setblock -684 79 -165 oak_planks"}
+{"cmd":"setblock -658 78 -165 oak_planks"}
+{"cmd":"setblock -658 79 -165 oak_planks"}
+{"cmd":"setblock -684 78 -164 glowstone"}
+{"cmd":"setblock -658 78 -164 glowstone"}
+{"cmd":"fill -684 78 -163 -684 79 -143 oak_planks"}
+{"cmd":"fill -658 78 -163 -658 79 -143 oak_planks"}
+{"cmd":"setblock -678 78 -161 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -678 78 -160 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -682 78 -159 -679 78 -159 oak_fence"}
+{"cmd":"setblock -684 78 -142 glowstone"}
+{"cmd":"setblock -658 78 -142 glowstone"}
+{"cmd":"setblock -684 78 -141 oak_planks"}
+{"cmd":"setblock -684 79 -141 oak_planks"}
+{"cmd":"setblock -658 78 -141 oak_planks"}
+{"cmd":"setblock -657 78 -141 oak_planks"}
+{"cmd":"setblock -684 78 -140 glowstone"}
+{"cmd":"setblock -683 78 -140 oak_planks"}
+{"cmd":"setblock -683 78 -139 oak_planks"}
+{"cmd":"setblock -682 78 -140 glowstone"}
+{"cmd":"fill -681 78 -140 -661 78 -139 oak_planks"}
+{"cmd":"setblock -660 78 -140 glowstone"}
+{"cmd":"setblock -659 78 -140 oak_planks"}
+{"cmd":"setblock -659 78 -139 oak_planks"}
+{"cmd":"setblock -658 78 -140 glowstone"}
+{"cmd":"setblock -686 78 -139 oak_slab[type=bottom]"}
+{"cmd":"setblock -684 78 -139 oak_planks"}
+{"cmd":"setblock -682 78 -139 oak_planks"}
+{"cmd":"setblock -660 78 -139 oak_planks"}
+{"cmd":"setblock -658 78 -139 oak_planks"}
+{"cmd":"setblock -656 78 -139 oak_slab[type=bottom]"}
+{"cmd":"setblock -687 78 -138 oak_slab[type=bottom]"}
+{"cmd":"setblock -685 78 -138 oak_slab[type=bottom]"}
+{"cmd":"fill -684 78 -138 -658 78 -138 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -657 78 -138 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 78 -138 oak_slab[type=bottom]"}
+{"cmd":"setblock -687 78 -137 oak_slab[type=top]"}
+{"cmd":"setblock -686 78 -137 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 78 -137 oak_slab[type=bottom]"}
+{"cmd":"setblock -655 78 -137 oak_slab[type=top]"}
+{"cmd":"setblock -658 78 -122 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -657 78 -122 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -656 78 -122 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -655 78 -122 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"setblock -654 78 -122 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"fill -659 78 -121 -659 78 -117 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -658 78 -121 -654 79 -121 oak_log[axis=y]"}
+{"cmd":"fill -653 78 -121 -653 78 -117 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"fill -658 78 -120 -658 79 -117 oak_log[axis=y]"}
+{"cmd":"fill -654 78 -120 -654 79 -117 oak_log[axis=y]"}
+{"cmd":"fill -657 78 -117 -655 79 -117 oak_log[axis=y]"}
+{"cmd":"fill -658 78 -116 -654 78 -116 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -684 79 -167 -658 79 -167 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -685 79 -166 -685 79 -140 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -684 79 -166 oak_planks"}
+{"cmd":"fill -682 79 -166 -682 79 -140 oak_planks"}
+{"cmd":"fill -660 79 -166 -660 79 -140 oak_planks"}
+{"cmd":"setblock -658 79 -166 oak_planks"}
+{"cmd":"fill -657 79 -166 -657 79 -140 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -683 79 -165 -683 79 -140 oak_planks"}
+{"cmd":"fill -681 79 -165 -661 80 -162 oak_planks"}
+{"cmd":"fill -659 79 -165 -659 79 -140 oak_planks"}
+{"cmd":"setblock -684 79 -164 oak_planks"}
+{"cmd":"setblock -658 79 -164 oak_planks"}
+{"cmd":"fill -681 79 -161 -681 79 -140 oak_planks"}
+{"cmd":"setblock -677 79 -161 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -677 79 -160 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -676 79 -161 -661 79 -154 oak_planks"}
+{"cmd":"fill -680 79 -159 -677 79 -140 oak_planks"}
+{"cmd":"fill -676 79 -153 -672 79 -140 oak_planks"}
+{"cmd":"setblock -671 79 -153 glowstone"}
+{"cmd":"fill -670 79 -153 -661 79 -140 oak_planks"}
+{"cmd":"fill -671 79 -152 -671 79 -140 oak_planks"}
+{"cmd":"setblock -684 79 -142 oak_planks"}
+{"cmd":"setblock -658 79 -142 oak_planks"}
+{"cmd":"setblock -658 79 -141 oak_planks"}
+{"cmd":"setblock -658 79 -140 oak_planks"}
+{"cmd":"setblock -684 79 -140 oak_planks"}
+{"cmd":"fill -684 79 -139 -658 79 -139 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -658 79 -123 -654 79 -123 oak_slab[type=bottom]"}
+{"cmd":"setblock -659 79 -122 oak_slab[type=bottom]"}
+{"cmd":"fill -658 79 -122 -654 79 -122 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -653 79 -122 oak_slab[type=bottom]"}
+{"cmd":"fill -660 79 -121 -660 79 -117 oak_slab[type=bottom]"}
+{"cmd":"fill -659 79 -121 -659 79 -117 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -653 79 -121 -653 79 -117 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -652 79 -121 -652 79 -117 oak_slab[type=bottom]"}
+{"cmd":"setblock -657 79 -120 glowstone"}
+{"cmd":"setblock -655 79 -120 glowstone"}
+{"cmd":"setblock -657 79 -118 glowstone"}
+{"cmd":"setblock -655 79 -118 glowstone"}
+{"cmd":"setblock -659 79 -116 oak_slab[type=bottom]"}
+{"cmd":"fill -658 79 -116 -654 79 -116 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -653 79 -116 oak_slab[type=bottom]"}
+{"cmd":"fill -658 79 -115 -654 79 -115 oak_slab[type=bottom]"}
+{"cmd":"fill -683 80 -166 -659 80 -166 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -684 80 -165 -684 80 -141 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -683 80 -165 -682 80 -141 oak_planks"}
+{"cmd":"fill -660 80 -165 -659 80 -141 oak_planks"}
+{"cmd":"fill -658 80 -165 -658 80 -141 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -681 80 -161 -680 80 -141 oak_planks"}
+{"cmd":"setblock -676 80 -161 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -676 80 -160 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -675 80 -161 -661 80 -145 oak_planks"}
+{"cmd":"fill -679 80 -159 -676 80 -141 oak_planks"}
+{"cmd":"fill -675 80 -144 -663 80 -141 oak_planks"}
+{"cmd":"setblock -662 80 -144 oak_log[axis=z]"}
+{"cmd":"fill -661 80 -144 -661 80 -141 oak_planks"}
+{"cmd":"setblock -662 80 -143 oak_planks"}
+{"cmd":"setblock -662 80 -142 oak_planks"}
+{"cmd":"setblock -662 80 -141 oak_planks"}
+{"cmd":"fill -683 80 -140 -659 80 -140 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -658 80 -121 oak_slab[type=bottom]"}
+{"cmd":"setblock -657 80 -121 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -656 80 -121 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -655 80 -121 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -654 80 -121 oak_slab[type=bottom]"}
+{"cmd":"setblock -658 80 -120 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -658 80 -119 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -658 80 -118 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -657 80 -120 -655 80 -118 oak_planks"}
+{"cmd":"setblock -654 80 -120 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -654 80 -119 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -654 80 -118 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -658 80 -117 oak_slab[type=bottom]"}
+{"cmd":"setblock -657 80 -117 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -656 80 -117 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -655 80 -117 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -654 80 -117 oak_slab[type=bottom]"}
+{"cmd":"fill -683 81 -165 -659 81 -165 oak_fence"}
+{"cmd":"fill -683 81 -164 -683 81 -141 oak_fence"}
+{"cmd":"fill -659 81 -164 -659 81 -141 oak_fence"}
+{"cmd":"fill -680 81 -162 -680 84 -162 oak_log[axis=y]"}
+{"cmd":"setblock -679 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -678 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -677 81 -162 oak_log[axis=x]"}
+{"cmd":"fill -676 81 -162 -676 84 -162 oak_log[axis=y]"}
+{"cmd":"setblock -675 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -674 81 -162 oak_log[axis=x]"}
+{"cmd":"fill -673 81 -162 -673 84 -162 oak_log[axis=y]"}
+{"cmd":"fill -669 81 -162 -669 84 -162 oak_log[axis=y]"}
+{"cmd":"setblock -668 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -667 81 -162 oak_log[axis=x]"}
+{"cmd":"fill -666 81 -162 -666 84 -162 oak_log[axis=y]"}
+{"cmd":"setblock -665 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -664 81 -162 oak_log[axis=x]"}
+{"cmd":"setblock -663 81 -162 oak_log[axis=x]"}
+{"cmd":"fill -662 81 -162 -662 84 -162 oak_log[axis=y]"}
+{"cmd":"setblock -680 81 -161 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -160 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -159 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -161 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -160 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -159 oak_log[axis=z]"}
+{"cmd":"fill -679 81 -159 -676 81 -159 oak_fence"}
+{"cmd":"fill -680 81 -158 -680 84 -158 oak_log[axis=y]"}
+{"cmd":"fill -662 81 -158 -662 84 -158 oak_log[axis=y]"}
+{"cmd":"setblock -680 81 -157 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -156 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -157 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -156 oak_log[axis=z]"}
+{"cmd":"setblock -681 81 -155 ladder[facing=undefined]"}
+{"cmd":"setblock -681 82 -155 ladder[facing=undefined]"}
+{"cmd":"setblock -681 83 -155 ladder[facing=undefined]"}
+{"cmd":"fill -680 81 -155 -680 84 -155 oak_log[axis=y]"}
+{"cmd":"fill -662 81 -155 -662 84 -155 oak_log[axis=y]"}
+{"cmd":"setblock -681 81 -151 ladder[facing=undefined]"}
+{"cmd":"setblock -681 82 -151 ladder[facing=undefined]"}
+{"cmd":"setblock -681 83 -151 ladder[facing=undefined]"}
+{"cmd":"fill -680 81 -151 -680 84 -151 oak_log[axis=y]"}
+{"cmd":"fill -662 81 -151 -662 84 -151 oak_log[axis=y]"}
+{"cmd":"setblock -680 81 -150 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -149 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -150 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -149 oak_log[axis=z]"}
+{"cmd":"fill -680 81 -148 -680 84 -148 oak_log[axis=y]"}
+{"cmd":"fill -662 81 -148 -662 84 -148 oak_log[axis=y]"}
+{"cmd":"setblock -680 81 -147 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -146 oak_log[axis=z]"}
+{"cmd":"setblock -680 81 -145 oak_log[axis=z]"}
+{"cmd":"fill -665 81 -147 -663 84 -147 oak_planks"}
+{"cmd":"setblock -662 81 -147 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -146 oak_log[axis=z]"}
+{"cmd":"setblock -662 81 -145 oak_log[axis=z]"}
+{"cmd":"setblock -668 81 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -668 81 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -667 81 -146 oak_planks"}
+{"cmd":"setblock -666 81 -146 oak_planks"}
+{"cmd":"setblock -665 81 -146 oak_planks"}
+{"cmd":"setblock -666 81 -145 glowstone"}
+{"cmd":"setblock -665 81 -145 oak_planks"}
+{"cmd":"setblock -665 82 -145 oak_planks"}
+{"cmd":"fill -680 81 -144 -680 84 -144 oak_log[axis=y]"}
+{"cmd":"setblock -679 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -678 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -677 81 -144 oak_log[axis=x]"}
+{"cmd":"fill -676 81 -144 -676 84 -144 oak_log[axis=y]"}
+{"cmd":"setblock -675 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -674 81 -144 oak_log[axis=x]"}
+{"cmd":"fill -673 81 -144 -673 84 -144 oak_log[axis=y]"}
+{"cmd":"fill -669 81 -144 -669 84 -144 oak_log[axis=y]"}
+{"cmd":"setblock -668 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -667 81 -144 oak_log[axis=x]"}
+{"cmd":"fill -666 81 -144 -666 84 -144 oak_log[axis=y]"}
+{"cmd":"setblock -665 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -664 81 -144 oak_log[axis=x]"}
+{"cmd":"setblock -663 81 -144 oak_log[axis=x]"}
+{"cmd":"fill -662 81 -144 -662 84 -144 oak_log[axis=y]"}
+{"cmd":"fill -682 81 -141 -660 81 -141 oak_fence"}
+{"cmd":"setblock -657 81 -120 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 81 -120 oak_slab[type=double]"}
+{"cmd":"setblock -655 81 -120 oak_slab[type=bottom]"}
+{"cmd":"setblock -657 81 -119 oak_slab[type=double]"}
+{"cmd":"setblock -656 81 -119 oak_slab[type=top]"}
+{"cmd":"setblock -655 81 -119 oak_slab[type=double]"}
+{"cmd":"setblock -657 81 -118 oak_slab[type=bottom]"}
+{"cmd":"setblock -656 81 -118 oak_slab[type=double]"}
+{"cmd":"setblock -655 81 -118 oak_slab[type=bottom]"}
+{"cmd":"setblock -683 82 -165 oak_fence"}
+{"cmd":"setblock -683 83 -165 oak_fence"}
+{"cmd":"setblock -683 84 -165 oak_fence"}
+{"cmd":"setblock -673 82 -165 oak_fence"}
+{"cmd":"setblock -673 83 -165 oak_fence"}
+{"cmd":"setblock -673 84 -165 oak_fence"}
+{"cmd":"setblock -669 82 -165 oak_fence"}
+{"cmd":"setblock -669 83 -165 oak_fence"}
+{"cmd":"setblock -669 84 -165 oak_fence"}
+{"cmd":"setblock -659 82 -165 oak_fence"}
+{"cmd":"setblock -659 83 -165 oak_fence"}
+{"cmd":"setblock -659 84 -165 oak_fence"}
+{"cmd":"fill -679 82 -163 -677 83 -163 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -675 82 -163 -674 83 -163 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -668 82 -163 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"setblock -668 83 -163 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"setblock -667 82 -163 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"fill -665 82 -163 -664 83 -163 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -663 82 -163 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"fill -679 82 -162 -677 83 -162 white_terracotta"}
+{"cmd":"fill -675 82 -162 -674 83 -162 white_terracotta"}
+{"cmd":"fill -668 82 -162 -667 83 -162 white_terracotta"}
+{"cmd":"fill -665 82 -162 -663 83 -162 white_terracotta"}
+{"cmd":"fill -681 82 -161 -681 83 -159 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -680 82 -161 -680 83 -159 white_terracotta"}
+{"cmd":"fill -662 82 -161 -662 83 -159 white_terracotta"}
+{"cmd":"fill -661 82 -161 -661 83 -159 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -683 82 -160 oak_fence"}
+{"cmd":"setblock -683 83 -160 oak_fence"}
+{"cmd":"setblock -683 84 -160 oak_fence"}
+{"cmd":"setblock -659 82 -160 oak_fence"}
+{"cmd":"setblock -659 83 -160 oak_fence"}
+{"cmd":"setblock -659 84 -160 oak_fence"}
+{"cmd":"setblock -681 82 -157 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -681 83 -157 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -680 82 -157 -680 83 -156 white_terracotta"}
+{"cmd":"fill -662 82 -157 -662 83 -156 white_terracotta"}
+{"cmd":"fill -661 82 -157 -661 83 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -681 82 -156 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"setblock -683 82 -155 oak_fence"}
+{"cmd":"setblock -683 83 -155 oak_fence"}
+{"cmd":"setblock -683 84 -155 oak_fence"}
+{"cmd":"setblock -659 82 -155 oak_fence"}
+{"cmd":"setblock -659 83 -155 oak_fence"}
+{"cmd":"setblock -659 84 -155 oak_fence"}
+{"cmd":"setblock -683 82 -151 oak_fence"}
+{"cmd":"setblock -683 83 -151 oak_fence"}
+{"cmd":"setblock -683 84 -151 oak_fence"}
+{"cmd":"setblock -659 82 -151 oak_fence"}
+{"cmd":"setblock -659 83 -151 oak_fence"}
+{"cmd":"setblock -659 84 -151 oak_fence"}
+{"cmd":"fill -681 82 -150 -681 83 -149 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -680 82 -150 -680 83 -149 white_terracotta"}
+{"cmd":"fill -662 82 -150 -662 83 -149 white_terracotta"}
+{"cmd":"setblock -661 82 -150 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -661 82 -149 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -661 83 -149 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"fill -681 82 -147 -681 83 -145 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -680 82 -147 -680 83 -145 white_terracotta"}
+{"cmd":"fill -662 82 -147 -662 83 -145 white_terracotta"}
+{"cmd":"setblock -661 82 -147 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -661 82 -146 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -661 82 -145 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -683 82 -146 oak_fence"}
+{"cmd":"setblock -683 83 -146 oak_fence"}
+{"cmd":"setblock -683 84 -146 oak_fence"}
+{"cmd":"setblock -667 82 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -667 82 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -666 82 -146 oak_planks"}
+{"cmd":"setblock -665 82 -146 oak_planks"}
+{"cmd":"setblock -659 82 -146 oak_fence"}
+{"cmd":"setblock -659 83 -146 oak_fence"}
+{"cmd":"setblock -659 84 -146 oak_fence"}
+{"cmd":"fill -679 82 -144 -677 83 -144 white_terracotta"}
+{"cmd":"fill -675 82 -144 -674 83 -144 white_terracotta"}
+{"cmd":"fill -668 82 -144 -667 83 -144 white_terracotta"}
+{"cmd":"fill -665 82 -144 -663 83 -144 white_terracotta"}
+{"cmd":"fill -679 82 -143 -677 83 -143 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -675 82 -143 -674 83 -143 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -668 82 -143 -667 83 -143 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -665 82 -143 -663 83 -143 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -683 82 -141 oak_fence"}
+{"cmd":"setblock -683 83 -141 oak_fence"}
+{"cmd":"setblock -683 84 -141 oak_fence"}
+{"cmd":"setblock -678 82 -141 oak_fence"}
+{"cmd":"setblock -678 83 -141 oak_fence"}
+{"cmd":"setblock -678 84 -141 oak_fence"}
+{"cmd":"setblock -673 82 -141 oak_fence"}
+{"cmd":"setblock -673 83 -141 oak_fence"}
+{"cmd":"setblock -673 84 -141 oak_fence"}
+{"cmd":"setblock -669 82 -141 oak_fence"}
+{"cmd":"setblock -669 83 -141 oak_fence"}
+{"cmd":"setblock -669 84 -141 oak_fence"}
+{"cmd":"setblock -664 82 -141 oak_fence"}
+{"cmd":"setblock -664 83 -141 oak_fence"}
+{"cmd":"setblock -664 84 -141 oak_fence"}
+{"cmd":"setblock -659 82 -141 oak_fence"}
+{"cmd":"setblock -659 83 -141 oak_fence"}
+{"cmd":"setblock -659 84 -141 oak_fence"}
+{"cmd":"setblock -667 83 -163 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"setblock -663 83 -163 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -681 83 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -661 83 -150 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -661 83 -147 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -661 83 -146 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -661 83 -145 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -666 83 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -666 83 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -682 84 -165 -674 84 -165 oak_fence"}
+{"cmd":"setblock -672 84 -165 oak_fence"}
+{"cmd":"setblock -671 84 -165 oak_fence"}
+{"cmd":"setblock -670 84 -165 oak_fence"}
+{"cmd":"fill -668 84 -165 -660 84 -165 oak_fence"}
+{"cmd":"fill -683 84 -164 -683 84 -161 oak_fence"}
+{"cmd":"fill -659 84 -164 -659 84 -161 oak_fence"}
+{"cmd":"setblock -679 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -678 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -677 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -675 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -674 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -672 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -671 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -670 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -668 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -667 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -665 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -664 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -663 84 -162 oak_log[axis=x]"}
+{"cmd":"setblock -680 84 -161 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -160 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -159 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -161 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -160 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -159 oak_log[axis=z]"}
+{"cmd":"fill -683 84 -159 -683 84 -156 oak_fence"}
+{"cmd":"fill -659 84 -159 -659 84 -156 oak_fence"}
+{"cmd":"setblock -680 84 -157 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -156 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -157 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -156 oak_log[axis=z]"}
+{"cmd":"setblock -683 84 -154 oak_fence"}
+{"cmd":"setblock -683 84 -153 oak_fence"}
+{"cmd":"setblock -683 84 -152 oak_fence"}
+{"cmd":"setblock -680 84 -154 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -153 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -152 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -154 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -153 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -152 oak_log[axis=z]"}
+{"cmd":"setblock -659 84 -154 oak_fence"}
+{"cmd":"setblock -659 84 -153 oak_fence"}
+{"cmd":"setblock -659 84 -152 oak_fence"}
+{"cmd":"fill -683 84 -150 -683 84 -147 oak_fence"}
+{"cmd":"setblock -680 84 -150 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -149 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -150 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -149 oak_log[axis=z]"}
+{"cmd":"fill -659 84 -150 -659 84 -147 oak_fence"}
+{"cmd":"setblock -680 84 -147 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -146 oak_log[axis=z]"}
+{"cmd":"setblock -680 84 -145 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -147 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -146 oak_log[axis=z]"}
+{"cmd":"setblock -662 84 -145 oak_log[axis=z]"}
+{"cmd":"setblock -665 84 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -665 84 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -664 84 -146 -663 84 -145 oak_planks"}
+{"cmd":"fill -683 84 -145 -683 84 -142 oak_fence"}
+{"cmd":"fill -659 84 -145 -659 84 -142 oak_fence"}
+{"cmd":"setblock -679 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -678 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -677 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -675 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -674 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -672 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -671 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -670 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -668 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -667 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -665 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -664 84 -144 oak_log[axis=x]"}
+{"cmd":"setblock -663 84 -144 oak_log[axis=x]"}
+{"cmd":"fill -682 84 -141 -679 84 -141 oak_fence"}
+{"cmd":"fill -677 84 -141 -674 84 -141 oak_fence"}
+{"cmd":"setblock -672 84 -141 oak_fence"}
+{"cmd":"setblock -671 84 -141 oak_fence"}
+{"cmd":"setblock -670 84 -141 oak_fence"}
+{"cmd":"fill -668 84 -141 -665 84 -141 oak_fence"}
+{"cmd":"fill -663 84 -141 -660 84 -141 oak_fence"}
+{"cmd":"setblock -683 85 -166 oak_stairs[facing=east,half=top]"}
+{"cmd":"setblock -682 85 -166 oak_planks"}
+{"cmd":"setblock -682 85 -165 oak_planks"}
+{"cmd":"fill -681 85 -166 -661 85 -166 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -660 85 -166 oak_planks"}
+{"cmd":"setblock -660 85 -165 oak_planks"}
+{"cmd":"setblock -659 85 -166 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -684 85 -165 oak_stairs[facing=south,half=top]"}
+{"cmd":"fill -683 85 -165 -683 85 -141 oak_planks"}
+{"cmd":"fill -681 85 -165 -661 85 -163 oak_planks"}
+{"cmd":"fill -659 85 -165 -659 85 -141 oak_planks"}
+{"cmd":"setblock -658 85 -165 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -684 85 -164 oak_planks"}
+{"cmd":"setblock -682 85 -164 glowstone"}
+{"cmd":"setblock -660 85 -164 glowstone"}
+{"cmd":"setblock -658 85 -164 oak_planks"}
+{"cmd":"fill -684 85 -163 -684 85 -143 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -682 85 -163 -682 86 -143 oak_planks"}
+{"cmd":"fill -660 85 -163 -660 86 -143 oak_planks"}
+{"cmd":"fill -658 85 -163 -658 85 -143 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -681 85 -162 -681 85 -141 oak_planks"}
+{"cmd":"setblock -671 85 -162 glowstone"}
+{"cmd":"fill -661 85 -162 -661 85 -141 oak_planks"}
+{"cmd":"setblock -680 85 -153 glowstone"}
+{"cmd":"setblock -662 85 -153 glowstone"}
+{"cmd":"fill -662 85 -148 -662 87 -147 oak_planks"}
+{"cmd":"setblock -665 85 -147 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -664 85 -147 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -663 85 -147 oak_planks"}
+{"cmd":"setblock -663 86 -147 oak_planks"}
+{"cmd":"setblock -663 87 -147 oak_planks"}
+{"cmd":"setblock -671 85 -144 glowstone"}
+{"cmd":"fill -680 85 -143 -662 85 -141 oak_planks"}
+{"cmd":"setblock -684 85 -142 oak_planks"}
+{"cmd":"setblock -682 85 -142 glowstone"}
+{"cmd":"setblock -660 85 -142 glowstone"}
+{"cmd":"setblock -658 85 -142 oak_planks"}
+{"cmd":"setblock -684 85 -141 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -682 85 -141 oak_planks"}
+{"cmd":"setblock -682 85 -140 oak_planks"}
+{"cmd":"setblock -660 85 -141 oak_planks"}
+{"cmd":"setblock -660 85 -140 oak_planks"}
+{"cmd":"setblock -658 85 -141 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -683 85 -140 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -681 85 -140 -661 85 -140 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -659 85 -140 oak_stairs[facing=west,half=top]"}
+{"cmd":"fill -650 85 -119 -649 95 -119 purple_shulker_box[facing=down]"}
+{"cmd":"fill -650 85 -118 -650 90 -118 purple_shulker_box[facing=down]"}
+{"cmd":"fill -649 85 -118 -649 93 -118 orange_glazed_terracotta[facing=south]"}
+{"cmd":"setblock -651 85 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 87 -117 purple_shulker_box[facing=down]"}
+{"cmd":"fill -649 85 -117 -649 90 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 85 -112 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 85 -112 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -684 86 -166 oak_slab[type=top]"}
+{"cmd":"setblock -683 86 -166 oak_slab[type=bottom]"}
+{"cmd":"setblock -659 86 -166 oak_slab[type=bottom]"}
+{"cmd":"setblock -658 86 -166 oak_slab[type=top]"}
+{"cmd":"setblock -684 86 -165 oak_slab[type=bottom]"}
+{"cmd":"setblock -682 86 -165 oak_slab[type=bottom]"}
+{"cmd":"fill -681 86 -165 -661 86 -165 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -660 86 -165 oak_slab[type=bottom]"}
+{"cmd":"setblock -658 86 -165 oak_slab[type=bottom]"}
+{"cmd":"setblock -683 86 -164 oak_slab[type=bottom]"}
+{"cmd":"fill -681 86 -164 -661 86 -164 oak_planks"}
+{"cmd":"setblock -659 86 -164 oak_slab[type=bottom]"}
+{"cmd":"fill -683 86 -163 -683 86 -143 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -681 86 -163 -680 87 -163 oak_planks"}
+{"cmd":"setblock -679 86 -163 glowstone"}
+{"cmd":"fill -678 86 -163 -664 87 -163 oak_planks"}
+{"cmd":"setblock -663 86 -163 glowstone"}
+{"cmd":"fill -662 86 -163 -661 87 -163 oak_planks"}
+{"cmd":"fill -659 86 -163 -659 86 -143 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -681 86 -162 oak_planks"}
+{"cmd":"setblock -681 87 -162 oak_planks"}
+{"cmd":"setblock -661 86 -162 oak_planks"}
+{"cmd":"setblock -661 87 -162 oak_planks"}
+{"cmd":"setblock -681 86 -161 glowstone"}
+{"cmd":"setblock -661 86 -161 glowstone"}
+{"cmd":"fill -681 86 -160 -681 87 -146 oak_planks"}
+{"cmd":"fill -661 86 -160 -661 87 -146 oak_planks"}
+{"cmd":"fill -666 86 -148 -666 89 -148 oak_planks"}
+{"cmd":"setblock -665 86 -148 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -664 86 -148 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -663 86 -148 oak_planks"}
+{"cmd":"setblock -663 87 -148 oak_planks"}
+{"cmd":"setblock -681 86 -145 glowstone"}
+{"cmd":"setblock -661 86 -145 glowstone"}
+{"cmd":"setblock -681 86 -144 oak_planks"}
+{"cmd":"setblock -681 86 -143 oak_planks"}
+{"cmd":"setblock -681 86 -142 oak_planks"}
+{"cmd":"setblock -661 86 -144 oak_planks"}
+{"cmd":"setblock -661 86 -143 oak_planks"}
+{"cmd":"setblock -661 86 -142 oak_planks"}
+{"cmd":"setblock -680 86 -143 oak_planks"}
+{"cmd":"setblock -680 86 -142 oak_planks"}
+{"cmd":"setblock -679 86 -143 glowstone"}
+{"cmd":"fill -678 86 -143 -664 86 -142 oak_planks"}
+{"cmd":"setblock -663 86 -143 glowstone"}
+{"cmd":"setblock -662 86 -143 oak_planks"}
+{"cmd":"setblock -662 86 -142 oak_planks"}
+{"cmd":"setblock -683 86 -142 oak_slab[type=bottom]"}
+{"cmd":"setblock -679 86 -142 oak_planks"}
+{"cmd":"setblock -663 86 -142 oak_planks"}
+{"cmd":"setblock -659 86 -142 oak_slab[type=bottom]"}
+{"cmd":"setblock -684 86 -141 oak_slab[type=bottom]"}
+{"cmd":"setblock -682 86 -141 oak_slab[type=bottom]"}
+{"cmd":"fill -681 86 -141 -661 86 -141 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -660 86 -141 oak_slab[type=bottom]"}
+{"cmd":"setblock -658 86 -141 oak_slab[type=bottom]"}
+{"cmd":"setblock -684 86 -140 oak_slab[type=top]"}
+{"cmd":"setblock -683 86 -140 oak_slab[type=bottom]"}
+{"cmd":"setblock -659 86 -140 oak_slab[type=bottom]"}
+{"cmd":"setblock -658 86 -140 oak_slab[type=top]"}
+{"cmd":"setblock -649 86 -122 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 86 -121 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 86 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 86 -121 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 86 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -119 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -652 86 -119 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -652 86 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -653 86 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 86 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 86 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 87 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 86 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 86 -115 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 86 -114 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 86 -112 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 87 -112 purple_shulker_box[facing=down]"}
+{"cmd":"fill -681 87 -164 -661 87 -164 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -682 87 -163 -682 87 -143 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -679 87 -163 -679 87 -143 oak_planks"}
+{"cmd":"fill -663 87 -163 -663 87 -150 oak_planks"}
+{"cmd":"fill -660 87 -163 -660 87 -143 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -680 87 -162 -680 87 -143 oak_planks"}
+{"cmd":"fill -678 87 -162 -664 87 -150 oak_planks"}
+{"cmd":"fill -662 87 -162 -662 87 -149 oak_planks"}
+{"cmd":"setblock -681 87 -161 oak_planks"}
+{"cmd":"setblock -661 87 -161 oak_planks"}
+{"cmd":"fill -678 87 -149 -666 87 -149 oak_planks"}
+{"cmd":"setblock -665 87 -149 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -664 87 -149 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -678 87 -148 -667 87 -143 oak_planks"}
+{"cmd":"fill -666 87 -147 -666 87 -143 oak_planks"}
+{"cmd":"fill -663 87 -146 -662 87 -143 oak_planks"}
+{"cmd":"setblock -681 87 -145 oak_planks"}
+{"cmd":"setblock -681 87 -144 oak_planks"}
+{"cmd":"setblock -681 87 -143 oak_planks"}
+{"cmd":"fill -665 87 -145 -664 87 -143 oak_planks"}
+{"cmd":"setblock -661 87 -145 oak_planks"}
+{"cmd":"setblock -661 87 -144 oak_planks"}
+{"cmd":"setblock -661 87 -143 oak_planks"}
+{"cmd":"fill -681 87 -142 -661 87 -142 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -649 87 -121 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 87 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 87 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 87 -119 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 87 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -652 87 -118 purple_shulker_box[facing=down]"}
+{"cmd":"fill -650 87 -117 -650 90 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 87 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 87 -115 purple_shulker_box[facing=down]"}
+{"cmd":"fill -681 88 -163 -661 88 -163 oak_fence"}
+{"cmd":"fill -681 88 -162 -681 88 -143 oak_fence"}
+{"cmd":"fill -661 88 -162 -661 88 -143 oak_fence"}
+{"cmd":"fill -679 88 -161 -679 91 -161 oak_log[axis=y]"}
+{"cmd":"setblock -678 88 -161 oak_log[axis=x]"}
+{"cmd":"setblock -677 88 -161 oak_log[axis=x]"}
+{"cmd":"fill -676 88 -161 -676 91 -161 oak_log[axis=y]"}
+{"cmd":"setblock -675 88 -161 oak_log[axis=x]"}
+{"cmd":"setblock -674 88 -161 oak_log[axis=x]"}
+{"cmd":"fill -673 88 -161 -673 91 -161 oak_log[axis=y]"}
+{"cmd":"fill -669 88 -161 -669 91 -161 oak_log[axis=y]"}
+{"cmd":"setblock -668 88 -161 oak_log[axis=x]"}
+{"cmd":"setblock -667 88 -161 oak_log[axis=x]"}
+{"cmd":"fill -666 88 -161 -666 91 -161 oak_log[axis=y]"}
+{"cmd":"setblock -665 88 -161 oak_log[axis=x]"}
+{"cmd":"setblock -664 88 -161 oak_log[axis=x]"}
+{"cmd":"fill -663 88 -161 -663 91 -161 oak_log[axis=y]"}
+{"cmd":"setblock -679 88 -160 oak_log[axis=z]"}
+{"cmd":"setblock -679 88 -159 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -160 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -159 oak_log[axis=z]"}
+{"cmd":"fill -679 88 -158 -679 91 -158 oak_log[axis=y]"}
+{"cmd":"fill -663 88 -158 -663 91 -158 oak_log[axis=y]"}
+{"cmd":"setblock -679 88 -157 oak_log[axis=z]"}
+{"cmd":"setblock -679 88 -156 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -157 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -156 oak_log[axis=z]"}
+{"cmd":"fill -679 88 -155 -679 91 -155 oak_log[axis=y]"}
+{"cmd":"fill -663 88 -155 -663 91 -155 oak_log[axis=y]"}
+{"cmd":"fill -679 88 -151 -679 91 -151 oak_log[axis=y]"}
+{"cmd":"fill -663 88 -151 -663 91 -151 oak_log[axis=y]"}
+{"cmd":"setblock -679 88 -150 oak_log[axis=z]"}
+{"cmd":"setblock -679 88 -149 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -150 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -149 oak_log[axis=z]"}
+{"cmd":"fill -679 88 -148 -679 91 -148 oak_log[axis=y]"}
+{"cmd":"setblock -667 88 -148 oak_planks"}
+{"cmd":"setblock -667 88 -147 oak_planks"}
+{"cmd":"fill -663 88 -148 -663 91 -148 oak_log[axis=y]"}
+{"cmd":"setblock -679 88 -147 oak_log[axis=z]"}
+{"cmd":"setblock -679 88 -146 oak_log[axis=z]"}
+{"cmd":"setblock -668 88 -147 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -668 88 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -666 88 -147 -666 89 -146 oak_planks"}
+{"cmd":"setblock -663 88 -147 oak_log[axis=z]"}
+{"cmd":"setblock -663 88 -146 oak_log[axis=z]"}
+{"cmd":"fill -679 88 -145 -679 91 -145 oak_log[axis=y]"}
+{"cmd":"setblock -678 88 -145 oak_log[axis=x]"}
+{"cmd":"setblock -677 88 -145 oak_log[axis=x]"}
+{"cmd":"fill -676 88 -145 -676 91 -145 oak_log[axis=y]"}
+{"cmd":"setblock -675 88 -145 oak_log[axis=x]"}
+{"cmd":"setblock -674 88 -145 oak_log[axis=x]"}
+{"cmd":"fill -673 88 -145 -673 91 -145 oak_log[axis=y]"}
+{"cmd":"fill -669 88 -145 -669 91 -145 oak_log[axis=y]"}
+{"cmd":"setblock -668 88 -145 oak_log[axis=x]"}
+{"cmd":"setblock -667 88 -145 oak_log[axis=x]"}
+{"cmd":"fill -666 88 -145 -666 91 -145 oak_log[axis=y]"}
+{"cmd":"setblock -665 88 -145 oak_log[axis=x]"}
+{"cmd":"setblock -664 88 -145 oak_log[axis=x]"}
+{"cmd":"fill -663 88 -145 -663 91 -145 oak_log[axis=y]"}
+{"cmd":"fill -680 88 -143 -662 88 -143 oak_fence"}
+{"cmd":"setblock -649 88 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 89 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -681 89 -163 oak_fence"}
+{"cmd":"setblock -681 90 -163 oak_fence"}
+{"cmd":"setblock -681 91 -163 oak_fence"}
+{"cmd":"setblock -673 89 -163 oak_fence"}
+{"cmd":"setblock -673 90 -163 oak_fence"}
+{"cmd":"setblock -673 91 -163 oak_fence"}
+{"cmd":"setblock -669 89 -163 oak_fence"}
+{"cmd":"setblock -669 90 -163 oak_fence"}
+{"cmd":"setblock -669 91 -163 oak_fence"}
+{"cmd":"setblock -661 89 -163 oak_fence"}
+{"cmd":"setblock -661 90 -163 oak_fence"}
+{"cmd":"setblock -661 91 -163 oak_fence"}
+{"cmd":"fill -678 89 -162 -677 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -675 89 -162 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"setblock -674 89 -162 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"fill -668 89 -162 -667 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -665 89 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -665 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -664 89 -162 oak_trapdoor[facing=east,half=top,open=true]"}
+{"cmd":"fill -678 89 -161 -677 90 -161 white_terracotta"}
+{"cmd":"fill -675 89 -161 -674 90 -161 white_terracotta"}
+{"cmd":"fill -668 89 -161 -667 90 -161 white_terracotta"}
+{"cmd":"fill -665 89 -161 -664 90 -161 white_terracotta"}
+{"cmd":"fill -680 89 -160 -680 90 -159 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -679 89 -160 -679 90 -159 white_terracotta"}
+{"cmd":"fill -663 89 -160 -663 90 -159 white_terracotta"}
+{"cmd":"fill -662 89 -160 -662 90 -159 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -681 89 -158 oak_fence"}
+{"cmd":"setblock -681 90 -158 oak_fence"}
+{"cmd":"setblock -681 91 -158 oak_fence"}
+{"cmd":"setblock -661 89 -158 oak_fence"}
+{"cmd":"setblock -661 90 -158 oak_fence"}
+{"cmd":"setblock -661 91 -158 oak_fence"}
+{"cmd":"fill -680 89 -157 -680 90 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -679 89 -157 -679 90 -156 white_terracotta"}
+{"cmd":"fill -663 89 -157 -663 90 -156 white_terracotta"}
+{"cmd":"setblock -662 89 -157 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -662 89 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -662 90 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -681 89 -155 oak_fence"}
+{"cmd":"setblock -681 90 -155 oak_fence"}
+{"cmd":"setblock -681 91 -155 oak_fence"}
+{"cmd":"setblock -661 89 -155 oak_fence"}
+{"cmd":"setblock -661 90 -155 oak_fence"}
+{"cmd":"setblock -661 91 -155 oak_fence"}
+{"cmd":"setblock -681 89 -151 oak_fence"}
+{"cmd":"setblock -681 90 -151 oak_fence"}
+{"cmd":"setblock -681 91 -151 oak_fence"}
+{"cmd":"setblock -661 89 -151 oak_fence"}
+{"cmd":"setblock -661 90 -151 oak_fence"}
+{"cmd":"setblock -661 91 -151 oak_fence"}
+{"cmd":"fill -680 89 -150 -680 90 -149 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -679 89 -150 -679 90 -149 white_terracotta"}
+{"cmd":"fill -663 89 -150 -663 90 -149 white_terracotta"}
+{"cmd":"setblock -681 89 -148 oak_fence"}
+{"cmd":"setblock -681 90 -148 oak_fence"}
+{"cmd":"setblock -681 91 -148 oak_fence"}
+{"cmd":"setblock -667 89 -148 oak_planks"}
+{"cmd":"setblock -661 89 -148 oak_fence"}
+{"cmd":"setblock -661 90 -148 oak_fence"}
+{"cmd":"setblock -661 91 -148 oak_fence"}
+{"cmd":"setblock -680 89 -147 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -680 90 -147 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -679 89 -147 -679 90 -146 white_terracotta"}
+{"cmd":"setblock -667 89 -147 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -667 89 -146 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -665 89 -147 -664 89 -146 oak_planks"}
+{"cmd":"fill -663 89 -147 -663 90 -146 white_terracotta"}
+{"cmd":"setblock -680 89 -146 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"fill -678 89 -145 -677 90 -145 white_terracotta"}
+{"cmd":"fill -675 89 -145 -674 90 -145 white_terracotta"}
+{"cmd":"fill -668 89 -145 -667 90 -145 white_terracotta"}
+{"cmd":"fill -665 89 -145 -664 90 -145 white_terracotta"}
+{"cmd":"setblock -678 89 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -677 89 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -675 89 -144 -674 90 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -668 89 -144 -667 90 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"fill -665 89 -144 -664 90 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -681 89 -143 oak_fence"}
+{"cmd":"setblock -681 90 -143 oak_fence"}
+{"cmd":"setblock -681 91 -143 oak_fence"}
+{"cmd":"setblock -676 89 -143 oak_fence"}
+{"cmd":"setblock -676 90 -143 oak_fence"}
+{"cmd":"setblock -676 91 -143 oak_fence"}
+{"cmd":"setblock -673 89 -143 oak_fence"}
+{"cmd":"setblock -673 90 -143 oak_fence"}
+{"cmd":"setblock -673 91 -143 oak_fence"}
+{"cmd":"setblock -669 89 -143 oak_fence"}
+{"cmd":"setblock -669 90 -143 oak_fence"}
+{"cmd":"setblock -669 91 -143 oak_fence"}
+{"cmd":"setblock -666 89 -143 oak_fence"}
+{"cmd":"setblock -666 90 -143 oak_fence"}
+{"cmd":"setblock -666 91 -143 oak_fence"}
+{"cmd":"setblock -661 89 -143 oak_fence"}
+{"cmd":"setblock -661 90 -143 oak_fence"}
+{"cmd":"setblock -661 91 -143 oak_fence"}
+{"cmd":"fill -651 89 -121 -649 89 -120 purple_shulker_box[facing=down]"}
+{"cmd":"fill -651 89 -119 -651 89 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -652 89 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 89 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -675 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -674 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -664 90 -162 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -662 90 -157 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -667 90 -148 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 90 -148 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -665 90 -148 -664 94 -148 oak_planks"}
+{"cmd":"fill -665 90 -147 -665 93 -147 oak_leaves"}
+{"cmd":"setblock -664 90 -147 oak_planks"}
+{"cmd":"setblock -664 90 -146 oak_planks"}
+{"cmd":"setblock -680 90 -146 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"fill -665 90 -146 -665 94 -146 oak_planks"}
+{"cmd":"setblock -678 90 -144 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -677 90 -144 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -650 90 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 90 -119 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -651 90 -118 purple_shulker_box[facing=down]"}
+{"cmd":"fill -680 91 -163 -674 91 -163 oak_fence"}
+{"cmd":"setblock -672 91 -163 oak_fence"}
+{"cmd":"setblock -671 91 -163 oak_fence"}
+{"cmd":"setblock -670 91 -163 oak_fence"}
+{"cmd":"fill -668 91 -163 -662 91 -163 oak_fence"}
+{"cmd":"fill -681 91 -162 -681 91 -159 oak_fence"}
+{"cmd":"fill -661 91 -162 -661 91 -159 oak_fence"}
+{"cmd":"setblock -678 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -677 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -675 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -674 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -672 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -671 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -670 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -668 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -667 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -665 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -664 91 -161 oak_log[axis=x]"}
+{"cmd":"setblock -679 91 -160 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -159 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -160 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -159 oak_log[axis=z]"}
+{"cmd":"setblock -681 91 -157 oak_fence"}
+{"cmd":"setblock -681 91 -156 oak_fence"}
+{"cmd":"setblock -679 91 -157 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -156 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -157 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -156 oak_log[axis=z]"}
+{"cmd":"setblock -661 91 -157 oak_fence"}
+{"cmd":"setblock -661 91 -156 oak_fence"}
+{"cmd":"setblock -681 91 -154 oak_fence"}
+{"cmd":"setblock -681 91 -153 oak_fence"}
+{"cmd":"setblock -681 91 -152 oak_fence"}
+{"cmd":"setblock -679 91 -154 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -153 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -152 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -154 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -153 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -152 oak_log[axis=z]"}
+{"cmd":"setblock -661 91 -154 oak_fence"}
+{"cmd":"setblock -661 91 -153 oak_fence"}
+{"cmd":"setblock -661 91 -152 oak_fence"}
+{"cmd":"setblock -681 91 -150 oak_fence"}
+{"cmd":"setblock -681 91 -149 oak_fence"}
+{"cmd":"setblock -679 91 -150 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -149 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -150 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -149 oak_log[axis=z]"}
+{"cmd":"setblock -661 91 -150 oak_fence"}
+{"cmd":"setblock -661 91 -149 oak_fence"}
+{"cmd":"setblock -667 91 -149 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 91 -149 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -665 91 -149 -664 94 -149 oak_planks"}
+{"cmd":"fill -681 91 -147 -681 91 -144 oak_fence"}
+{"cmd":"setblock -679 91 -147 oak_log[axis=z]"}
+{"cmd":"setblock -679 91 -146 oak_log[axis=z]"}
+{"cmd":"setblock -664 91 -147 glowstone"}
+{"cmd":"setblock -663 91 -147 oak_log[axis=z]"}
+{"cmd":"setblock -663 91 -146 oak_log[axis=z]"}
+{"cmd":"fill -661 91 -147 -661 91 -144 oak_fence"}
+{"cmd":"fill -664 91 -146 -664 94 -146 oak_planks"}
+{"cmd":"setblock -678 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -677 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -675 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -674 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -672 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -671 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -670 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -668 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -667 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -665 91 -145 oak_log[axis=x]"}
+{"cmd":"setblock -664 91 -145 oak_log[axis=x]"}
+{"cmd":"fill -680 91 -143 -677 91 -143 oak_fence"}
+{"cmd":"setblock -675 91 -143 oak_fence"}
+{"cmd":"setblock -674 91 -143 oak_fence"}
+{"cmd":"setblock -672 91 -143 oak_fence"}
+{"cmd":"setblock -671 91 -143 oak_fence"}
+{"cmd":"setblock -670 91 -143 oak_fence"}
+{"cmd":"setblock -668 91 -143 oak_fence"}
+{"cmd":"setblock -667 91 -143 oak_fence"}
+{"cmd":"fill -665 91 -143 -662 91 -143 oak_fence"}
+{"cmd":"setblock -681 92 -164 oak_stairs[facing=east,half=top]"}
+{"cmd":"setblock -680 92 -164 oak_planks"}
+{"cmd":"setblock -680 92 -163 oak_planks"}
+{"cmd":"fill -679 92 -164 -663 92 -164 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -662 92 -164 oak_planks"}
+{"cmd":"setblock -662 92 -163 oak_planks"}
+{"cmd":"setblock -661 92 -164 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -682 92 -163 oak_stairs[facing=south,half=top]"}
+{"cmd":"fill -681 92 -163 -681 92 -143 oak_planks"}
+{"cmd":"fill -679 92 -163 -663 92 -162 oak_planks"}
+{"cmd":"fill -661 92 -163 -661 92 -143 oak_planks"}
+{"cmd":"setblock -660 92 -163 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -682 92 -162 oak_planks"}
+{"cmd":"setblock -680 92 -162 glowstone"}
+{"cmd":"setblock -662 92 -162 glowstone"}
+{"cmd":"setblock -660 92 -162 oak_planks"}
+{"cmd":"fill -682 92 -161 -682 92 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -680 92 -161 -680 92 -145 oak_planks"}
+{"cmd":"setblock -671 92 -161 glowstone"}
+{"cmd":"fill -662 92 -161 -662 92 -145 oak_planks"}
+{"cmd":"fill -660 92 -161 -660 92 -145 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -679 92 -153 glowstone"}
+{"cmd":"setblock -663 92 -153 glowstone"}
+{"cmd":"setblock -667 92 -150 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 92 -150 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -665 92 -150 -663 94 -150 oak_planks"}
+{"cmd":"setblock -663 92 -149 oak_planks"}
+{"cmd":"setblock -663 93 -149 oak_planks"}
+{"cmd":"setblock -663 94 -149 oak_planks"}
+{"cmd":"setblock -664 92 -147 oak_planks"}
+{"cmd":"setblock -664 93 -147 oak_planks"}
+{"cmd":"setblock -664 94 -147 oak_planks"}
+{"cmd":"setblock -671 92 -145 glowstone"}
+{"cmd":"fill -668 92 -145 -664 92 -143 oak_planks"}
+{"cmd":"setblock -682 92 -144 oak_planks"}
+{"cmd":"setblock -680 92 -144 glowstone"}
+{"cmd":"fill -679 92 -144 -669 92 -143 oak_planks"}
+{"cmd":"setblock -663 92 -144 oak_planks"}
+{"cmd":"setblock -663 92 -143 oak_planks"}
+{"cmd":"setblock -662 92 -144 glowstone"}
+{"cmd":"setblock -660 92 -144 oak_planks"}
+{"cmd":"setblock -682 92 -143 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -680 92 -143 oak_planks"}
+{"cmd":"setblock -680 92 -142 oak_planks"}
+{"cmd":"setblock -662 92 -143 oak_planks"}
+{"cmd":"setblock -662 92 -142 oak_planks"}
+{"cmd":"setblock -660 92 -143 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -681 92 -142 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -679 92 -142 -663 92 -142 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -661 92 -142 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -650 92 -121 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 92 -120 purple_shulker_box[facing=down]"}
+{"cmd":"fill -651 92 -120 -651 92 -115 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 92 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 93 -120 purple_shulker_box[facing=down]"}
+{"cmd":"fill -650 92 -118 -650 92 -115 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 92 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 92 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 92 -115 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -652 92 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -682 93 -164 oak_slab[type=top]"}
+{"cmd":"setblock -681 93 -164 oak_slab[type=bottom]"}
+{"cmd":"setblock -661 93 -164 oak_slab[type=bottom]"}
+{"cmd":"setblock -660 93 -164 oak_slab[type=top]"}
+{"cmd":"setblock -682 93 -163 oak_slab[type=bottom]"}
+{"cmd":"setblock -680 93 -163 oak_slab[type=bottom]"}
+{"cmd":"fill -679 93 -163 -663 93 -163 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -662 93 -163 oak_slab[type=bottom]"}
+{"cmd":"setblock -660 93 -163 oak_slab[type=bottom]"}
+{"cmd":"setblock -681 93 -162 oak_slab[type=bottom]"}
+{"cmd":"setblock -679 93 -162 oak_planks"}
+{"cmd":"setblock -678 93 -162 glowstone"}
+{"cmd":"fill -677 93 -162 -665 93 -162 oak_planks"}
+{"cmd":"setblock -664 93 -162 glowstone"}
+{"cmd":"setblock -663 93 -162 oak_planks"}
+{"cmd":"setblock -661 93 -162 oak_slab[type=bottom]"}
+{"cmd":"fill -681 93 -161 -681 93 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -680 93 -161 oak_planks"}
+{"cmd":"setblock -662 93 -161 oak_planks"}
+{"cmd":"fill -661 93 -161 -661 93 -145 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -680 93 -160 glowstone"}
+{"cmd":"setblock -662 93 -160 glowstone"}
+{"cmd":"fill -680 93 -159 -680 93 -147 oak_planks"}
+{"cmd":"fill -662 93 -159 -662 93 -150 oak_planks"}
+{"cmd":"setblock -667 93 -151 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 93 -151 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -665 93 -151 -663 94 -151 oak_planks"}
+{"cmd":"setblock -680 93 -146 glowstone"}
+{"cmd":"setblock -680 93 -145 oak_planks"}
+{"cmd":"fill -668 93 -145 -664 94 -145 oak_planks"}
+{"cmd":"setblock -662 93 -145 oak_planks"}
+{"cmd":"setblock -681 93 -144 oak_slab[type=bottom]"}
+{"cmd":"setblock -679 93 -144 oak_planks"}
+{"cmd":"setblock -678 93 -144 glowstone"}
+{"cmd":"fill -677 93 -144 -670 93 -144 oak_planks"}
+{"cmd":"setblock -669 93 -144 glowstone"}
+{"cmd":"setblock -668 93 -144 oak_planks"}
+{"cmd":"setblock -663 93 -144 oak_planks"}
+{"cmd":"setblock -661 93 -144 oak_slab[type=bottom]"}
+{"cmd":"setblock -682 93 -143 oak_slab[type=bottom]"}
+{"cmd":"setblock -680 93 -143 oak_slab[type=bottom]"}
+{"cmd":"fill -679 93 -143 -663 93 -143 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -662 93 -143 oak_slab[type=bottom]"}
+{"cmd":"setblock -660 93 -143 oak_slab[type=bottom]"}
+{"cmd":"setblock -682 93 -142 oak_slab[type=top]"}
+{"cmd":"setblock -681 93 -142 oak_slab[type=bottom]"}
+{"cmd":"setblock -661 93 -142 oak_slab[type=bottom]"}
+{"cmd":"setblock -660 93 -142 oak_slab[type=top]"}
+{"cmd":"setblock -650 93 -120 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 93 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 93 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 93 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 93 -117 purple_shulker_box[facing=down]"}
+{"cmd":"fill -679 94 -162 -663 94 -162 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -680 94 -161 -680 94 -145 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -679 94 -161 -663 94 -153 oak_planks"}
+{"cmd":"fill -662 94 -161 -662 94 -145 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -679 94 -152 -668 94 -146 oak_planks"}
+{"cmd":"setblock -667 94 -152 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 94 -152 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -665 94 -152 oak_planks"}
+{"cmd":"setblock -664 94 -152 oak_planks"}
+{"cmd":"setblock -663 94 -152 oak_planks"}
+{"cmd":"fill -667 94 -148 -666 94 -146 oak_planks"}
+{"cmd":"fill -663 94 -148 -663 94 -145 oak_planks"}
+{"cmd":"setblock -665 94 -147 oak_planks"}
+{"cmd":"fill -679 94 -145 -669 94 -145 oak_planks"}
+{"cmd":"fill -679 94 -144 -663 94 -144 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -649 94 -118 -649 99 -118 purple_shulker_box[facing=down]"}
+{"cmd":"fill -679 95 -161 -663 95 -161 oak_fence"}
+{"cmd":"fill -679 95 -160 -679 95 -145 oak_fence"}
+{"cmd":"fill -663 95 -160 -663 95 -145 oak_fence"}
+{"cmd":"fill -677 95 -159 -677 98 -159 oak_log[axis=y]"}
+{"cmd":"setblock -676 95 -159 oak_log[axis=x]"}
+{"cmd":"fill -675 95 -159 -675 98 -159 oak_log[axis=y]"}
+{"cmd":"setblock -674 95 -159 oak_log[axis=x]"}
+{"cmd":"fill -673 95 -159 -673 98 -159 oak_log[axis=y]"}
+{"cmd":"fill -669 95 -159 -669 98 -159 oak_log[axis=y]"}
+{"cmd":"setblock -668 95 -159 oak_log[axis=x]"}
+{"cmd":"fill -667 95 -159 -667 98 -159 oak_log[axis=y]"}
+{"cmd":"setblock -666 95 -159 oak_log[axis=x]"}
+{"cmd":"fill -665 95 -159 -665 98 -159 oak_log[axis=y]"}
+{"cmd":"setblock -677 95 -158 oak_log[axis=z]"}
+{"cmd":"setblock -665 95 -158 oak_log[axis=z]"}
+{"cmd":"fill -677 95 -157 -677 98 -157 oak_log[axis=y]"}
+{"cmd":"fill -665 95 -157 -665 98 -157 oak_log[axis=y]"}
+{"cmd":"setblock -677 95 -156 oak_log[axis=z]"}
+{"cmd":"setblock -665 95 -156 oak_log[axis=z]"}
+{"cmd":"fill -677 95 -155 -677 98 -155 oak_log[axis=y]"}
+{"cmd":"fill -665 95 -155 -665 98 -155 oak_log[axis=y]"}
+{"cmd":"fill -668 95 -152 -668 95 -148 oak_fence"}
+{"cmd":"setblock -677 95 -151 oak_log[axis=y]"}
+{"cmd":"setblock -677 95 -150 oak_log[axis=y]"}
+{"cmd":"setblock -677 95 -149 oak_log[axis=y]"}
+{"cmd":"fill -676 95 -151 -675 95 -148 oak_planks"}
+{"cmd":"fill -665 95 -151 -665 98 -151 oak_log[axis=y]"}
+{"cmd":"setblock -665 95 -150 oak_log[axis=z]"}
+{"cmd":"setblock -674 95 -149 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -674 95 -148 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -665 95 -149 -665 98 -149 oak_log[axis=y]"}
+{"cmd":"setblock -677 95 -148 oak_log[axis=z]"}
+{"cmd":"setblock -667 95 -148 oak_leaves"}
+{"cmd":"setblock -666 95 -148 oak_leaves"}
+{"cmd":"setblock -665 95 -148 oak_log[axis=z]"}
+{"cmd":"fill -677 95 -147 -677 98 -147 oak_log[axis=y]"}
+{"cmd":"setblock -676 95 -147 oak_log[axis=x]"}
+{"cmd":"fill -675 95 -147 -675 98 -147 oak_log[axis=y]"}
+{"cmd":"setblock -674 95 -147 oak_log[axis=x]"}
+{"cmd":"fill -673 95 -147 -673 98 -147 oak_log[axis=y]"}
+{"cmd":"fill -669 95 -147 -669 98 -147 oak_log[axis=y]"}
+{"cmd":"setblock -668 95 -147 oak_log[axis=x]"}
+{"cmd":"fill -667 95 -147 -667 98 -147 oak_log[axis=y]"}
+{"cmd":"setblock -666 95 -147 oak_log[axis=x]"}
+{"cmd":"fill -665 95 -147 -665 98 -147 oak_log[axis=y]"}
+{"cmd":"fill -678 95 -145 -664 95 -145 oak_fence"}
+{"cmd":"setblock -651 95 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -650 95 -118 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 95 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 95 -116 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -679 96 -161 oak_fence"}
+{"cmd":"setblock -679 97 -161 oak_fence"}
+{"cmd":"setblock -679 98 -161 oak_fence"}
+{"cmd":"setblock -673 96 -161 oak_fence"}
+{"cmd":"setblock -673 97 -161 oak_fence"}
+{"cmd":"setblock -673 98 -161 oak_fence"}
+{"cmd":"setblock -669 96 -161 oak_fence"}
+{"cmd":"setblock -669 97 -161 oak_fence"}
+{"cmd":"setblock -669 98 -161 oak_fence"}
+{"cmd":"setblock -663 96 -161 oak_fence"}
+{"cmd":"setblock -663 97 -161 oak_fence"}
+{"cmd":"setblock -663 98 -161 oak_fence"}
+{"cmd":"setblock -676 96 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -676 97 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -674 96 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -674 97 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -668 96 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -668 97 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -666 96 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -666 97 -160 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -676 96 -159 white_terracotta"}
+{"cmd":"setblock -676 97 -159 white_terracotta"}
+{"cmd":"setblock -674 96 -159 white_terracotta"}
+{"cmd":"setblock -674 97 -159 white_terracotta"}
+{"cmd":"setblock -668 96 -159 white_terracotta"}
+{"cmd":"setblock -668 97 -159 white_terracotta"}
+{"cmd":"setblock -666 96 -159 white_terracotta"}
+{"cmd":"setblock -666 97 -159 white_terracotta"}
+{"cmd":"setblock -678 96 -158 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -678 97 -158 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -677 96 -158 white_terracotta"}
+{"cmd":"setblock -677 97 -158 white_terracotta"}
+{"cmd":"setblock -665 96 -158 white_terracotta"}
+{"cmd":"setblock -665 97 -158 white_terracotta"}
+{"cmd":"setblock -664 96 -158 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -664 97 -158 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -678 96 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -678 97 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -677 96 -156 white_terracotta"}
+{"cmd":"setblock -677 97 -156 white_terracotta"}
+{"cmd":"setblock -665 96 -156 white_terracotta"}
+{"cmd":"setblock -665 97 -156 white_terracotta"}
+{"cmd":"setblock -664 96 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -664 97 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -679 96 -155 oak_fence"}
+{"cmd":"setblock -679 97 -155 oak_fence"}
+{"cmd":"setblock -679 98 -155 oak_fence"}
+{"cmd":"setblock -663 96 -155 oak_fence"}
+{"cmd":"setblock -663 97 -155 oak_fence"}
+{"cmd":"setblock -663 98 -155 oak_fence"}
+{"cmd":"setblock -679 96 -151 oak_fence"}
+{"cmd":"setblock -679 97 -151 oak_fence"}
+{"cmd":"setblock -679 98 -151 oak_fence"}
+{"cmd":"setblock -677 96 -151 oak_log[axis=y]"}
+{"cmd":"setblock -677 97 -151 oak_log[axis=y]"}
+{"cmd":"setblock -677 98 -151 oak_log[axis=y]"}
+{"cmd":"setblock -674 96 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -674 96 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -663 96 -151 oak_fence"}
+{"cmd":"setblock -663 97 -151 oak_fence"}
+{"cmd":"setblock -663 98 -151 oak_fence"}
+{"cmd":"setblock -678 96 -150 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -678 97 -150 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -677 96 -150 white_terracotta"}
+{"cmd":"setblock -677 97 -150 white_terracotta"}
+{"cmd":"setblock -665 96 -150 white_terracotta"}
+{"cmd":"setblock -665 97 -150 white_terracotta"}
+{"cmd":"setblock -664 96 -150 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -664 97 -150 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -677 96 -149 oak_log[axis=y]"}
+{"cmd":"setblock -677 97 -149 oak_log[axis=y]"}
+{"cmd":"setblock -677 98 -149 oak_log[axis=y]"}
+{"cmd":"setblock -678 96 -148 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -677 96 -148 white_terracotta"}
+{"cmd":"setblock -677 97 -148 white_terracotta"}
+{"cmd":"setblock -676 96 -148 oak_leaves"}
+{"cmd":"setblock -676 97 -148 oak_leaves"}
+{"cmd":"setblock -676 98 -148 oak_leaves"}
+{"cmd":"setblock -666 96 -148 oak_leaves"}
+{"cmd":"setblock -665 96 -148 white_terracotta"}
+{"cmd":"setblock -665 97 -148 white_terracotta"}
+{"cmd":"setblock -664 96 -148 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -664 97 -148 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -676 96 -147 white_terracotta"}
+{"cmd":"setblock -676 97 -147 white_terracotta"}
+{"cmd":"setblock -674 96 -147 white_terracotta"}
+{"cmd":"setblock -674 97 -147 white_terracotta"}
+{"cmd":"setblock -668 96 -147 white_terracotta"}
+{"cmd":"setblock -668 97 -147 white_terracotta"}
+{"cmd":"setblock -666 96 -147 white_terracotta"}
+{"cmd":"setblock -666 97 -147 white_terracotta"}
+{"cmd":"setblock -676 96 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -676 97 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -674 96 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -674 97 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -668 96 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -666 96 -146 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -679 96 -145 oak_fence"}
+{"cmd":"setblock -679 97 -145 oak_fence"}
+{"cmd":"setblock -679 98 -145 oak_fence"}
+{"cmd":"setblock -673 96 -145 oak_fence"}
+{"cmd":"setblock -673 97 -145 oak_fence"}
+{"cmd":"setblock -673 98 -145 oak_fence"}
+{"cmd":"setblock -669 96 -145 oak_fence"}
+{"cmd":"setblock -669 97 -145 oak_fence"}
+{"cmd":"setblock -669 98 -145 oak_fence"}
+{"cmd":"setblock -663 96 -145 oak_fence"}
+{"cmd":"setblock -663 97 -145 oak_fence"}
+{"cmd":"setblock -663 98 -145 oak_fence"}
+{"cmd":"setblock -650 96 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -649 96 -117 purple_shulker_box[facing=down]"}
+{"cmd":"setblock -673 97 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -673 97 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -678 97 -148 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"setblock -668 97 -146 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -666 97 -146 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"fill -678 98 -161 -674 98 -161 oak_fence"}
+{"cmd":"setblock -672 98 -161 oak_fence"}
+{"cmd":"setblock -671 98 -161 oak_fence"}
+{"cmd":"setblock -670 98 -161 oak_fence"}
+{"cmd":"fill -668 98 -161 -664 98 -161 oak_fence"}
+{"cmd":"fill -679 98 -160 -679 98 -156 oak_fence"}
+{"cmd":"fill -663 98 -160 -663 98 -156 oak_fence"}
+{"cmd":"setblock -676 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -674 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -672 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -671 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -670 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -668 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -666 98 -159 oak_log[axis=x]"}
+{"cmd":"setblock -677 98 -158 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -158 oak_log[axis=z]"}
+{"cmd":"setblock -677 98 -156 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -156 oak_log[axis=z]"}
+{"cmd":"setblock -679 98 -154 oak_fence"}
+{"cmd":"setblock -679 98 -153 oak_fence"}
+{"cmd":"setblock -679 98 -152 oak_fence"}
+{"cmd":"setblock -677 98 -154 oak_log[axis=z]"}
+{"cmd":"setblock -677 98 -153 oak_log[axis=z]"}
+{"cmd":"setblock -677 98 -152 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -154 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -153 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -152 oak_log[axis=z]"}
+{"cmd":"setblock -663 98 -154 oak_fence"}
+{"cmd":"setblock -663 98 -153 oak_fence"}
+{"cmd":"setblock -663 98 -152 oak_fence"}
+{"cmd":"setblock -672 98 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -672 98 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -679 98 -150 -679 98 -146 oak_fence"}
+{"cmd":"setblock -677 98 -150 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -150 oak_log[axis=z]"}
+{"cmd":"fill -663 98 -150 -663 98 -146 oak_fence"}
+{"cmd":"setblock -677 98 -148 oak_log[axis=z]"}
+{"cmd":"setblock -665 98 -148 oak_log[axis=z]"}
+{"cmd":"setblock -676 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -674 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -672 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -671 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -670 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -668 98 -147 oak_log[axis=x]"}
+{"cmd":"setblock -666 98 -147 oak_log[axis=x]"}
+{"cmd":"fill -678 98 -145 -674 98 -145 oak_fence"}
+{"cmd":"setblock -672 98 -145 oak_fence"}
+{"cmd":"setblock -671 98 -145 oak_fence"}
+{"cmd":"setblock -670 98 -145 oak_fence"}
+{"cmd":"fill -668 98 -145 -664 98 -145 oak_fence"}
+{"cmd":"setblock -679 99 -162 oak_stairs[facing=east,half=top]"}
+{"cmd":"setblock -678 99 -162 oak_planks"}
+{"cmd":"setblock -678 99 -161 oak_planks"}
+{"cmd":"fill -677 99 -162 -665 99 -162 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -664 99 -162 oak_planks"}
+{"cmd":"setblock -664 99 -161 oak_planks"}
+{"cmd":"setblock -663 99 -162 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -680 99 -161 oak_stairs[facing=south,half=top]"}
+{"cmd":"fill -679 99 -161 -679 99 -145 oak_planks"}
+{"cmd":"fill -677 99 -161 -665 99 -160 oak_planks"}
+{"cmd":"fill -663 99 -161 -663 99 -145 oak_planks"}
+{"cmd":"setblock -662 99 -161 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -680 99 -160 oak_planks"}
+{"cmd":"setblock -678 99 -160 glowstone"}
+{"cmd":"setblock -664 99 -160 glowstone"}
+{"cmd":"setblock -662 99 -160 oak_planks"}
+{"cmd":"fill -680 99 -159 -680 99 -147 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -678 99 -159 -678 99 -147 oak_planks"}
+{"cmd":"setblock -671 99 -159 glowstone"}
+{"cmd":"fill -664 99 -159 -664 99 -147 oak_planks"}
+{"cmd":"fill -662 99 -159 -662 99 -147 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -677 99 -153 glowstone"}
+{"cmd":"setblock -665 99 -153 glowstone"}
+{"cmd":"setblock -671 99 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -671 99 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -671 99 -147 glowstone"}
+{"cmd":"setblock -680 99 -146 oak_planks"}
+{"cmd":"setblock -678 99 -146 glowstone"}
+{"cmd":"fill -677 99 -146 -665 99 -145 oak_planks"}
+{"cmd":"setblock -664 99 -146 glowstone"}
+{"cmd":"setblock -662 99 -146 oak_planks"}
+{"cmd":"setblock -680 99 -145 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -678 99 -145 oak_planks"}
+{"cmd":"setblock -678 99 -144 oak_planks"}
+{"cmd":"setblock -664 99 -145 oak_planks"}
+{"cmd":"setblock -664 99 -144 oak_planks"}
+{"cmd":"setblock -662 99 -145 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -679 99 -144 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -677 99 -144 -665 99 -144 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -663 99 -144 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -680 100 -162 oak_slab[type=top]"}
+{"cmd":"setblock -679 100 -162 oak_slab[type=bottom]"}
+{"cmd":"setblock -663 100 -162 oak_slab[type=bottom]"}
+{"cmd":"setblock -662 100 -162 oak_slab[type=top]"}
+{"cmd":"setblock -680 100 -161 oak_slab[type=bottom]"}
+{"cmd":"setblock -678 100 -161 oak_slab[type=bottom]"}
+{"cmd":"fill -677 100 -161 -665 100 -161 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -664 100 -161 oak_slab[type=bottom]"}
+{"cmd":"setblock -662 100 -161 oak_slab[type=bottom]"}
+{"cmd":"setblock -679 100 -160 oak_slab[type=bottom]"}
+{"cmd":"setblock -677 100 -160 oak_planks"}
+{"cmd":"setblock -676 100 -160 glowstone"}
+{"cmd":"fill -675 100 -160 -667 100 -160 oak_planks"}
+{"cmd":"setblock -666 100 -160 glowstone"}
+{"cmd":"setblock -665 100 -160 oak_planks"}
+{"cmd":"setblock -663 100 -160 oak_slab[type=bottom]"}
+{"cmd":"fill -679 100 -159 -679 100 -147 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -678 100 -159 oak_planks"}
+{"cmd":"setblock -664 100 -159 oak_planks"}
+{"cmd":"fill -663 100 -159 -663 100 -147 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -678 100 -158 glowstone"}
+{"cmd":"setblock -664 100 -158 glowstone"}
+{"cmd":"fill -678 100 -157 -678 100 -149 oak_planks"}
+{"cmd":"fill -664 100 -157 -664 100 -149 oak_planks"}
+{"cmd":"setblock -670 100 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -670 100 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -678 100 -148 glowstone"}
+{"cmd":"setblock -664 100 -148 glowstone"}
+{"cmd":"setblock -678 100 -147 oak_planks"}
+{"cmd":"setblock -664 100 -147 oak_planks"}
+{"cmd":"setblock -679 100 -146 oak_slab[type=bottom]"}
+{"cmd":"setblock -677 100 -146 oak_planks"}
+{"cmd":"setblock -676 100 -146 glowstone"}
+{"cmd":"fill -675 100 -146 -667 100 -146 oak_planks"}
+{"cmd":"setblock -666 100 -146 glowstone"}
+{"cmd":"setblock -665 100 -146 oak_planks"}
+{"cmd":"setblock -663 100 -146 oak_slab[type=bottom]"}
+{"cmd":"setblock -680 100 -145 oak_slab[type=bottom]"}
+{"cmd":"setblock -678 100 -145 oak_slab[type=bottom]"}
+{"cmd":"fill -677 100 -145 -665 100 -145 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -664 100 -145 oak_slab[type=bottom]"}
+{"cmd":"setblock -662 100 -145 oak_slab[type=bottom]"}
+{"cmd":"setblock -680 100 -144 oak_slab[type=top]"}
+{"cmd":"setblock -679 100 -144 oak_slab[type=bottom]"}
+{"cmd":"setblock -663 100 -144 oak_slab[type=bottom]"}
+{"cmd":"setblock -662 100 -144 oak_slab[type=top]"}
+{"cmd":"fill -677 101 -160 -665 101 -160 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -678 101 -159 -678 101 -147 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -677 101 -159 -665 101 -152 oak_planks"}
+{"cmd":"fill -664 101 -159 -664 101 -147 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"fill -677 101 -151 -673 101 -147 oak_planks"}
+{"cmd":"setblock -669 101 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -669 101 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -668 101 -151 -665 101 -147 oak_planks"}
+{"cmd":"fill -672 101 -149 -669 101 -147 oak_planks"}
+{"cmd":"fill -677 101 -146 -665 101 -146 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -677 102 -159 -665 102 -159 oak_fence"}
+{"cmd":"fill -677 102 -158 -677 102 -147 oak_fence"}
+{"cmd":"fill -665 102 -158 -665 102 -147 oak_fence"}
+{"cmd":"fill -675 102 -157 -675 105 -157 oak_log[axis=y]"}
+{"cmd":"setblock -674 102 -157 oak_log[axis=x]"}
+{"cmd":"fill -673 102 -157 -673 105 -157 oak_log[axis=y]"}
+{"cmd":"fill -669 102 -157 -669 105 -157 oak_log[axis=y]"}
+{"cmd":"setblock -668 102 -157 oak_log[axis=x]"}
+{"cmd":"fill -667 102 -157 -667 105 -157 oak_log[axis=y]"}
+{"cmd":"setblock -675 102 -156 oak_log[axis=z]"}
+{"cmd":"setblock -667 102 -156 oak_log[axis=z]"}
+{"cmd":"fill -675 102 -155 -675 105 -155 oak_log[axis=y]"}
+{"cmd":"fill -667 102 -155 -667 105 -155 oak_log[axis=y]"}
+{"cmd":"fill -673 102 -152 -670 102 -152 oak_fence"}
+{"cmd":"fill -675 102 -151 -675 105 -151 oak_log[axis=y]"}
+{"cmd":"setblock -673 102 -151 oak_fence"}
+{"cmd":"setblock -673 102 -150 oak_fence"}
+{"cmd":"fill -667 102 -151 -667 105 -151 oak_log[axis=y]"}
+{"cmd":"setblock -675 102 -150 oak_log[axis=z]"}
+{"cmd":"setblock -667 102 -150 oak_log[axis=z]"}
+{"cmd":"fill -675 102 -149 -675 105 -149 oak_log[axis=y]"}
+{"cmd":"setblock -674 102 -149 oak_log[axis=x]"}
+{"cmd":"fill -673 102 -149 -673 105 -149 oak_log[axis=y]"}
+{"cmd":"setblock -672 102 -149 oak_fence"}
+{"cmd":"setblock -671 102 -149 oak_fence"}
+{"cmd":"setblock -670 102 -149 oak_fence"}
+{"cmd":"fill -669 102 -149 -669 105 -149 oak_log[axis=y]"}
+{"cmd":"setblock -668 102 -149 oak_log[axis=x]"}
+{"cmd":"fill -667 102 -149 -667 105 -149 oak_log[axis=y]"}
+{"cmd":"fill -676 102 -147 -666 102 -147 oak_fence"}
+{"cmd":"setblock -677 103 -159 oak_fence"}
+{"cmd":"setblock -677 104 -159 oak_fence"}
+{"cmd":"setblock -677 105 -159 oak_fence"}
+{"cmd":"setblock -673 103 -159 oak_fence"}
+{"cmd":"setblock -673 104 -159 oak_fence"}
+{"cmd":"setblock -673 105 -159 oak_fence"}
+{"cmd":"setblock -669 103 -159 oak_fence"}
+{"cmd":"setblock -669 104 -159 oak_fence"}
+{"cmd":"setblock -669 105 -159 oak_fence"}
+{"cmd":"setblock -665 103 -159 oak_fence"}
+{"cmd":"setblock -665 104 -159 oak_fence"}
+{"cmd":"setblock -665 105 -159 oak_fence"}
+{"cmd":"setblock -674 103 -158 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -674 104 -158 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -668 103 -158 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -668 104 -158 oak_trapdoor[facing=east,half=top,open=false]"}
+{"cmd":"setblock -674 103 -157 white_terracotta"}
+{"cmd":"setblock -674 104 -157 white_terracotta"}
+{"cmd":"setblock -668 103 -157 white_terracotta"}
+{"cmd":"setblock -668 104 -157 white_terracotta"}
+{"cmd":"setblock -676 103 -156 oak_trapdoor[facing=south,half=top,open=true]"}
+{"cmd":"setblock -675 103 -156 white_terracotta"}
+{"cmd":"setblock -675 104 -156 white_terracotta"}
+{"cmd":"setblock -667 103 -156 white_terracotta"}
+{"cmd":"setblock -667 104 -156 white_terracotta"}
+{"cmd":"setblock -666 103 -156 oak_trapdoor[facing=north,half=top,open=true]"}
+{"cmd":"setblock -677 103 -155 oak_fence"}
+{"cmd":"setblock -677 104 -155 oak_fence"}
+{"cmd":"setblock -677 105 -155 oak_fence"}
+{"cmd":"setblock -665 103 -155 oak_fence"}
+{"cmd":"setblock -665 104 -155 oak_fence"}
+{"cmd":"setblock -665 105 -155 oak_fence"}
+{"cmd":"setblock -677 103 -151 oak_fence"}
+{"cmd":"setblock -677 104 -151 oak_fence"}
+{"cmd":"setblock -677 105 -151 oak_fence"}
+{"cmd":"setblock -665 103 -151 oak_fence"}
+{"cmd":"setblock -665 104 -151 oak_fence"}
+{"cmd":"setblock -665 105 -151 oak_fence"}
+{"cmd":"setblock -676 103 -150 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -676 104 -150 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -675 103 -150 white_terracotta"}
+{"cmd":"setblock -675 104 -150 white_terracotta"}
+{"cmd":"setblock -667 103 -150 white_terracotta"}
+{"cmd":"setblock -667 104 -150 white_terracotta"}
+{"cmd":"setblock -666 103 -150 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -666 104 -150 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -674 103 -149 white_terracotta"}
+{"cmd":"setblock -674 104 -149 white_terracotta"}
+{"cmd":"setblock -668 103 -149 white_terracotta"}
+{"cmd":"setblock -668 104 -149 white_terracotta"}
+{"cmd":"setblock -674 103 -148 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -674 104 -148 oak_trapdoor[facing=west,half=top,open=false]"}
+{"cmd":"setblock -668 103 -148 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -668 104 -148 oak_trapdoor[facing=west,half=top,open=true]"}
+{"cmd":"setblock -677 103 -147 oak_fence"}
+{"cmd":"setblock -677 104 -147 oak_fence"}
+{"cmd":"setblock -677 105 -147 oak_fence"}
+{"cmd":"setblock -673 103 -147 oak_fence"}
+{"cmd":"setblock -673 104 -147 oak_fence"}
+{"cmd":"setblock -673 105 -147 oak_fence"}
+{"cmd":"setblock -669 103 -147 oak_fence"}
+{"cmd":"setblock -669 104 -147 oak_fence"}
+{"cmd":"setblock -669 105 -147 oak_fence"}
+{"cmd":"setblock -665 103 -147 oak_fence"}
+{"cmd":"setblock -665 104 -147 oak_fence"}
+{"cmd":"setblock -665 105 -147 oak_fence"}
+{"cmd":"setblock -676 104 -156 oak_trapdoor[facing=south,half=top,open=false]"}
+{"cmd":"setblock -666 104 -156 oak_trapdoor[facing=north,half=top,open=false]"}
+{"cmd":"setblock -676 105 -159 oak_fence"}
+{"cmd":"setblock -675 105 -159 oak_fence"}
+{"cmd":"setblock -674 105 -159 oak_fence"}
+{"cmd":"setblock -672 105 -159 oak_fence"}
+{"cmd":"setblock -671 105 -159 oak_fence"}
+{"cmd":"setblock -670 105 -159 oak_fence"}
+{"cmd":"setblock -668 105 -159 oak_fence"}
+{"cmd":"setblock -667 105 -159 oak_fence"}
+{"cmd":"setblock -666 105 -159 oak_fence"}
+{"cmd":"setblock -677 105 -158 oak_fence"}
+{"cmd":"setblock -677 105 -157 oak_fence"}
+{"cmd":"setblock -677 105 -156 oak_fence"}
+{"cmd":"setblock -665 105 -158 oak_fence"}
+{"cmd":"setblock -665 105 -157 oak_fence"}
+{"cmd":"setblock -665 105 -156 oak_fence"}
+{"cmd":"setblock -674 105 -157 oak_log[axis=x]"}
+{"cmd":"setblock -672 105 -157 oak_log[axis=x]"}
+{"cmd":"setblock -671 105 -157 oak_log[axis=x]"}
+{"cmd":"setblock -670 105 -157 oak_log[axis=x]"}
+{"cmd":"setblock -668 105 -157 oak_log[axis=x]"}
+{"cmd":"setblock -675 105 -156 oak_log[axis=z]"}
+{"cmd":"setblock -667 105 -156 oak_log[axis=z]"}
+{"cmd":"setblock -677 105 -154 oak_fence"}
+{"cmd":"setblock -677 105 -153 oak_fence"}
+{"cmd":"setblock -677 105 -152 oak_fence"}
+{"cmd":"setblock -675 105 -154 oak_log[axis=z]"}
+{"cmd":"setblock -675 105 -153 oak_log[axis=z]"}
+{"cmd":"setblock -675 105 -152 oak_log[axis=z]"}
+{"cmd":"setblock -667 105 -154 oak_log[axis=z]"}
+{"cmd":"setblock -667 105 -153 oak_log[axis=z]"}
+{"cmd":"setblock -667 105 -152 oak_log[axis=z]"}
+{"cmd":"setblock -665 105 -154 oak_fence"}
+{"cmd":"setblock -665 105 -153 oak_fence"}
+{"cmd":"setblock -665 105 -152 oak_fence"}
+{"cmd":"setblock -677 105 -150 oak_fence"}
+{"cmd":"setblock -677 105 -149 oak_fence"}
+{"cmd":"setblock -677 105 -148 oak_fence"}
+{"cmd":"setblock -675 105 -150 oak_log[axis=z]"}
+{"cmd":"setblock -667 105 -150 oak_log[axis=z]"}
+{"cmd":"setblock -665 105 -150 oak_fence"}
+{"cmd":"setblock -665 105 -149 oak_fence"}
+{"cmd":"setblock -665 105 -148 oak_fence"}
+{"cmd":"setblock -674 105 -149 oak_log[axis=x]"}
+{"cmd":"setblock -672 105 -149 oak_log[axis=x]"}
+{"cmd":"setblock -671 105 -149 oak_log[axis=x]"}
+{"cmd":"setblock -670 105 -149 oak_log[axis=x]"}
+{"cmd":"setblock -668 105 -149 oak_log[axis=x]"}
+{"cmd":"setblock -676 105 -147 oak_fence"}
+{"cmd":"setblock -675 105 -147 oak_fence"}
+{"cmd":"setblock -674 105 -147 oak_fence"}
+{"cmd":"setblock -672 105 -147 oak_fence"}
+{"cmd":"setblock -671 105 -147 oak_fence"}
+{"cmd":"setblock -670 105 -147 oak_fence"}
+{"cmd":"setblock -668 105 -147 oak_fence"}
+{"cmd":"setblock -667 105 -147 oak_fence"}
+{"cmd":"setblock -666 105 -147 oak_fence"}
+{"cmd":"setblock -677 106 -160 oak_stairs[facing=east,half=top]"}
+{"cmd":"setblock -676 106 -160 oak_planks"}
+{"cmd":"setblock -676 106 -159 oak_planks"}
+{"cmd":"fill -675 106 -160 -667 106 -160 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -666 106 -160 oak_planks"}
+{"cmd":"setblock -666 106 -159 oak_planks"}
+{"cmd":"setblock -665 106 -160 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -678 106 -159 oak_stairs[facing=south,half=top]"}
+{"cmd":"fill -677 106 -159 -677 106 -147 oak_planks"}
+{"cmd":"fill -675 106 -159 -667 106 -158 oak_planks"}
+{"cmd":"fill -665 106 -159 -665 106 -147 oak_planks"}
+{"cmd":"setblock -664 106 -159 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -678 106 -158 oak_planks"}
+{"cmd":"setblock -676 106 -158 glowstone"}
+{"cmd":"setblock -666 106 -158 glowstone"}
+{"cmd":"setblock -664 106 -158 oak_planks"}
+{"cmd":"fill -678 106 -157 -678 106 -149 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"fill -676 106 -157 -676 106 -149 oak_planks"}
+{"cmd":"fill -666 106 -157 -666 106 -149 oak_planks"}
+{"cmd":"fill -664 106 -157 -664 106 -149 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -678 106 -148 oak_planks"}
+{"cmd":"setblock -676 106 -148 glowstone"}
+{"cmd":"fill -675 106 -148 -667 106 -147 oak_planks"}
+{"cmd":"setblock -666 106 -148 glowstone"}
+{"cmd":"setblock -664 106 -148 oak_planks"}
+{"cmd":"setblock -678 106 -147 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -676 106 -147 oak_planks"}
+{"cmd":"setblock -676 106 -146 oak_planks"}
+{"cmd":"setblock -666 106 -147 oak_planks"}
+{"cmd":"setblock -666 106 -146 oak_planks"}
+{"cmd":"setblock -664 106 -147 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -677 106 -146 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -675 106 -146 -667 106 -146 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -665 106 -146 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -678 107 -160 oak_slab[type=top]"}
+{"cmd":"setblock -677 107 -160 oak_slab[type=bottom]"}
+{"cmd":"setblock -665 107 -160 oak_slab[type=bottom]"}
+{"cmd":"setblock -664 107 -160 oak_slab[type=top]"}
+{"cmd":"setblock -678 107 -159 oak_slab[type=bottom]"}
+{"cmd":"setblock -676 107 -159 oak_slab[type=bottom]"}
+{"cmd":"fill -675 107 -159 -667 107 -159 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -666 107 -159 oak_slab[type=bottom]"}
+{"cmd":"setblock -664 107 -159 oak_slab[type=bottom]"}
+{"cmd":"setblock -677 107 -158 oak_slab[type=bottom]"}
+{"cmd":"setblock -675 107 -158 oak_planks"}
+{"cmd":"setblock -674 107 -158 glowstone"}
+{"cmd":"fill -673 107 -158 -669 107 -158 oak_planks"}
+{"cmd":"setblock -668 107 -158 glowstone"}
+{"cmd":"setblock -667 107 -158 oak_planks"}
+{"cmd":"setblock -665 107 -158 oak_slab[type=bottom]"}
+{"cmd":"fill -677 107 -157 -677 107 -149 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -676 107 -157 oak_planks"}
+{"cmd":"setblock -666 107 -157 oak_planks"}
+{"cmd":"fill -665 107 -157 -665 107 -149 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -676 107 -156 glowstone"}
+{"cmd":"setblock -666 107 -156 glowstone"}
+{"cmd":"fill -676 107 -155 -676 107 -151 oak_planks"}
+{"cmd":"fill -666 107 -155 -666 107 -151 oak_planks"}
+{"cmd":"setblock -676 107 -150 glowstone"}
+{"cmd":"setblock -666 107 -150 glowstone"}
+{"cmd":"setblock -676 107 -149 oak_planks"}
+{"cmd":"setblock -666 107 -149 oak_planks"}
+{"cmd":"setblock -677 107 -148 oak_slab[type=bottom]"}
+{"cmd":"setblock -675 107 -148 oak_planks"}
+{"cmd":"setblock -674 107 -148 glowstone"}
+{"cmd":"fill -673 107 -148 -669 107 -148 oak_planks"}
+{"cmd":"setblock -668 107 -148 glowstone"}
+{"cmd":"setblock -667 107 -148 oak_planks"}
+{"cmd":"setblock -665 107 -148 oak_slab[type=bottom]"}
+{"cmd":"setblock -678 107 -147 oak_slab[type=bottom]"}
+{"cmd":"setblock -676 107 -147 oak_slab[type=bottom]"}
+{"cmd":"fill -675 107 -147 -667 107 -147 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -666 107 -147 oak_slab[type=bottom]"}
+{"cmd":"setblock -664 107 -147 oak_slab[type=bottom]"}
+{"cmd":"setblock -678 107 -146 oak_slab[type=top]"}
+{"cmd":"setblock -677 107 -146 oak_slab[type=bottom]"}
+{"cmd":"setblock -665 107 -146 oak_slab[type=bottom]"}
+{"cmd":"setblock -664 107 -146 oak_slab[type=top]"}
+{"cmd":"fill -675 108 -158 -667 108 -158 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -676 108 -157 -676 108 -149 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -675 108 -157 oak_planks"}
+{"cmd":"setblock -667 108 -157 oak_planks"}
+{"cmd":"fill -666 108 -157 -666 108 -149 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -675 108 -149 oak_planks"}
+{"cmd":"setblock -667 108 -149 oak_planks"}
+{"cmd":"fill -675 108 -148 -667 108 -148 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -674 109 -157 -668 109 -157 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -675 109 -156 -675 109 -150 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -674 109 -156 oak_planks"}
+{"cmd":"setblock -668 109 -156 oak_planks"}
+{"cmd":"fill -667 109 -156 -667 109 -150 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -674 109 -150 oak_planks"}
+{"cmd":"setblock -668 109 -150 oak_planks"}
+{"cmd":"fill -674 109 -149 -668 109 -149 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"fill -673 110 -156 -669 110 -156 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -674 110 -155 -674 110 -151 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -673 110 -155 oak_planks"}
+{"cmd":"setblock -669 110 -155 oak_planks"}
+{"cmd":"fill -668 110 -155 -668 110 -151 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -673 110 -151 oak_planks"}
+{"cmd":"setblock -669 110 -151 oak_planks"}
+{"cmd":"fill -673 110 -150 -669 110 -150 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -673 111 -155 oak_fence"}
+{"cmd":"setblock -673 112 -155 oak_fence"}
+{"cmd":"setblock -669 111 -155 oak_fence"}
+{"cmd":"setblock -669 112 -155 oak_fence"}
+{"cmd":"setblock -673 111 -151 oak_fence"}
+{"cmd":"setblock -673 112 -151 oak_fence"}
+{"cmd":"setblock -669 111 -151 oak_fence"}
+{"cmd":"setblock -669 112 -151 oak_fence"}
+{"cmd":"setblock -672 112 -155 oak_fence"}
+{"cmd":"setblock -671 112 -155 oak_fence"}
+{"cmd":"setblock -670 112 -155 oak_fence"}
+{"cmd":"setblock -673 112 -154 oak_fence"}
+{"cmd":"setblock -673 112 -153 oak_fence"}
+{"cmd":"setblock -673 112 -152 oak_fence"}
+{"cmd":"setblock -669 112 -154 oak_fence"}
+{"cmd":"setblock -669 112 -153 oak_fence"}
+{"cmd":"setblock -669 112 -152 oak_fence"}
+{"cmd":"setblock -672 112 -151 oak_fence"}
+{"cmd":"setblock -671 112 -151 oak_fence"}
+{"cmd":"setblock -670 112 -151 oak_fence"}
+{"cmd":"setblock -673 113 -156 oak_stairs[facing=east,half=top]"}
+{"cmd":"fill -672 113 -156 -672 113 -150 oak_planks"}
+{"cmd":"setblock -671 113 -156 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"fill -670 113 -156 -670 113 -150 oak_planks"}
+{"cmd":"setblock -669 113 -156 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -674 113 -155 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -673 113 -155 glowstone"}
+{"cmd":"fill -671 113 -155 -671 113 -151 oak_planks"}
+{"cmd":"setblock -669 113 -155 glowstone"}
+{"cmd":"setblock -668 113 -155 oak_stairs[facing=south,half=top]"}
+{"cmd":"setblock -674 113 -154 oak_planks"}
+{"cmd":"setblock -673 113 -154 oak_planks"}
+{"cmd":"setblock -669 113 -154 oak_planks"}
+{"cmd":"setblock -668 113 -154 oak_planks"}
+{"cmd":"setblock -674 113 -153 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -673 113 -153 oak_planks"}
+{"cmd":"setblock -673 113 -152 oak_planks"}
+{"cmd":"setblock -669 113 -153 oak_planks"}
+{"cmd":"setblock -669 113 -152 oak_planks"}
+{"cmd":"setblock -668 113 -153 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -674 113 -152 oak_planks"}
+{"cmd":"setblock -668 113 -152 oak_planks"}
+{"cmd":"setblock -674 113 -151 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -673 113 -151 glowstone"}
+{"cmd":"setblock -669 113 -151 glowstone"}
+{"cmd":"setblock -668 113 -151 oak_stairs[facing=north,half=top]"}
+{"cmd":"setblock -673 113 -150 oak_stairs[facing=east,half=top]"}
+{"cmd":"setblock -671 113 -150 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -669 113 -150 oak_stairs[facing=west,half=top]"}
+{"cmd":"setblock -674 114 -156 oak_slab[type=top]"}
+{"cmd":"setblock -673 114 -156 oak_slab[type=bottom]"}
+{"cmd":"setblock -669 114 -156 oak_slab[type=bottom]"}
+{"cmd":"setblock -668 114 -156 oak_slab[type=top]"}
+{"cmd":"setblock -674 114 -155 oak_slab[type=bottom]"}
+{"cmd":"setblock -672 114 -155 oak_slab[type=bottom]"}
+{"cmd":"setblock -671 114 -155 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -670 114 -155 oak_slab[type=bottom]"}
+{"cmd":"setblock -668 114 -155 oak_slab[type=bottom]"}
+{"cmd":"setblock -673 114 -154 oak_slab[type=bottom]"}
+{"cmd":"fill -672 114 -154 -670 114 -152 oak_planks"}
+{"cmd":"setblock -669 114 -154 oak_slab[type=bottom]"}
+{"cmd":"setblock -673 114 -153 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -669 114 -153 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -673 114 -152 oak_slab[type=bottom]"}
+{"cmd":"setblock -669 114 -152 oak_slab[type=bottom]"}
+{"cmd":"setblock -674 114 -151 oak_slab[type=bottom]"}
+{"cmd":"setblock -672 114 -151 oak_slab[type=bottom]"}
+{"cmd":"setblock -671 114 -151 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -670 114 -151 oak_slab[type=bottom]"}
+{"cmd":"setblock -668 114 -151 oak_slab[type=bottom]"}
+{"cmd":"setblock -674 114 -150 oak_slab[type=top]"}
+{"cmd":"setblock -673 114 -150 oak_slab[type=bottom]"}
+{"cmd":"setblock -669 114 -150 oak_slab[type=bottom]"}
+{"cmd":"setblock -668 114 -150 oak_slab[type=top]"}
+{"cmd":"setblock -671 115 -154 oak_stairs[facing=south,half=bottom]"}
+{"cmd":"setblock -672 115 -153 oak_stairs[facing=east,half=bottom]"}
+{"cmd":"setblock -671 115 -153 oak_planks"}
+{"cmd":"setblock -670 115 -153 oak_stairs[facing=west,half=bottom]"}
+{"cmd":"setblock -671 115 -152 oak_stairs[facing=north,half=bottom]"}
+{"cmd":"setblock -671 116 -153 oak_fence"}
+{"cmd":"setblock -671 117 -153 oak_fence"}
+{"cmd":"setblock -649 68 -141 water"}
+{"cmd":"setblock -649 68 -140 water"}
+{"cmd":"setblock -649 68 -139 water"}
+{"cmd":"setblock -649 68 -138 water"}
+{"cmd":"setblock -649 68 -137 water"}
+{"cmd":"setblock -649 68 -136 water"}
+{"cmd":"setblock -649 68 -135 water"}
+{"cmd":"setblock -649 69 -141 water"}
+{"cmd":"setblock -649 69 -140 water"}
+{"cmd":"setblock -649 69 -139 water"}
+{"cmd":"setblock -649 69 -138 water"}
+{"cmd":"setblock -649 69 -137 water"}
+{"cmd":"setblock -649 69 -136 water"}
+{"cmd":"setblock -649 69 -135 water"}
+{"cmd":"setblock -649 70 -141 water"}
+{"cmd":"setblock -649 70 -140 water"}
+{"cmd":"setblock -649 70 -139 water"}
+{"cmd":"setblock -649 70 -138 water"}
+{"cmd":"setblock -689 70 -137 water"}
+{"cmd":"setblock -688 70 -137 water"}
+{"cmd":"setblock -649 70 -137 water"}
+{"cmd":"setblock -688 70 -136 water"}
+{"cmd":"setblock -687 70 -136 water"}
+{"cmd":"setblock -677 70 -136 water"}
+{"cmd":"setblock -676 70 -136 water"}
+{"cmd":"setblock -649 70 -136 water"}
+{"cmd":"setblock -687 70 -135 water"}
+{"cmd":"setblock -686 70 -135 water"}
+{"cmd":"setblock -684 70 -135 water"}
+{"cmd":"setblock -683 70 -135 water"}
+{"cmd":"setblock -682 70 -135 water"}
+{"cmd":"setblock -677 70 -135 water"}
+{"cmd":"setblock -676 70 -135 water"}
+{"cmd":"setblock -649 70 -135 water"}
+{"cmd":"setblock -686 70 -134 water"}
+{"cmd":"setblock -685 70 -134 water"}
+{"cmd":"setblock -684 70 -134 water"}
+{"cmd":"setblock -682 70 -134 water"}
+{"cmd":"setblock -678 70 -134 water"}
+{"cmd":"setblock -677 70 -134 water"}
+{"cmd":"setblock -676 70 -134 water"}
+{"cmd":"setblock -649 70 -134 water"}
+{"cmd":"setblock -682 70 -133 water"}
+{"cmd":"setblock -681 70 -133 water"}
+{"cmd":"setblock -680 70 -133 water"}
+{"cmd":"setblock -679 70 -133 water"}
+{"cmd":"setblock -678 70 -133 water"}
+{"cmd":"setblock -649 70 -132 water"}
+{"cmd":"setblock -679 71 -175 dead_bush"}
+{"cmd":"setblock -676 71 -175 dead_bush"}
+{"cmd":"setblock -667 71 -175 dead_bush"}
+{"cmd":"setblock -664 71 -175 dead_bush"}
+{"cmd":"setblock -661 71 -175 dead_bush"}
+{"cmd":"setblock -658 71 -175 dead_bush"}
+{"cmd":"setblock -655 71 -175 dead_bush"}
+{"cmd":"setblock -652 71 -175 dead_bush"}
+{"cmd":"setblock -692 71 -174 dead_bush"}
+{"cmd":"setblock -691 71 -174 dead_bush"}
+{"cmd":"setblock -687 71 -174 dead_bush"}
+{"cmd":"setblock -674 71 -174 dead_bush"}
+{"cmd":"setblock -671 71 -174 dead_bush"}
+{"cmd":"setblock -680 71 -173 dead_bush"}
+{"cmd":"setblock -654 71 -173 dead_bush"}
+{"cmd":"setblock -650 71 -173 dead_bush"}
+{"cmd":"setblock -688 71 -172 dead_bush"}
+{"cmd":"setblock -661 71 -172 dead_bush"}
+{"cmd":"setblock -692 71 -171 dead_bush"}
+{"cmd":"setblock -679 71 -171 dead_bush"}
+{"cmd":"setblock -670 71 -171 dead_bush"}
+{"cmd":"setblock -662 71 -170 dead_bush"}
+{"cmd":"setblock -650 71 -170 dead_bush"}
+{"cmd":"setblock -682 71 -169 dead_bush"}
+{"cmd":"setblock -679 71 -169 dead_bush"}
+{"cmd":"setblock -668 71 -169 dead_bush"}
+{"cmd":"setblock -654 71 -169 dead_bush"}
+{"cmd":"setblock -693 71 -168 dead_bush"}
+{"cmd":"setblock -651 71 -168 dead_bush"}
+{"cmd":"setblock -687 71 -165 dead_bush"}
+{"cmd":"setblock -693 71 -164 dead_bush"}
+{"cmd":"setblock -691 71 -164 dead_bush"}
+{"cmd":"setblock -690 71 -164 dead_bush"}
+{"cmd":"setblock -655 71 -164 dead_bush"}
+{"cmd":"setblock -690 71 -162 dead_bush"}
+{"cmd":"setblock -687 71 -162 dead_bush"}
+{"cmd":"setblock -654 71 -162 dead_bush"}
+{"cmd":"setblock -655 71 -161 dead_bush"}
+{"cmd":"setblock -652 71 -160 dead_bush"}
+{"cmd":"setblock -687 71 -159 dead_bush"}
+{"cmd":"setblock -650 71 -159 dead_bush"}
+{"cmd":"setblock -691 71 -156 dead_bush"}
+{"cmd":"setblock -687 71 -156 dead_bush"}
+{"cmd":"setblock -650 71 -156 dead_bush"}
+{"cmd":"setblock -692 71 -155 dead_bush"}
+{"cmd":"setblock -689 71 -155 dead_bush"}
+{"cmd":"setblock -692 71 -153 dead_bush"}
+{"cmd":"setblock -690 71 -152 dead_bush"}
+{"cmd":"setblock -688 71 -152 dead_bush"}
+{"cmd":"setblock -691 71 -150 dead_bush"}
+{"cmd":"setblock -689 71 -150 dead_bush"}
+{"cmd":"setblock -653 71 -150 dead_bush"}
+{"cmd":"setblock -650 71 -150 dead_bush"}
+{"cmd":"setblock -687 71 -149 dead_bush"}
+{"cmd":"setblock -692 71 -148 dead_bush"}
+{"cmd":"setblock -655 71 -147 dead_bush"}
+{"cmd":"setblock -693 71 -145 dead_bush"}
+{"cmd":"setblock -693 71 -144 dead_bush"}
+{"cmd":"setblock -654 71 -144 dead_bush"}
+{"cmd":"setblock -650 71 -144 dead_bush"}
+{"cmd":"setblock -689 71 -143 dead_bush"}
+{"cmd":"setblock -691 71 -142 dead_bush"}
+{"cmd":"setblock -693 71 -141 dead_bush"}
+{"cmd":"setblock -692 71 -138 dead_bush"}
+{"cmd":"setblock -651 71 -138 dead_bush"}
+{"cmd":"setblock -693 71 -137 dead_bush"}
+{"cmd":"setblock -687 71 -137 sugar_cane"}
+{"cmd":"setblock -685 71 -137 dead_bush"}
+{"cmd":"setblock -691 71 -136 dead_bush"}
+{"cmd":"setblock -687 71 -136 lily_pad"}
+{"cmd":"setblock -686 71 -136 sugar_cane"}
+{"cmd":"setblock -684 71 -136 sugar_cane"}
+{"cmd":"setblock -683 71 -136 sugar_cane"}
+{"cmd":"setblock -676 71 -136 water"}
+{"cmd":"setblock -662 71 -136 dead_bush"}
+{"cmd":"setblock -652 71 -136 dead_bush"}
+{"cmd":"setblock -672 71 -135 dead_bush"}
+{"cmd":"setblock -693 71 -134 dead_bush"}
+{"cmd":"setblock -687 71 -134 sugar_cane"}
+{"cmd":"setblock -685 71 -134 lily_pad"}
+{"cmd":"setblock -682 71 -134 lily_pad"}
+{"cmd":"setblock -681 71 -134 sugar_cane"}
+{"cmd":"setblock -680 71 -134 sugar_cane"}
+{"cmd":"setblock -675 71 -134 sugar_cane"}
+{"cmd":"setblock -671 71 -134 dead_bush"}
+{"cmd":"setblock -662 71 -134 dead_bush"}
+{"cmd":"setblock -660 71 -134 dead_bush"}
+{"cmd":"setblock -681 71 -133 lily_pad"}
+{"cmd":"setblock -676 71 -133 sugar_cane"}
+{"cmd":"setblock -654 71 -133 dead_bush"}
+{"cmd":"setblock -650 71 -133 dead_bush"}
+{"cmd":"setblock -692 71 -132 dead_bush"}
+{"cmd":"setblock -686 71 -132 dead_bush"}
+{"cmd":"setblock -678 71 -132 sugar_cane"}
+{"cmd":"setblock -677 71 -132 dead_bush"}
+{"cmd":"setblock -675 71 -132 dead_bush"}
+{"cmd":"setblock -671 71 -132 dead_bush"}
+{"cmd":"setblock -667 71 -132 dead_bush"}
+{"cmd":"setblock -663 71 -132 dead_bush"}
+{"cmd":"setblock -661 71 -132 dead_bush"}
+{"cmd":"setblock -658 71 -132 dead_bush"}
+{"cmd":"setblock -691 71 -131 dead_bush"}
+{"cmd":"setblock -688 71 -131 dead_bush"}
+{"cmd":"setblock -682 71 -131 dead_bush"}
+{"cmd":"setblock -679 71 -131 dead_bush"}
+{"cmd":"setblock -664 71 -131 dead_bush"}
+{"cmd":"setblock -655 71 -131 dead_bush"}
+{"cmd":"setblock -651 71 -131 dead_bush"}
+{"cmd":"setblock -687 71 -130 fern"}
+{"cmd":"setblock -686 71 -130 fern"}
+{"cmd":"setblock -657 71 -128 dead_bush"}
+{"cmd":"setblock -651 71 -128 dead_bush"}
+{"cmd":"setblock -665 71 -127 dead_bush"}
+{"cmd":"setblock -662 71 -127 dead_bush"}
+{"cmd":"setblock -653 71 -127 dead_bush"}
+{"cmd":"setblock -665 71 -118 dead_bush"}
+{"cmd":"setblock -666 71 -117 dead_bush"}
+{"cmd":"setblock -664 71 -116 dead_bush"}
+{"cmd":"setblock -666 71 -114 dead_bush"}
+{"cmd":"setblock -663 71 -113 dead_bush"}
+{"cmd":"setblock -666 71 -112 dead_bush"}
+{"cmd":"setblock -687 72 -137 sugar_cane"}
+{"cmd":"setblock -676 72 -137 water"}
+{"cmd":"setblock -691 72 -136 water"}
+{"cmd":"setblock -690 72 -136 water"}
+{"cmd":"setblock -689 72 -136 water"}
+{"cmd":"setblock -688 72 -136 water"}
+{"cmd":"setblock -686 72 -136 sugar_cane"}
+{"cmd":"setblock -684 72 -136 sugar_cane"}
+{"cmd":"setblock -683 72 -136 sugar_cane"}
+{"cmd":"setblock -676 72 -136 water"}
+{"cmd":"setblock -675 72 -136 water"}
+{"cmd":"setblock -692 72 -135 water"}
+{"cmd":"setblock -691 72 -135 water"}
+{"cmd":"setblock -690 72 -135 water"}
+{"cmd":"setblock -689 72 -135 water"}
+{"cmd":"setblock -688 72 -135 water"}
+{"cmd":"setblock -692 72 -134 water"}
+{"cmd":"setblock -691 72 -134 water"}
+{"cmd":"setblock -689 72 -134 water"}
+{"cmd":"setblock -688 72 -134 water"}
+{"cmd":"setblock -687 72 -134 sugar_cane"}
+{"cmd":"setblock -681 72 -134 sugar_cane"}
+{"cmd":"setblock -680 72 -134 sugar_cane"}
+{"cmd":"setblock -675 72 -134 sugar_cane"}
+{"cmd":"setblock -692 72 -133 water"}
+{"cmd":"setblock -691 72 -133 water"}
+{"cmd":"setblock -690 72 -133 water"}
+{"cmd":"setblock -689 72 -133 water"}
+{"cmd":"setblock -688 72 -133 water"}
+{"cmd":"setblock -676 72 -133 sugar_cane"}
+{"cmd":"setblock -691 72 -132 water"}
+{"cmd":"setblock -690 72 -132 water"}
+{"cmd":"setblock -689 72 -132 water"}
+{"cmd":"setblock -678 72 -132 sugar_cane"}
+{"cmd":"setblock -656 72 -119 flower_pot"}
+{"cmd":"setblock -654 73 -174 water"}
+{"cmd":"setblock -653 73 -174 water"}
+{"cmd":"setblock -652 73 -174 water"}
+{"cmd":"setblock -651 73 -174 water"}
+{"cmd":"setblock -654 73 -173 water"}
+{"cmd":"setblock -653 73 -173 water"}
+{"cmd":"setblock -652 73 -173 water"}
+{"cmd":"setblock -651 73 -173 water"}
+{"cmd":"setblock -650 73 -173 water"}
+{"cmd":"setblock -654 73 -172 water"}
+{"cmd":"setblock -653 73 -172 water"}
+{"cmd":"setblock -651 73 -172 water"}
+{"cmd":"setblock -650 73 -172 water"}
+{"cmd":"setblock -654 73 -171 water"}
+{"cmd":"setblock -653 73 -171 water"}
+{"cmd":"setblock -652 73 -171 water"}
+{"cmd":"setblock -651 73 -171 water"}
+{"cmd":"setblock -650 73 -171 water"}
+{"cmd":"setblock -653 73 -170 water"}
+{"cmd":"setblock -652 73 -170 water"}
+{"cmd":"setblock -651 73 -170 water"}
+{"cmd":"setblock -687 73 -137 sugar_cane"}
+{"cmd":"setblock -691 73 -136 water"}
+{"cmd":"setblock -690 73 -136 water"}
+{"cmd":"setblock -689 73 -136 water"}
+{"cmd":"setblock -686 73 -136 sugar_cane"}
+{"cmd":"setblock -684 73 -136 sugar_cane"}
+{"cmd":"setblock -683 73 -136 sugar_cane"}
+{"cmd":"setblock -653 73 -136 water"}
+{"cmd":"setblock -652 73 -136 water"}
+{"cmd":"setblock -651 73 -136 water"}
+{"cmd":"setblock -650 73 -136 water"}
+{"cmd":"setblock -692 73 -135 water"}
+{"cmd":"setblock -691 73 -135 water"}
+{"cmd":"setblock -690 73 -135 water"}
+{"cmd":"setblock -689 73 -135 water"}
+{"cmd":"setblock -688 73 -135 water"}
+{"cmd":"setblock -654 73 -135 water"}
+{"cmd":"setblock -653 73 -135 water"}
+{"cmd":"setblock -652 73 -135 water"}
+{"cmd":"setblock -651 73 -135 water"}
+{"cmd":"setblock -650 73 -135 water"}
+{"cmd":"setblock -692 73 -134 water"}
+{"cmd":"setblock -691 73 -134 water"}
+{"cmd":"setblock -689 73 -134 water"}
+{"cmd":"setblock -688 73 -134 water"}
+{"cmd":"setblock -687 73 -134 sugar_cane"}
+{"cmd":"setblock -681 73 -134 sugar_cane"}
+{"cmd":"setblock -680 73 -134 sugar_cane"}
+{"cmd":"setblock -675 73 -134 sugar_cane"}
+{"cmd":"setblock -654 73 -134 water"}
+{"cmd":"setblock -653 73 -134 water"}
+{"cmd":"setblock -651 73 -134 water"}
+{"cmd":"setblock -650 73 -134 water"}
+{"cmd":"setblock -692 73 -133 water"}
+{"cmd":"setblock -691 73 -133 water"}
+{"cmd":"setblock -690 73 -133 water"}
+{"cmd":"setblock -689 73 -133 water"}
+{"cmd":"setblock -688 73 -133 water"}
+{"cmd":"setblock -676 73 -133 sugar_cane"}
+{"cmd":"setblock -654 73 -133 water"}
+{"cmd":"setblock -653 73 -133 water"}
+{"cmd":"setblock -652 73 -133 water"}
+{"cmd":"setblock -651 73 -133 water"}
+{"cmd":"setblock -650 73 -133 water"}
+{"cmd":"setblock -691 73 -132 water"}
+{"cmd":"setblock -690 73 -132 water"}
+{"cmd":"setblock -689 73 -132 water"}
+{"cmd":"setblock -688 73 -132 water"}
+{"cmd":"setblock -678 73 -132 sugar_cane"}
+{"cmd":"setblock -654 73 -132 water"}
+{"cmd":"setblock -653 73 -132 water"}
+{"cmd":"setblock -652 73 -132 water"}
+{"cmd":"setblock -651 73 -132 water"}
+{"cmd":"setblock -661 73 -131 water"}
+{"cmd":"setblock -660 73 -131 water"}
+{"cmd":"setblock -659 73 -131 water"}
+{"cmd":"setblock -662 73 -130 water"}
+{"cmd":"setblock -661 73 -130 water"}
+{"cmd":"setblock -660 73 -130 water"}
+{"cmd":"setblock -659 73 -130 water"}
+{"cmd":"setblock -658 73 -130 water"}
+{"cmd":"setblock -662 73 -129 water"}
+{"cmd":"setblock -661 73 -129 water"}
+{"cmd":"setblock -660 73 -129 water"}
+{"cmd":"setblock -659 73 -129 water"}
+{"cmd":"setblock -658 73 -129 water"}
+{"cmd":"setblock -662 73 -128 water"}
+{"cmd":"setblock -661 73 -128 water"}
+{"cmd":"setblock -659 73 -128 water"}
+{"cmd":"setblock -658 73 -128 water"}
+{"cmd":"setblock -662 73 -127 water"}
+{"cmd":"setblock -661 73 -127 water"}
+{"cmd":"setblock -660 73 -127 water"}
+{"cmd":"setblock -659 73 -127 water"}
+{"cmd":"setblock -658 73 -127 water"}
+{"cmd":"setblock -662 73 -126 water"}
+{"cmd":"setblock -661 73 -126 water"}
+{"cmd":"setblock -660 73 -126 water"}
+{"cmd":"setblock -659 73 -126 water"}
+{"cmd":"setblock -668 73 -115 water"}
+{"cmd":"setblock -667 73 -115 water"}
+{"cmd":"setblock -666 73 -115 water"}
+{"cmd":"setblock -665 73 -115 water"}
+{"cmd":"setblock -664 73 -115 water"}
+{"cmd":"setblock -669 73 -114 water"}
+{"cmd":"setblock -668 73 -114 water"}
+{"cmd":"setblock -667 73 -114 water"}
+{"cmd":"setblock -666 73 -114 water"}
+{"cmd":"setblock -665 73 -114 water"}
+{"cmd":"setblock -664 73 -114 water"}
+{"cmd":"setblock -669 73 -113 water"}
+{"cmd":"setblock -668 73 -113 water"}
+{"cmd":"setblock -667 73 -113 water"}
+{"cmd":"setblock -665 73 -113 water"}
+{"cmd":"setblock -664 73 -113 water"}
+{"cmd":"setblock -669 73 -112 water"}
+{"cmd":"setblock -668 73 -112 water"}
+{"cmd":"setblock -667 73 -112 water"}
+{"cmd":"setblock -666 73 -112 water"}
+{"cmd":"setblock -665 73 -112 water"}
+{"cmd":"setblock -664 73 -112 water"}
+{"cmd":"setblock -668 73 -111 water"}
+{"cmd":"setblock -667 73 -111 water"}
+{"cmd":"setblock -666 73 -111 water"}
+{"cmd":"setblock -665 73 -111 water"}
+{"cmd":"setblock -691 74 -174 water"}
+{"cmd":"setblock -690 74 -174 water"}
+{"cmd":"setblock -689 74 -174 water"}
+{"cmd":"setblock -654 74 -174 water"}
+{"cmd":"setblock -653 74 -174 water"}
+{"cmd":"setblock -652 74 -174 water"}
+{"cmd":"setblock -651 74 -174 water"}
+{"cmd":"setblock -692 74 -173 water"}
+{"cmd":"setblock -691 74 -173 water"}
+{"cmd":"setblock -690 74 -173 water"}
+{"cmd":"setblock -689 74 -173 water"}
+{"cmd":"setblock -688 74 -173 water"}
+{"cmd":"setblock -654 74 -173 water"}
+{"cmd":"setblock -653 74 -173 water"}
+{"cmd":"setblock -652 74 -173 water"}
+{"cmd":"setblock -651 74 -173 water"}
+{"cmd":"setblock -650 74 -173 water"}
+{"cmd":"setblock -692 74 -172 water"}
+{"cmd":"setblock -691 74 -172 water"}
+{"cmd":"setblock -689 74 -172 water"}
+{"cmd":"setblock -688 74 -172 water"}
+{"cmd":"setblock -654 74 -172 water"}
+{"cmd":"setblock -653 74 -172 water"}
+{"cmd":"setblock -651 74 -172 water"}
+{"cmd":"setblock -650 74 -172 water"}
+{"cmd":"setblock -692 74 -171 water"}
+{"cmd":"setblock -691 74 -171 water"}
+{"cmd":"setblock -690 74 -171 water"}
+{"cmd":"setblock -689 74 -171 water"}
+{"cmd":"setblock -688 74 -171 water"}
+{"cmd":"setblock -654 74 -171 water"}
+{"cmd":"setblock -653 74 -171 water"}
+{"cmd":"setblock -652 74 -171 water"}
+{"cmd":"setblock -651 74 -171 water"}
+{"cmd":"setblock -650 74 -171 water"}
+{"cmd":"setblock -691 74 -170 water"}
+{"cmd":"setblock -690 74 -170 water"}
+{"cmd":"setblock -689 74 -170 water"}
+{"cmd":"setblock -653 74 -170 water"}
+{"cmd":"setblock -652 74 -170 water"}
+{"cmd":"setblock -651 74 -170 water"}
+{"cmd":"setblock -650 74 -170 water"}
+{"cmd":"setblock -653 74 -136 water"}
+{"cmd":"setblock -652 74 -136 water"}
+{"cmd":"setblock -651 74 -136 water"}
+{"cmd":"setblock -650 74 -136 water"}
+{"cmd":"setblock -690 74 -135 water"}
+{"cmd":"setblock -654 74 -135 water"}
+{"cmd":"setblock -653 74 -135 water"}
+{"cmd":"setblock -652 74 -135 water"}
+{"cmd":"setblock -651 74 -135 water"}
+{"cmd":"setblock -650 74 -135 water"}
+{"cmd":"setblock -691 74 -134 water"}
+{"cmd":"setblock -689 74 -134 water"}
+{"cmd":"setblock -654 74 -134 water"}
+{"cmd":"setblock -653 74 -134 water"}
+{"cmd":"setblock -651 74 -134 water"}
+{"cmd":"setblock -650 74 -134 water"}
+{"cmd":"setblock -691 74 -133 water"}
+{"cmd":"setblock -690 74 -133 water"}
+{"cmd":"setblock -654 74 -133 water"}
+{"cmd":"setblock -653 74 -133 water"}
+{"cmd":"setblock -652 74 -133 water"}
+{"cmd":"setblock -651 74 -133 water"}
+{"cmd":"setblock -650 74 -133 water"}
+{"cmd":"setblock -653 74 -132 water"}
+{"cmd":"setblock -652 74 -132 water"}
+{"cmd":"setblock -651 74 -132 water"}
+{"cmd":"setblock -650 74 -132 water"}
+{"cmd":"setblock -661 74 -130 water"}
+{"cmd":"setblock -660 74 -130 water"}
+{"cmd":"setblock -659 74 -130 water"}
+{"cmd":"setblock -662 74 -129 water"}
+{"cmd":"setblock -661 74 -129 water"}
+{"cmd":"setblock -660 74 -129 water"}
+{"cmd":"setblock -659 74 -129 water"}
+{"cmd":"setblock -662 74 -128 water"}
+{"cmd":"setblock -661 74 -128 water"}
+{"cmd":"setblock -659 74 -128 water"}
+{"cmd":"setblock -658 74 -128 water"}
+{"cmd":"setblock -670 74 -127 water"}
+{"cmd":"setblock -669 74 -127 water"}
+{"cmd":"setblock -668 74 -127 water"}
+{"cmd":"setblock -667 74 -127 water"}
+{"cmd":"setblock -662 74 -127 water"}
+{"cmd":"setblock -661 74 -127 water"}
+{"cmd":"setblock -660 74 -127 water"}
+{"cmd":"setblock -659 74 -127 water"}
+{"cmd":"setblock -658 74 -127 water"}
+{"cmd":"setblock -670 74 -126 water"}
+{"cmd":"setblock -669 74 -126 water"}
+{"cmd":"setblock -668 74 -126 water"}
+{"cmd":"setblock -667 74 -126 water"}
+{"cmd":"setblock -666 74 -126 water"}
+{"cmd":"setblock -661 74 -126 water"}
+{"cmd":"setblock -660 74 -126 water"}
+{"cmd":"setblock -659 74 -126 water"}
+{"cmd":"setblock -658 74 -126 water"}
+{"cmd":"setblock -670 74 -125 water"}
+{"cmd":"setblock -669 74 -125 water"}
+{"cmd":"setblock -667 74 -125 water"}
+{"cmd":"setblock -666 74 -125 water"}
+{"cmd":"setblock -670 74 -124 water"}
+{"cmd":"setblock -669 74 -124 water"}
+{"cmd":"setblock -668 74 -124 water"}
+{"cmd":"setblock -667 74 -124 water"}
+{"cmd":"setblock -666 74 -124 water"}
+{"cmd":"setblock -670 74 -123 water"}
+{"cmd":"setblock -669 74 -123 water"}
+{"cmd":"setblock -668 74 -123 water"}
+{"cmd":"setblock -667 74 -123 water"}
+{"cmd":"setblock -666 74 -123 water"}
+{"cmd":"setblock -667 74 -115 water"}
+{"cmd":"setblock -666 74 -115 water"}
+{"cmd":"setblock -665 74 -115 water"}
+{"cmd":"setblock -664 74 -115 water"}
+{"cmd":"setblock -668 74 -114 water"}
+{"cmd":"setblock -667 74 -114 water"}
+{"cmd":"setblock -666 74 -114 water"}
+{"cmd":"setblock -665 74 -114 water"}
+{"cmd":"setblock -664 74 -114 water"}
+{"cmd":"setblock -668 74 -113 water"}
+{"cmd":"setblock -667 74 -113 water"}
+{"cmd":"setblock -665 74 -113 water"}
+{"cmd":"setblock -664 74 -113 water"}
+{"cmd":"setblock -668 74 -112 water"}
+{"cmd":"setblock -667 74 -112 water"}
+{"cmd":"setblock -666 74 -112 water"}
+{"cmd":"setblock -665 74 -112 water"}
+{"cmd":"setblock -664 74 -112 water"}
+{"cmd":"setblock -667 74 -111 water"}
+{"cmd":"setblock -666 74 -111 water"}
+{"cmd":"setblock -665 74 -111 water"}
+{"cmd":"setblock -692 75 -174 water"}
+{"cmd":"setblock -691 75 -174 water"}
+{"cmd":"setblock -690 75 -174 water"}
+{"cmd":"setblock -689 75 -174 water"}
+{"cmd":"setblock -688 75 -174 water"}
+{"cmd":"setblock -692 75 -173 water"}
+{"cmd":"setblock -691 75 -173 water"}
+{"cmd":"setblock -690 75 -173 water"}
+{"cmd":"setblock -689 75 -173 water"}
+{"cmd":"setblock -688 75 -173 water"}
+{"cmd":"setblock -652 75 -173 water"}
+{"cmd":"setblock -692 75 -172 water"}
+{"cmd":"setblock -691 75 -172 water"}
+{"cmd":"setblock -689 75 -172 water"}
+{"cmd":"setblock -688 75 -172 water"}
+{"cmd":"setblock -653 75 -172 water"}
+{"cmd":"setblock -651 75 -172 water"}
+{"cmd":"setblock -692 75 -171 water"}
+{"cmd":"setblock -691 75 -171 water"}
+{"cmd":"setblock -690 75 -171 water"}
+{"cmd":"setblock -689 75 -171 water"}
+{"cmd":"setblock -688 75 -171 water"}
+{"cmd":"setblock -653 75 -171 water"}
+{"cmd":"setblock -652 75 -171 water"}
+{"cmd":"setblock -691 75 -170 water"}
+{"cmd":"setblock -690 75 -170 water"}
+{"cmd":"setblock -689 75 -170 water"}
+{"cmd":"setblock -690 75 -135 water"}
+{"cmd":"setblock -653 75 -135 water"}
+{"cmd":"setblock -652 75 -135 water"}
+{"cmd":"setblock -651 75 -135 water"}
+{"cmd":"setblock -691 75 -134 water"}
+{"cmd":"setblock -690 75 -134 water"}
+{"cmd":"setblock -689 75 -134 water"}
+{"cmd":"setblock -653 75 -134 water"}
+{"cmd":"setblock -651 75 -134 water"}
+{"cmd":"setblock -690 75 -133 water"}
+{"cmd":"setblock -652 75 -133 water"}
+{"cmd":"setblock -661 75 -129 water"}
+{"cmd":"setblock -660 75 -129 water"}
+{"cmd":"setblock -659 75 -129 water"}
+{"cmd":"setblock -661 75 -128 water"}
+{"cmd":"setblock -659 75 -128 water"}
+{"cmd":"setblock -669 75 -127 water"}
+{"cmd":"setblock -668 75 -127 water"}
+{"cmd":"setblock -667 75 -127 water"}
+{"cmd":"setblock -666 75 -127 water"}
+{"cmd":"setblock -660 75 -127 water"}
+{"cmd":"setblock -670 75 -126 water"}
+{"cmd":"setblock -669 75 -126 water"}
+{"cmd":"setblock -668 75 -126 water"}
+{"cmd":"setblock -667 75 -126 water"}
+{"cmd":"setblock -666 75 -126 water"}
+{"cmd":"setblock -670 75 -125 water"}
+{"cmd":"setblock -669 75 -125 water"}
+{"cmd":"setblock -667 75 -125 water"}
+{"cmd":"setblock -666 75 -125 water"}
+{"cmd":"setblock -670 75 -124 water"}
+{"cmd":"setblock -669 75 -124 water"}
+{"cmd":"setblock -668 75 -124 water"}
+{"cmd":"setblock -667 75 -124 water"}
+{"cmd":"setblock -666 75 -124 water"}
+{"cmd":"setblock -670 75 -123 water"}
+{"cmd":"setblock -669 75 -123 water"}
+{"cmd":"setblock -668 75 -123 water"}
+{"cmd":"setblock -667 75 -123 water"}
+{"cmd":"setblock -666 75 -123 water"}
+{"cmd":"setblock -667 75 -114 water"}
+{"cmd":"setblock -666 75 -114 water"}
+{"cmd":"setblock -665 75 -114 water"}
+{"cmd":"setblock -667 75 -113 water"}
+{"cmd":"setblock -665 75 -113 water"}
+{"cmd":"setblock -667 75 -112 water"}
+{"cmd":"setblock -666 75 -112 water"}
+{"cmd":"setblock -690 76 -173 water"}
+{"cmd":"setblock -689 76 -173 water"}
+{"cmd":"setblock -652 76 -173 water"}
+{"cmd":"setblock -691 76 -172 water"}
+{"cmd":"setblock -689 76 -172 water"}
+{"cmd":"setblock -653 76 -172 water"}
+{"cmd":"setblock -652 76 -172 water"}
+{"cmd":"setblock -651 76 -172 water"}
+{"cmd":"setblock -690 76 -171 water"}
+{"cmd":"setblock -689 76 -171 water"}
+{"cmd":"setblock -652 76 -171 water"}
+{"cmd":"setblock -652 76 -135 water"}
+{"cmd":"setblock -653 76 -134 water"}
+{"cmd":"setblock -652 76 -134 water"}
+{"cmd":"setblock -651 76 -134 water"}
+{"cmd":"setblock -652 76 -133 water"}
+{"cmd":"setblock -660 76 -129 water"}
+{"cmd":"setblock -661 76 -128 water"}
+{"cmd":"setblock -660 76 -128 water"}
+{"cmd":"setblock -659 76 -128 water"}
+{"cmd":"setblock -660 76 -127 water"}
+{"cmd":"setblock -669 76 -126 water"}
+{"cmd":"setblock -668 76 -126 water"}
+{"cmd":"setblock -667 76 -126 water"}
+{"cmd":"setblock -669 76 -125 water"}
+{"cmd":"setblock -667 76 -125 water"}
+{"cmd":"setblock -669 76 -124 water"}
+{"cmd":"setblock -668 76 -124 water"}
+{"cmd":"setblock -666 76 -114 water"}
+{"cmd":"setblock -666 76 -113 water"}
+{"cmd":"setblock -665 76 -113 water"}
+{"cmd":"setblock -666 76 -112 water"}
+{"cmd":"setblock -690 77 -173 water"}
+{"cmd":"setblock -691 77 -172 water"}
+{"cmd":"setblock -690 77 -172 water"}
+{"cmd":"setblock -689 77 -172 water"}
+{"cmd":"setblock -690 77 -171 water"}
+{"cmd":"setblock -668 77 -126 water"}
+{"cmd":"setblock -669 77 -125 water"}
+{"cmd":"setblock -668 77 -125 water"}
+{"cmd":"setblock -667 77 -125 water"}
+{"cmd":"setblock -668 77 -124 water"}

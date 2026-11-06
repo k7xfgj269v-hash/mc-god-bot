@@ -1,0 +1,4 @@
+{"cmd":"effect give ludwigxu minecraft:resistance 999999 5 true"}
+{"cmd":"effect give ludwigxu minecraft:fire_resistance 999999 0 true"}
+{"cmd":"effect give ludwigxu minecraft:regeneration 999999 255 true"}
+{"cmd":"say 神谕 给你上了抵抗5+防火+回血buff,死不了了;不想要就说取消buff"}

@@ -1,0 +1,20 @@
+{"cmd": "fill ~-10 ~-1 ~-7 ~9 ~-1 ~7 stone"}
+{"cmd": "fill ~-10 ~8 ~-7 ~9 ~8 ~7 stone"}
+{"cmd": "fill ~-10 ~0 ~-7 ~-10 ~7 ~7 stone"}
+{"cmd": "fill ~9 ~0 ~-7 ~9 ~7 ~7 stone"}
+{"cmd": "fill ~-10 ~0 ~-7 ~9 ~7 ~-7 stone"}
+{"cmd": "fill ~-10 ~0 ~7 ~9 ~7 ~7 stone"}
+{"cmd": "fill ~-10 ~2 ~-7 ~9 ~2 ~7 stone"}
+{"cmd": "fill ~-10 ~5 ~-7 ~9 ~5 ~7 stone"}
+{"cmd": "fill ~-9 ~0 ~-6 ~8 ~1 ~6 air"}
+{"cmd": "fill ~-9 ~3 ~-6 ~8 ~4 ~6 air"}
+{"cmd": "fill ~-9 ~6 ~-6 ~8 ~7 ~6 air"}
+{"cmd": "fill ~-10 ~1 ~-4 ~-10 ~1 ~4 glass_pane"}
+{"cmd": "fill ~-10 ~4 ~-4 ~-10 ~4 ~4 glass_pane"}
+{"cmd": "fill ~-10 ~7 ~-4 ~-10 ~7 ~4 glass_pane"}
+{"cmd": "fill ~9 ~1 ~-4 ~9 ~1 ~4 glass_pane"}
+{"cmd": "fill ~9 ~4 ~-4 ~9 ~4 ~4 glass_pane"}
+{"cmd": "fill ~9 ~7 ~-4 ~9 ~7 ~4 glass_pane"}
+{"cmd": "setblock ~ ~0 ~-7 minecraft:oak_door[facing=south,half=lower]"}
+{"cmd": "setblock ~ ~1 ~-7 minecraft:oak_door[facing=south,half=upper]"}
+{"cmd": "say 神谕 大宅已建成 三层20x15石头房 你在一楼正中央 门开在南边"}

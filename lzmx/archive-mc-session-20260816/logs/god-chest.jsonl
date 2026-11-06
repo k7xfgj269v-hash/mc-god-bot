@@ -1,0 +1,3 @@
+{"cmd":"execute at ludwigxu run setblock ~ ~-1 ~ minecraft:chest"}
+{"cmd":"execute at ludwigxu run setblock ~1 ~-1 ~ minecraft:chest"}
+{"cmd":"say 神谕 双箱子已放在你脚下,低头就能开,物资随便放"}
