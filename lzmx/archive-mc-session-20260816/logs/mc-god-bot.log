@@ -1,0 +1,2490 @@
+(node:1035) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[diag] patched after inject: entity_metadata/declare_commands/block_action listeners: 1 1 1
+[fml3] got login_plugin_request, len=8709
+[fml3] handshake discriminator=ModData
+[fml3] got login_plugin_request, len=6433
+[fml3] handshake discriminator=ModList
+[fml3] got login_plugin_request, len=2294
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=371
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=290300
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3015
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9959
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=257
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=209
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=224
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=166
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4502
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4497
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3472
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=155611
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=18036
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=138
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1435
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1995
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=145674
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=307
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=232
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9855
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=2539
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4070
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=432
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=128
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=37678
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=512
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3096
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1218
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1839
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=6254
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3100
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=548
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=236
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1085
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=354
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=428
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=5047
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=670
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=277
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=15398
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=252
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=266
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3123
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=17675
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=141
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=11799
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1066
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1026
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1802
+[fml3] handshake discriminator=ConfigurationData
+[diag] declare_commands re-patched after login
+[join] ludwigxu
+[god] creative + invisible (attempt)
+[bot] 上线
+[msg] Set own game mode to Creative Mode
+[msg] Applied effect Invisibility to ludwiggod
+[scan] ludwigxu @ -680,73,-147 yaw=1.7
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] say [神] ludwigxu 站到黑曜石箱子旁喊一声，或直接告诉我箱子大概坐标(朝向我现在定位不准)
+[msg] [ludwiggod] [神] ludwigxu 站到黑曜石箱子旁喊一声，或直接告诉我箱子大概坐标(朝向我现在定位不准)
+[msg] enhancedcelestials.notification.blood_moon.set
+[msg] ftbbackups2.backup.starting
+[msg] Backup finished in 0m, 9s, 568ms
+[msg] PIGGOD joined the game
+[join] PIGGOD
+[msg] PIGGOD has made the advancement [Ol' Betsy]
+[msg] PIGGOD was killed by entity.mowziesmobs.naga using magic
+[exec] kill @e[type=#minecraft:monsters]
+[msg] No entity was found
+[exec] kill @e[type=mowziesmobs:naga,distance=..128]
+[exec] kill @e[type=mowziesmobs:umvuthana_raptor,distance=..128]
+[exec] kill @e[type=mowziesmobs:umvuthana_follower_raptor,distance=..128]
+[exec] kill @e[type=mowziesmobs:grottol,distance=..128]
+[exec] kill @e[type=mowziesmobs:foliaath,distance=..128]
+[exec] kill @e[type=mowziesmobs:baby_foliaath,distance=..128]
+[exec] kill @e[type=mowziesmobs:ferrous_wroughtnaut,distance=..128]
+[exec] kill @e[type=mowziesmobs:frostmaw,distance=..128]
+[exec] kill @e[type=mowziesmobs:bluff,distance=..128]
+[exec] kill @e[type=mowziesmobs:sculptor,distance=..128]
+[msg] Killed 7 entities
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[exec] kill @e[type=mowziesmobs:naga,distance=..256]
+[exec] kill @e[type=mowziesmobs:elokosa_howler,distance=..256]
+[exec] kill @e[type=mowziesmobs:elokosa_follower_howler,distance=..256]
+[exec] kill @e[type=#minecraft:monsters,distance=..128]
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] PIGGOD has made the advancement [advancements.refinedstorage.drives]
+[msg] PIGGOD has made the advancement [advancements.refinedstorage.upgrading_your_grid]
+[msg] <ludwigxu> 神 告诉我我面前的东西怎么用干什么的
+[chat] ludwigxu: 神 告诉我我面前的东西怎么用干什么的
+[scan] ludwigxu @ -675,73,-143 yaw=2.0
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] data get block -676 73 -142
+[exec] data get block -675 73 -142
+[exec] data get block -674 73 -142
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -141
+[exec] data get block -674 73 -141
+[exec] data get block -676 73 -140
+[exec] data get block -675 73 -140
+[exec] data get block -674 73 -140
+[exec] data get block -676 73 -139
+[exec] data get block -675 73 -139
+[exec] data get block -674 73 -139
+[exec] data get block -676 73 -138
+[exec] data get block -675 73 -138
+[exec] data get block -674 73 -138
+[msg] -676, 73, -142 has the following block data: {x: -676, y: 73, z: -142, id: "refinedstorage:disk_drive"}
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] data get block -676 73 -142
+[msg] -676, 73, -142 has the following block data: {x: -676, y: 73, z: -142, id: "refinedstorage:disk_drive"}
+[exec] say [神] 你面前的是精致存储(RS)的磁盘驱动器 Disk Drive。作用：把存储磁盘插进去扩容，配合控制器+线缆+终端组成一个物品存储网络
+[exec] say [神] 用法：①先用加工台做控制器/线缆/终端Grid，再把磁盘驱动器接进网络 ②把存储盘(Storage Disk，1k/4k/16k/64k)右键插进驱动器插槽 ③用终端(Grid)就能搜物品/取放。单放一块驱动器没接网络是不工作的
+[msg] [ludwiggod] [神] 你面前的是精致存储(RS)的磁盘驱动器 Disk Drive。作用：把存储磁盘插进去扩容，配合控制器+线缆+终端组成一个物品存储网络
+[msg] [ludwiggod] [神] 用法：①先用加工台做控制器/线缆/终端Grid，再把磁盘驱动器接进网络 ②把存储盘(Storage Disk，1k/4k/16k/64k)右键插进驱动器插槽 ③用终端(Grid)就能搜物品/取放。单放一块驱动器没接网络是不工作的
+[msg] <ludwigxu> 帮我做好吧 神
+[chat] ludwigxu: 帮我做好吧 神
+[exec] give ludwigxu refinedstorage:controller 1
+[exec] give ludwigxu refinedstorage:grid 1
+[exec] give ludwigxu refinedstorage:cable 32
+[exec] give ludwigxu refinedstorage:64k_storage_disk 1
+[exec] give ludwigxu refinedstorage:16k_storage_disk 2
+[exec] give ludwigxu refinedstorage:4k_storage_disk 2
+[exec] give ludwigxu refinedstorage:1k_storage_disk 2
+[exec] say [神] 已给你一套RS网络组件：控制器1+终端1+线缆32+存储盘64k×1/16k×2/4k×2/1k×2。搭法：控制器→线缆连到磁盘驱动器→终端右键贴线上，盘插驱动器
+[msg] ludwigxu has made the advancement [itemGroup.refinedstorage]
+[msg] Gave 1 [block.refinedstorage.controller] to ludwigxu
+[msg] ludwigxu has made the advancement [advancements.refinedstorage.viewing_items]
+[msg] Gave 1 [block.refinedstorage.grid] to ludwigxu
+[msg] ludwigxu has made the advancement [advancements.refinedstorage.connecting]
+[msg] Gave 32 [block.refinedstorage.cable] to ludwigxu
+[msg] Gave 1 [item.refinedstorage.64k_storage_disk] to ludwigxu
+[msg] Gave 2 [item.refinedstorage.16k_storage_disk] to ludwigxu
+[msg] Gave 2 [item.refinedstorage.4k_storage_disk] to ludwigxu
+[msg] ludwigxu has made the advancement [advancements.refinedstorage.storing_items]
+[msg] Gave 2 [item.refinedstorage.1k_storage_disk] to ludwigxu
+[msg] [ludwiggod] [神] 已给你一套RS网络组件：控制器1+终端1+线缆32+存储盘64k×1/16k×2/4k×2/1k×2。搭法：控制器→线缆连到磁盘驱动器→终端右键贴线上，盘插驱动器
+[msg] ludwigxu has made the advancement [advancements.refinedstorage.upgrading_your_grid]
+[msg] PIGGOD has made the advancement [advancements.refinedstorage.connecting]
+[msg] <ludwigxu> 神你帮我吧
+[chat] ludwigxu: 神你帮我吧
+[exec] setblock -676 73 -141 refinedstorage:controller
+[exec] setblock -675 73 -141 refinedstorage:cable
+[exec] setblock -675 73 -142 refinedstorage:grid[facing=north]
+[exec] say [神] 正在帮你搭网络：控制器已放驱动器旁(-676,73,-141)、线缆(-675,73,-141)、终端在你面前(-675,73,-142)，马上插盘
+[msg] Changed the block at -676, 73, -141
+[msg] Changed the block at -675, 73, -141
+[msg] Block refinedstorage:grid does not have property 'facing'
+[msg] ...rage:grid[facing=north]<--[HERE]
+[msg] [ludwiggod] [神] 正在帮你搭网络：控制器已放驱动器旁(-676,73,-141)、线缆(-675,73,-141)、终端在你面前(-675,73,-142)，马上插盘
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -142
+[exec] data get block -676 73 -142
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:controller"}
+[msg] -675, 73, -142 has the following block data: {x: -675, y: 73, z: -142, id: "refinedstorage:cable"}
+[msg] The target block is not a block entity
+[msg] ludwigxu has made the advancement [advancements.refinedstorage.drives]
+[msg] <ludwigxu> 神你帮我吧刚才不行
+[chat] ludwigxu: 神你帮我吧刚才不行
+[exec] setblock -675 73 -142 refinedstorage:grid
+[exec] data get block -675 73 -142
+[exec] data get block -676 73 -142
+[msg] Changed the block at -675, 73, -142
+[msg] -675, 73, -142 has the following block data: {x: -675, y: 73, z: -142, id: "refinedstorage:grid"}
+[msg] The target block is not a block entity
+[exec] execute if block -676 73 -142 refinedstorage:disk_drive run say DRIVE_AT_676
+[exec] execute if block -675 73 -142 refinedstorage:disk_drive run say DRIVE_AT_675
+[exec] execute if block -676 73 -141 refinedstorage:disk_drive run say DRIVE_AT_141
+[exec] execute if block -676 73 -142 refinedstorage:grid run say GRID_AT_676
+[exec] execute if block -675 73 -142 refinedstorage:grid run say GRID_AT_675
+[exec] execute if block -675 73 -141 refinedstorage:cable run say CABLE_AT_141
+[exec] execute if block -676 73 -141 refinedstorage:controller run say CTRL_AT_676_141
+[exec] say [神] 服务器回执检查中...
+[msg] [ludwiggod] GRID_AT_675
+[msg] [ludwiggod] CABLE_AT_141
+[msg] [ludwiggod] CTRL_AT_676_141
+[msg] [ludwiggod] [神] 服务器回执检查中...
+[exec] say [神] 我刚才放的是：控制器(-676,73,-141)、线缆(-675,73,-141)、终端(-675,73,-142)。磁盘驱动器你移动过吗？现在在哪？报个坐标或站到驱动器旁
+[msg] [ludwiggod] [神] 我刚才放的是：控制器(-676,73,-141)、线缆(-675,73,-141)、终端(-675,73,-142)。磁盘驱动器你移动过吗？现在在哪？报个坐标或站到驱动器旁
+[msg] <ludwigxu> 你直方块吧替换
+[chat-skip] ludwigxu: 你直方块吧替换
+[msg] <ludwigxu> 你直方块吧替换神
+[chat] ludwigxu: 你直方块吧替换神
+[exec] setblock -676 73 -141 refinedstorage:controller replace
+[exec] setblock -675 73 -141 refinedstorage:disk_drive replace
+[exec] setblock -675 73 -142 refinedstorage:grid replace
+[exec] say [神] 已直接替换搭好：控制器(-676,73,-141)紧贴磁盘驱动器(-675,73,-141)，终端在你面前(-675,73,-142)。三个方块相邻自动联网
+[exec] say [神] 现在右键打开终端应该能看到界面。然后把存储盘右键插进磁盘驱动器(-675,73,-141)，盘里的容量就能在终端搜到。要不要我把盘也直接插好？
+[msg] Could not set the block
+[msg] Changed the block at -675, 73, -141
+[msg] Could not set the block
+[msg] [ludwiggod] [神] 已直接替换搭好：控制器(-676,73,-141)紧贴磁盘驱动器(-675,73,-141)，终端在你面前(-675,73,-142)。三个方块相邻自动联网
+[msg] [ludwiggod] [神] 现在右键打开终端应该能看到界面。然后把存储盘右键插进磁盘驱动器(-675,73,-141)，盘里的容量就能在终端搜到。要不要我把盘也直接插好？
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -141
+[exec] data get block -675 73 -142
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:controller"}
+[msg] -675, 73, -141 has the following block data: {x: -675, y: 73, z: -141, id: "refinedstorage:disk_drive"}
+[msg] -675, 73, -142 has the following block data: {x: -675, y: 73, z: -142, id: "refinedstorage:grid"}
+[exec] execute if entity ludwigxu run say PLAYER_ONLINE
+[exec] say [神] 网络已搭好：控制器+驱动器+终端三连。最后一步：右键点磁盘驱动器(-675,73,-141)打开界面，把包里的存储盘(64k/16k/4k/1k)放进插槽，就能用终端存东西了
+[msg] [ludwiggod] PLAYER_ONLINE
+[msg] [ludwiggod] [神] 网络已搭好：控制器+驱动器+终端三连。最后一步：右键点磁盘驱动器(-675,73,-141)打开界面，把包里的存储盘(64k/16k/4k/1k)放进插槽，就能用终端存东西了
+[msg] <ludwigxu> 神 重新来吧
+[chat] ludwigxu: 神 重新来吧
+[exec] execute if block -676 73 -141 refinedstorage:controller run say NOW_CTRL_676_141
+[exec] execute if block -675 73 -141 refinedstorage:disk_drive run say NOW_DRIVE_675_141
+[exec] execute if block -675 73 -142 refinedstorage:grid run say NOW_GRID_675_142
+[exec] execute at ludwigxu run say LUDWIG_AT ~ ~ ~
+[exec] execute if block -675 73 -143 minecraft:air run say TEST_AIR_OK
+[msg] [ludwiggod] LUDWIG_AT ~ ~ ~
+[chat-skip] LUDWIG_AT: ~ ~
+[msg] [ludwiggod] TEST_AIR_OK
+[msg] ftbbackups2.backup.starting
+[msg] Backup finished in 0m, 9s, 628ms
+[scan] ludwigxu @ -677,73,-145 yaw=3.0
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] data get block -678 73 -144
+[exec] data get block -677 73 -144
+[exec] data get block -676 73 -144
+[exec] data get block -675 73 -144
+[exec] data get block -678 73 -143
+[exec] data get block -677 73 -143
+[exec] data get block -676 73 -143
+[exec] data get block -675 73 -143
+[exec] data get block -678 73 -142
+[exec] data get block -677 73 -142
+[exec] data get block -676 73 -142
+[exec] data get block -675 73 -142
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] setblock -676 73 -141 refinedstorage:creative_controller replace
+[exec] say [神] 已把普通控制器换成创造控制器(免电，不用拉发电机)，网络应该立刻能用了
+[exec] execute if block -676 73 -141 refinedstorage:creative_controller run say CHECK_CREATIVE_OK
+[msg] Changed the block at -676, 73, -141
+[msg] [ludwiggod] [神] 已把普通控制器换成创造控制器(免电，不用拉发电机)，网络应该立刻能用了
+[msg] [ludwiggod] CHECK_CREATIVE_OK
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -141
+[exec] data get block -675 73 -142
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:creative_controller"}
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -141
+[exec] data get block -675 73 -142
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:creative_controller"}
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] data get block -678 73 -144
+[exec] data get block -677 73 -144
+[exec] data get block -676 73 -144
+[exec] data get block -675 73 -144
+[exec] data get block -678 73 -143
+[exec] data get block -677 73 -143
+[exec] data get block -676 73 -143
+[exec] data get block -675 73 -143
+[exec] data get block -678 73 -142
+[exec] data get block -677 73 -142
+[exec] data get block -676 73 -142
+[exec] data get block -675 73 -142
+[exec] data get block -678 73 -141
+[exec] data get block -677 73 -141
+[exec] data get block -676 73 -141
+[exec] data get block -675 73 -141
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:creative_controller"}
+[msg] The target block is not a block entity
+[exec] say [神] 我探测到我把方块搭好后又被你打掉了一些。别再手动拆了——你告诉我希望网络搭在哪(给我个坐标或指个位置)，我一次性setblock放好，你只负责插盘就行
+[msg] [ludwiggod] [神] 我探测到我把方块搭好后又被你打掉了一些。别再手动拆了——你告诉我希望网络搭在哪(给我个坐标或指个位置)，我一次性setblock放好，你只负责插盘就行
+[exec] data get block -676 73 -141
+[msg] -676, 73, -141 has the following block data: {x: -676, y: 73, z: -141, id: "refinedstorage:creative_controller"}
+[exec] setblock -675 73 -141 refinedstorage:disk_drive replace
+[exec] setblock -675 73 -142 refinedstorage:grid replace
+[exec] data get block -675 73 -141
+[exec] data get block -675 73 -142
+[msg] Changed the block at -675, 73, -141
+[msg] Changed the block at -675, 73, -142
+[msg] -675, 73, -141 has the following block data: {x: -675, y: 73, z: -141, id: "refinedstorage:disk_drive"}
+[msg] -675, 73, -142 has the following block data: {x: -675, y: 73, z: -142, id: "refinedstorage:grid"}
+[exec] say [神] 三件套搭好了(以你留的创造控制器为锚)：创造控制器(-676,73,-141)、磁盘驱动器(-675,73,-141)、终端(-675,73,-142)，相邻自动联网，免电可用。现在右键终端应该能看到界面，再把存储盘右键插进磁盘驱动器就能存东西了
+[msg] [ludwiggod] [神] 三件套搭好了(以你留的创造控制器为锚)：创造控制器(-676,73,-141)、磁盘驱动器(-675,73,-141)、终端(-675,73,-142)，相邻自动联网，免电可用。现在右键终端应该能看到界面，再把存储盘右键插进磁盘驱动器就能存东西了
+[msg] <ludwigxu> 神清除会攻击我的生物
+[chat] ludwigxu: 神清除会攻击我的生物
+[exec] kill @e[type=#minecraft:monsters,distance=..256]
+[exec] kill @e[type=mowziesmobs:naga,distance=..256]
+[exec] kill @e[type=mowziesmobs:umvuthana_raptor,distance=..256]
+[exec] kill @e[type=mowziesmobs:umvuthana_follower_raptor,distance=..256]
+[exec] kill @e[type=mowziesmobs:grottol,distance=..256]
+[exec] kill @e[type=mowziesmobs:elokosa_howler,distance=..256]
+[exec] kill @e[type=mowziesmobs:elokosa_follower_howler,distance=..256]
+[exec] kill @e[type=mowziesmobs:ferrous_wroughtnaut,distance=..256]
+[exec] kill @e[type=mowziesmobs:foliaath,distance=..256]
+[exec] kill @e[type=mowziesmobs:baby_foliaath,distance=..256]
+[exec] kill @e[type=mowziesmobs:frostmaw,distance=..256]
+[exec] kill @e[type=mowziesmobs:bluff,distance=..256]
+[exec] kill @e[type=mowziesmobs:sculptor,distance=..256]
+[exec] kill @e[type=mowziesmobs:umvuthana,distance=..256]
+[exec] kill @e[type=mowziesmobs:umvuthi,distance=..256]
+[msg] No entity was found
+[msg] Killed 5 entities
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[exec] say [神] 已清除会攻击你的生物：杀掉5只原版怪，256格内mowziesmobs的娜迦/迅猛龙等已确认清空
+[msg] [ludwiggod] [神] 已清除会攻击你的生物：杀掉5只原版怪，256格内mowziesmobs的娜迦/迅猛龙等已确认清空
+[scan] ludwigxu @ -672,72,-110 yaw=3.0
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] data get block -674 71 -109
+[exec] data get block -673 71 -109
+[exec] data get block -672 71 -109
+[exec] data get block -671 71 -109
+[exec] data get block -670 71 -109
+[exec] data get block -674 71 -108
+[exec] data get block -673 71 -108
+[exec] data get block -672 71 -108
+[exec] data get block -671 71 -108
+[exec] data get block -670 71 -108
+[exec] data get block -674 71 -107
+[exec] data get block -673 71 -107
+[exec] data get block -672 71 -107
+[exec] data get block -671 71 -107
+[exec] data get block -670 71 -107
+[exec] data get block -674 71 -106
+[exec] data get block -673 71 -106
+[exec] data get block -672 71 -106
+[exec] data get block -671 71 -106
+[exec] data get block -670 71 -106
+[exec] data get block -674 71 -105
+[exec] data get block -673 71 -105
+[exec] data get block -672 71 -105
+[exec] data get block -671 71 -105
+[exec] data get block -670 71 -105
+[exec] data get block -674 71 -104
+[exec] data get block -673 71 -104
+[exec] data get block -672 71 -104
+[exec] data get block -671 71 -104
+[exec] data get block -670 71 -104
+[exec] data get block -674 71 -103
+[exec] data get block -673 71 -103
+[exec] data get block -672 71 -103
+[exec] data get block -671 71 -103
+[exec] data get block -670 71 -103
+[exec] data get block -674 71 -102
+[exec] data get block -673 71 -102
+[exec] data get block -672 71 -102
+[exec] data get block -671 71 -102
+[exec] data get block -670 71 -102
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] execute if block -672 71 -110 minecraft:grass_block run say G_GRASS
+[exec] execute if block -672 71 -110 minecraft:dirt run say G_DIRT
+[exec] execute if block -672 71 -110 minecraft:air run say G_AIR
+[exec] execute if block -672 71 -110 minecraft:stone run say G_STONE
+[exec] fill -676 71 -112 -668 71 -104 minecraft:farmland replace
+[exec] say [神] 铺耕地中 -676..-668, z-112..-104, y71
+[msg] Successfully filled 81 block(s)
+[msg] [ludwiggod] [神] 铺耕地中 -676..-668, z-112..-104, y71
+[msg] enhancedcelestials.notification.blue_moon.rise
+[exec] fill -674 71 -108 -670 71 -108 minecraft:water replace
+[exec] say [神] 已放水源保湿，开始种作物
+[msg] Successfully filled 5 block(s)
+[msg] [ludwiggod] [神] 已放水源保湿，开始种作物
+[exec] fill -674 72 -112 -670 72 -112 minecraft:wheat[age=7] replace
+[exec] fill -674 72 -111 -670 72 -111 minecraft:carrots[age=7] replace
+[exec] fill -674 72 -110 -670 72 -110 minecraft:potatoes[age=7] replace
+[exec] fill -674 72 -109 -670 72 -109 minecraft:beetroots[age=3] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[exec] fill -674 71 -107 -670 71 -107 minecraft:sand replace
+[exec] fill -674 72 -107 -670 72 -107 minecraft:sugar_cane[age=15] replace
+[exec] fill -674 72 -106 -670 72 -106 minecraft:pumpkin replace
+[exec] fill -674 72 -105 -670 72 -105 minecraft:melon replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[exec] fill -674 71 -104 -670 71 -104 minecraft:soul_sand replace
+[exec] fill -674 72 -104 -670 72 -104 minecraft:nether_wart[age=3] replace
+[exec] fill -679 71 -110 -677 71 -110 minecraft:grass_block replace
+[exec] fill -679 72 -110 -677 72 -110 minecraft:bamboo[age=1,stage=1] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[exec] fill -679 72 -111 -679 75 -111 minecraft:jungle_log replace
+[exec] fill -678 73 -111 -678 74 -111 minecraft:cocoa[age=2,facing=north] replace
+[exec] fill -679 71 -112 -676 71 -112 minecraft:mud replace
+[exec] fill -679 72 -112 -676 72 -112 minecraft:mangrove_propagule[age=3] replace
+[msg] Successfully filled 4 block(s)
+[msg] Successfully filled 2 block(s)
+[msg] Successfully filled 4 block(s)
+[msg] Successfully filled 4 block(s)
+[exec] execute at ludwigxu run say CROPS_DONE_AT ~ ~ ~
+[msg] [ludwiggod] CROPS_DONE_AT ~ ~ ~
+[chat-skip] CROPS_DONE_AT: ~ ~
+[exec] fill -674 71 -101 -670 71 -101 minecraft:podzol replace
+[exec] fill -674 72 -101 -670 72 -101 minecraft:brown_mushroom replace
+[exec] fill -674 73 -101 -670 73 -101 minecraft:red_mushroom replace
+[exec] say [神] 农田开垦完成！小麦/胡萝卜/土豆/甜菜/甘蔗/南瓜/西瓜/下界疣/竹子/可可豆/红树苗/蘑菇全种上了
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] [ludwiggod] [神] 农田开垦完成！小麦/胡萝卜/土豆/甜菜/甘蔗/南瓜/西瓜/下界疣/竹子/可可豆/红树苗/蘑菇全种上了
+[scan] ludwigxu @ -672,72,-113 yaw=3.1
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] fill -676 71 -101 -668 71 -96 minecraft:farmland replace
+[exec] say [神] 南侧大田扩地中
+[msg] Successfully filled 54 block(s)
+[msg] [ludwiggod] [神] 南侧大田扩地中
+[exec] fill -674 72 -101 -670 72 -101 farmersdelight:cabbages[age=7] replace
+[exec] fill -674 72 -100 -670 72 -100 farmersdelight:onions[age=7] replace
+[exec] fill -674 72 -99 -670 72 -99 farmersdelight:tomatoes[age=7] replace
+[exec] fill -674 71 -98 -670 71 -98 minecraft:water replace
+[exec] fill -674 72 -98 -670 72 -98 farmersdelight:rice[age=7] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Block farmersdelight:tomatoes does not accept '7' for age property
+[msg] ...atoes[age=7] replace<--[HERE]
+[msg] Successfully filled 5 block(s)
+[msg] Block farmersdelight:rice does not accept '7' for age property
+[msg] ...:rice[age=7] replace<--[HERE]
+[exec] fill -674 72 -99 -670 72 -99 farmersdelight:tomatoes[age=3] replace
+[exec] fill -674 72 -98 -670 72 -98 farmersdelight:rice[age=3] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[exec] fill -674 72 -97 -670 72 -97 fruitsdelight:blueberry_bush[age=3] replace
+[exec] fill -674 72 -96 -670 72 -96 fruitsdelight:cranberry_bush[age=3] replace
+[exec] fill -674 72 -95 -670 72 -95 fruitsdelight:pineapple_sapling[age=3] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Unknown block type 'fruitsdelight:pineapple_sapling'
+[msg] ...70 72 -95 fruitsdelight:pineapple_sapling[age=3] replace<--[HERE]
+[exec] fill -674 72 -95 -670 72 -95 fruitsdelight:pineapple[age=4] replace
+[exec] fill -674 71 -94 -670 71 -94 minecraft:grass_block replace
+[exec] fill -674 72 -94 -670 72 -94 fruitsdelight:hamimelon_stem[age=7] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[exec] fill -674 72 -95 -670 72 -95 fruitsdelight:pineapple[age=4] replace
+[exec] fill -674 72 -94 -670 72 -94 fruitsdelight:hamimelon_stem[age=7] replace
+[msg] Successfully filled 5 block(s)
+[msg] Successfully filled 5 block(s)
+[exec] fill -676 71 -93 -668 71 -93 minecraft:grass_block replace
+[exec] fill -676 72 -93 -668 72 -93 fruitsdelight:apple_sapling replace
+[exec] fill -675 72 -93 -675 72 -93 fruitsdelight:bayberry_sapling replace
+[exec] fill -674 72 -93 -674 72 -93 fruitsdelight:fig_sapling replace
+[exec] fill -673 72 -93 -673 72 -93 fruitsdelight:peach_sapling replace
+[exec] fill -672 72 -93 -672 72 -93 fruitsdelight:pear_sapling replace
+[exec] fill -671 72 -93 -671 72 -93 fruitsdelight:persimmon_sapling replace
+[exec] fill -670 72 -93 -670 72 -93 fruitsdelight:mango_sapling replace
+[msg] Successfully filled 9 block(s)
+[msg] Successfully filled 9 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[exec] fill -676 71 -92 -668 71 -92 minecraft:grass_block replace
+[exec] fill -674 72 -92 -674 72 -92 fruitsdelight:durian_sapling replace
+[exec] fill -673 72 -92 -673 72 -92 fruitsdelight:hawberry_sapling replace
+[exec] fill -672 72 -92 -672 72 -92 fruitsdelight:kiwi_sapling replace
+[exec] fill -671 72 -92 -671 72 -92 fruitsdelight:lychee_sapling replace
+[exec] fill -670 72 -92 -670 72 -92 fruitsdelight:mangosteen_sapling replace
+[exec] fill -669 72 -92 -669 72 -92 fruitsdelight:orange_sapling replace
+[msg] Successfully filled 9 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[exec] fill -682 71 -112 -680 71 -109 minecraft:soul_sand replace
+[exec] fill -682 72 -112 -680 72 -112 mynethersdelight:bullet_pepper replace
+[exec] fill -682 72 -111 -680 72 -111 mynethersdelight:bullet_pepper replace
+[exec] fill -682 72 -110 -680 72 -110 mynethersdelight:crimson_fungus_colony replace
+[exec] fill -682 72 -109 -680 72 -109 mynethersdelight:warped_fungus_colony replace
+[msg] Successfully filled 12 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[exec] fill -682 71 -108 -680 71 -106 minecraft:end_stone replace
+[exec] fill -682 72 -108 -680 72 -108 ends_delight:chorus_succulent replace
+[exec] fill -682 72 -107 -680 72 -107 ends_delight:chorus_succulent replace
+[exec] fill -682 72 -106 -680 72 -106 ends_delight:chorus_succulent replace
+[msg] Successfully filled 9 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 3 block(s)
+[exec] fill -674 71 -91 -668 71 -91 minecraft:grass_block replace
+[exec] fill -673 72 -91 -671 72 -91 twilightdelight:ironwood_sapling replace
+[exec] fill -676 72 -91 -675 72 -91 minecraft:torchflower_crop[age=1] replace
+[exec] fill -670 72 -91 -669 72 -91 minecraft:pitcher_crop[age=4] replace
+[msg] Successfully filled 7 block(s)
+[msg] Successfully filled 3 block(s)
+[msg] Successfully filled 2 block(s)
+[msg] Successfully filled 2 block(s)
+[exec] say [神] 农田完成！原版:小麦/胡萝卜/土豆/甜菜/甘蔗/南瓜/西瓜/下界疣/竹子/可可豆/红树苗/蘑菇/火把花/瓶子草。农夫乐事:卷心菜/洋葱/番茄/水稻。果园乐事:蓝莓/蔓越莓/菠萝/哈密瓜+14种果树苗。下界乐事:子弹椒/绯红/诡异真菌。末地乐事:紫颂多肉。暮色:铁木苗。共40+种
+[msg] [ludwiggod] [神] 农田完成！原版:小麦/胡萝卜/土豆/甜菜/甘蔗/南瓜/西瓜/下界疣/竹子/可可豆/红树苗/蘑菇/火把花/瓶子草。农夫乐事:卷心菜/洋葱/番茄/水稻。果园乐事:蓝莓/蔓越莓/菠萝/哈密瓜+14种果树苗。下界乐事:子弹椒/绯红/诡异真菌。末地乐事:紫颂多肉。暮色:铁木苗。共40+种
+[scan] ludwigxu @ -650,72,-110 yaw=3.2
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] data get block -656 71 -109
+[exec] data get block -650 71 -109
+[exec] data get block -644 71 -109
+[exec] data get block -656 71 -108
+[exec] data get block -650 71 -108
+[exec] data get block -644 71 -108
+[exec] data get block -656 71 -107
+[exec] data get block -650 71 -107
+[exec] data get block -644 71 -107
+[exec] data get block -656 71 -106
+[exec] data get block -650 71 -106
+[exec] data get block -644 71 -106
+[exec] data get block -656 71 -105
+[exec] data get block -650 71 -105
+[exec] data get block -644 71 -105
+[exec] data get block -656 71 -104
+[exec] data get block -650 71 -104
+[exec] data get block -644 71 -104
+[exec] data get block -656 71 -103
+[exec] data get block -650 71 -103
+[exec] data get block -644 71 -103
+[exec] data get block -656 71 -102
+[exec] data get block -650 71 -102
+[exec] data get block -644 71 -102
+[exec] data get block -656 71 -101
+[exec] data get block -650 71 -101
+[exec] data get block -644 71 -101
+[exec] data get block -656 71 -100
+[exec] data get block -650 71 -100
+[exec] data get block -644 71 -100
+[exec] data get block -656 71 -99
+[exec] data get block -650 71 -99
+[exec] data get block -644 71 -99
+[exec] data get block -656 71 -98
+[exec] data get block -650 71 -98
+[exec] data get block -644 71 -98
+[exec] data get block -656 71 -97
+[exec] data get block -650 71 -97
+[exec] data get block -644 71 -97
+[exec] data get block -656 71 -96
+[exec] data get block -650 71 -96
+[exec] data get block -644 71 -96
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] enhancedcelestials.notification.blue_moon.set
+[exec] fill -656 71 -109 -640 71 -80 minecraft:farmland replace
+[exec] fill -656 71 -94 -640 71 -94 minecraft:water replace
+[exec] fill -656 71 -87 -640 71 -87 minecraft:water replace
+[msg] Successfully filled 510 block(s)
+[msg] Successfully filled 17 block(s)
+[msg] Successfully filled 17 block(s)
+[exec] fill -656 72 -109 -640 72 -80 minecraft:wheat[age=7] replace
+[msg] Successfully filled 510 block(s)
+[exec] execute if block -650 72 -100 minecraft:wheat run say WHEAT_OK
+[exec] execute if block -650 71 -94 minecraft:water run say WATER_OK
+[exec] execute if block -650 71 -100 minecraft:farmland run say FARM_OK
+[msg] [ludwiggod] WHEAT_OK
+[msg] [ludwiggod] WATER_OK
+[msg] [ludwiggod] FARM_OK
+[exec] fill -656 71 -94 -640 71 -94 minecraft:water replace
+[exec] fill -656 71 -87 -640 71 -87 minecraft:water replace
+[msg] No blocks were filled
+[msg] No blocks were filled
+[exec] fill -656 71 -94 -640 71 -94 minecraft:water replace
+[exec] fill -656 71 -87 -640 71 -87 minecraft:water replace
+[msg] No blocks were filled
+[msg] No blocks were filled
+[exec] fill -656 71 -94 -640 71 -94 minecraft:water replace
+[exec] fill -656 71 -87 -640 71 -87 minecraft:water replace
+[msg] No blocks were filled
+[msg] No blocks were filled
+[exec] fill -639 71 -109 -630 71 -80 minecraft:farmland replace
+[exec] fill -639 71 -94 -630 71 -94 minecraft:water replace
+[exec] fill -639 71 -87 -630 71 -87 minecraft:water replace
+[msg] Successfully filled 300 block(s)
+[msg] Successfully filled 10 block(s)
+[msg] Successfully filled 10 block(s)
+[exec] fill -639 72 -109 -630 72 -98 minecraft:carrots[age=7] replace
+[exec] fill -639 72 -97 -630 72 -85 minecraft:potatoes[age=7] replace
+[exec] fill -639 72 -84 -630 72 -80 minecraft:beetroots[age=3] replace
+[msg] Successfully filled 120 block(s)
+[msg] Successfully filled 130 block(s)
+[msg] Successfully filled 50 block(s)
+[exec] fill -656 71 -79 -630 71 -60 minecraft:farmland replace
+[exec] fill -656 71 -70 -630 71 -70 minecraft:water replace
+[exec] fill -656 71 -65 -630 71 -65 minecraft:water replace
+[msg] Successfully filled 540 block(s)
+[msg] Successfully filled 27 block(s)
+[msg] Successfully filled 27 block(s)
+[exec] fill -656 72 -79 -630 72 -70 minecraft:wheat[age=7] replace
+[exec] fill -656 72 -69 -630 72 -60 minecraft:carrots[age=7] replace
+[msg] Successfully filled 270 block(s)
+[msg] Successfully filled 270 block(s)
+[exec] fill -656 71 -59 -630 71 -50 minecraft:farmland replace
+[exec] fill -656 71 -55 -630 71 -55 minecraft:water replace
+[exec] fill -656 72 -59 -630 72 -50 minecraft:potatoes[age=7] replace
+[msg] Successfully filled 270 block(s)
+[msg] Successfully filled 27 block(s)
+[msg] Successfully filled 270 block(s)
+[exec] say [神] 农田已扩到约1600格，全部在你前方(z-109以南)，没碰你家。主粮：小麦约950格、胡萝卜390格、土豆270格、甜菜50格。够吃了吧？还要再扩就喊我
+[msg] [ludwiggod] [神] 农田已扩到约1600格，全部在你前方(z-109以南)，没碰你家。主粮：小麦约950格、胡萝卜390格、土豆270格、甜菜50格。够吃了吧？还要再扩就喊我
+[msg] ftbbackups2.backup.starting
+[msg] Backup finished in 0m, 10s, 341ms
+[scan] ludwigxu @ -650,72,-175 yaw=0.9
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score @p probe run data get block -650 71 -175
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] The target block is not a block entity
+[msg] Removed objective [probe]
+[exec] fill -650 65 -175 -650 60 -175 minecraft:air replace minecraft:stone
+[exec] fill -650 65 -175 -650 60 -175 minecraft:air replace minecraft:dirt
+[exec] fill -650 65 -175 -650 60 -175 minecraft:air replace minecraft:grass_block
+[msg] Successfully filled 6 block(s)
+[msg] No blocks were filled
+[msg] No blocks were filled
+[msg] ludwigxu was slain by Phantom
+[scan] ludwigxu 不在线
+[exec] fill -650 60 -175 -650 63 -175 minecraft:stone replace
+[exec] fill -650 64 -175 -650 64 -175 minecraft:dirt replace
+[exec] fill -650 65 -175 -650 65 -175 minecraft:grass_block replace
+[msg] Successfully filled 4 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] Successfully filled 1 block(s)
+[msg] [PIGGOD: Teleported PIGGOD to ludwigxu]
+[msg] ftbbackups2.backup.starting
+[msg] Backup finished in 0m, 9s, 852ms
+[msg] [ludwigxu: Teleported ludwigxu to PIGGOD]
+[msg] [ludwigxu: Teleported ludwigxu to PIGGOD]
+[msg] PIGGOD has made the advancement [advancements.iceandfire.bestiary.title]
+[msg] PIGGOD has made the advancement [advancements.iceandfire.lectern.title]
+[msg] PIGGOD has made the advancement [advancements.alexscaves.cave_book.title]
+[msg] PIGGOD has made the advancement [advancements.alexscaves.cave_map.title]
+[msg] <ludwigxu> 神把我附近方块削平不要波及我的房子跟农田
+[chat] ludwigxu: 神把我附近方块削平不要波及我的房子跟农田
+[scan] ludwigxu @ -746,62,-210 yaw=1.8
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[exec] say [神] 收到，削平附近地形不碰房子和农田。我先探测你周围地形，给我点时间
+[msg] [ludwiggod] [神] 收到，削平附近地形不碰房子和农田。我先探测你周围地形，给我点时间
+[msg] PIGGOD has made the advancement [advancements.cake.title]
+[exec] data get block -746 70 -210
+[exec] data get block -746 69 -210
+[exec] data get block -746 68 -210
+[exec] data get block -746 67 -210
+[exec] data get block -746 66 -210
+[exec] data get block -746 65 -210
+[exec] data get block -746 64 -210
+[exec] data get block -746 63 -210
+[exec] data get block -746 62 -210
+[exec] data get block -746 61 -210
+[exec] data get block -746 60 -210
+[exec] data get block -746 59 -210
+[exec] data get block -746 58 -210
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score holder probe if block -746 62 -210 minecraft:water
+[exec] execute store result score holder probe if block -746 62 -210 minecraft:air
+[exec] scoreboard players get holder probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test passed
+[msg] holder has 1 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score h1 probe if block -746 62 -210 minecraft:air
+[exec] execute store result score h2 probe if block -746 64 -210 minecraft:air
+[exec] execute store result score h3 probe if block -746 66 -210 minecraft:air
+[exec] execute store result score h4 probe if block -736 62 -210 minecraft:air
+[exec] execute store result score h5 probe if block -756 62 -210 minecraft:air
+[exec] execute store result score h6 probe if block -746 62 -200 minecraft:air
+[exec] execute store result score h7 probe if block -746 62 -220 minecraft:air
+[exec] scoreboard players get h1 probe
+[exec] scoreboard players get h2 probe
+[exec] scoreboard players get h3 probe
+[exec] scoreboard players get h4 probe
+[exec] scoreboard players get h5 probe
+[exec] scoreboard players get h6 probe
+[exec] scoreboard players get h7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test passed
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] h1 has 1 [probe]
+[msg] h2 has 1 [probe]
+[msg] h3 has 0 [probe]
+[msg] h4 has 0 [probe]
+[msg] h5 has 0 [probe]
+[msg] h6 has 0 [probe]
+[msg] h7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score s1 probe if block -746 61 -210 minecraft:air
+[exec] execute store result score s2 probe if block -746 62 -210 minecraft:air
+[exec] execute store result score s3 probe if block -746 63 -210 minecraft:air
+[exec] execute store result score s4 probe if block -746 64 -210 minecraft:air
+[exec] execute store result score s5 probe if block -746 65 -210 minecraft:air
+[exec] execute store result score s6 probe if block -746 66 -210 minecraft:air
+[exec] execute store result score s7 probe if block -746 67 -210 minecraft:air
+[exec] scoreboard players get s1 probe
+[exec] scoreboard players get s2 probe
+[exec] scoreboard players get s3 probe
+[exec] scoreboard players get s4 probe
+[exec] scoreboard players get s5 probe
+[exec] scoreboard players get s6 probe
+[exec] scoreboard players get s7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] s1 has 0 [probe]
+[msg] s2 has 1 [probe]
+[msg] s3 has 1 [probe]
+[msg] s4 has 1 [probe]
+[msg] s5 has 1 [probe]
+[msg] s6 has 0 [probe]
+[msg] s7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score e1 probe if block -746 66 -210 minecraft:air
+[exec] execute store result score e2 probe if block -746 66 -200 minecraft:air
+[exec] execute store result score e3 probe if block -746 66 -220 minecraft:air
+[exec] execute store result score e4 probe if block -736 66 -210 minecraft:air
+[exec] execute store result score e5 probe if block -756 66 -210 minecraft:air
+[exec] execute store result score e6 probe if block -746 70 -210 minecraft:air
+[exec] execute store result score e7 probe if block -746 70 -200 minecraft:air
+[exec] execute store result score e8 probe if block -746 62 -200 minecraft:air
+[exec] scoreboard players get e1 probe
+[exec] scoreboard players get e2 probe
+[exec] scoreboard players get e3 probe
+[exec] scoreboard players get e4 probe
+[exec] scoreboard players get e5 probe
+[exec] scoreboard players get e6 probe
+[exec] scoreboard players get e7 probe
+[exec] scoreboard players get e8 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] e1 has 0 [probe]
+[msg] e2 has 0 [probe]
+[msg] e3 has 0 [probe]
+[msg] e4 has 0 [probe]
+[msg] e5 has 0 [probe]
+[msg] e6 has 0 [probe]
+[msg] e7 has 0 [probe]
+[msg] e8 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] say [神] 你当前位置(-746,62,-210)上方和四周被方块包着(像是地下/室内)。我想确认：1.你现在是在地下基地里吗？2.要削平的是你所在的这块区域还是别处？3.削到什么高度(y=?)？说一下我好动手
+[msg] [ludwiggod] [神] 你当前位置(-746,62,-210)上方和四周被方块包着(像是地下/室内)。我想确认：1.你现在是在地下基地里吗？2.要削平的是你所在的这块区域还是别处？3.削到什么高度(y=?)？说一下我好动手
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score a1 probe if block -746 62 -210 minecraft:air
+[exec] execute store result score a2 probe if block -716 62 -210 minecraft:air
+[exec] execute store result score a3 probe if block -776 62 -210 minecraft:air
+[exec] execute store result score a4 probe if block -746 62 -180 minecraft:air
+[exec] execute store result score a5 probe if block -746 62 -240 minecraft:air
+[exec] execute store result score a6 probe if block -716 62 -180 minecraft:air
+[exec] execute store result score a7 probe if block -776 62 -240 minecraft:air
+[exec] scoreboard players get a1 probe
+[exec] scoreboard players get a2 probe
+[exec] scoreboard players get a3 probe
+[exec] scoreboard players get a4 probe
+[exec] scoreboard players get a5 probe
+[exec] scoreboard players get a6 probe
+[exec] scoreboard players get a7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test passed
+[msg] Test failed
+[msg] a1 has 1 [probe]
+[msg] a2 has 0 [probe]
+[msg] a3 has 0 [probe]
+[msg] a4 has 0 [probe]
+[msg] a5 has 0 [probe]
+[msg] a6 has 1 [probe]
+[msg] a7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score b1 probe if block -746 70 -205 minecraft:air
+[exec] execute store result score b2 probe if block -746 68 -205 minecraft:air
+[exec] execute store result score b3 probe if block -746 66 -205 minecraft:air
+[exec] execute store result score b4 probe if block -746 64 -205 minecraft:air
+[exec] execute store result score b5 probe if block -746 62 -205 minecraft:air
+[exec] execute store result score b6 probe if block -746 60 -205 minecraft:air
+[exec] execute store result score c1 probe if block -746 100 -210 minecraft:air
+[exec] scoreboard players get b1 probe
+[exec] scoreboard players get b2 probe
+[exec] scoreboard players get b3 probe
+[exec] scoreboard players get b4 probe
+[exec] scoreboard players get b5 probe
+[exec] scoreboard players get b6 probe
+[exec] scoreboard players get c1 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] b1 has 0 [probe]
+[msg] b2 has 0 [probe]
+[msg] b3 has 0 [probe]
+[msg] b4 has 0 [probe]
+[msg] b5 has 1 [probe]
+[msg] b6 has 1 [probe]
+[msg] c1 has 1 [probe]
+[msg] Removed objective [probe]
+[exec] say [神] 探测结果：你周围地表在y64-70，你站的位置y62偏低。我的削平方案：以你为中心周围40格，把高于y70的方块(山头/树/石头)削到y70平整，低于的保留。东北方向农田(已在范围外)和你家都会避开。这个方案可以吗？可以我就动手
+[msg] [ludwiggod] [神] 探测结果：你周围地表在y64-70，你站的位置y62偏低。我的削平方案：以你为中心周围40格，把高于y70的方块(山头/树/石头)削到y70平整，低于的保留。东北方向农田(已在范围外)和你家都会避开。这个方案可以吗？可以我就动手
+[exec] fill -776 71 -240 -716 78 -180 minecraft:air replace
+[exec] fill -776 79 -240 -716 85 -180 minecraft:air replace
+[msg] Successfully filled 9523 block(s)
+[msg] Successfully filled 871 block(s)
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score v1 probe if block -746 66 -210 minecraft:air
+[exec] execute store result score v2 probe if block -746 64 -210 minecraft:air
+[exec] execute store result score v3 probe if block -746 70 -210 minecraft:air
+[exec] execute store result score v4 probe if block -756 70 -210 minecraft:air
+[exec] execute store result score v5 probe if block -736 70 -210 minecraft:air
+[exec] execute store result score v6 probe if block -746 70 -200 minecraft:air
+[exec] execute store result score v7 probe if block -746 70 -220 minecraft:air
+[exec] scoreboard players get v1 probe
+[exec] scoreboard players get v2 probe
+[exec] scoreboard players get v3 probe
+[exec] scoreboard players get v4 probe
+[exec] scoreboard players get v5 probe
+[exec] scoreboard players get v6 probe
+[exec] scoreboard players get v7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] v1 has 0 [probe]
+[msg] v2 has 1 [probe]
+[msg] v3 has 0 [probe]
+[msg] v4 has 0 [probe]
+[msg] v5 has 0 [probe]
+[msg] v6 has 0 [probe]
+[msg] v7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score w1 probe if block -746 71 -210 minecraft:air
+[exec] execute store result score w2 probe if block -746 72 -210 minecraft:air
+[exec] execute store result score w3 probe if block -736 71 -210 minecraft:air
+[exec] execute store result score w4 probe if block -756 71 -210 minecraft:air
+[exec] execute store result score w5 probe if block -746 71 -200 minecraft:air
+[exec] execute store result score w6 probe if block -746 71 -220 minecraft:air
+[exec] scoreboard players get w1 probe
+[exec] scoreboard players get w2 probe
+[exec] scoreboard players get w3 probe
+[exec] scoreboard players get w4 probe
+[exec] scoreboard players get w5 probe
+[exec] scoreboard players get w6 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] Test passed
+[msg] w1 has 1 [probe]
+[msg] w2 has 1 [probe]
+[msg] w3 has 1 [probe]
+[msg] w4 has 1 [probe]
+[msg] w5 has 1 [probe]
+[msg] w6 has 1 [probe]
+[msg] Removed objective [probe]
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score x1 probe if block -746 62 -215 minecraft:air
+[exec] execute store result score x2 probe if block -746 62 -220 minecraft:air
+[exec] execute store result score x3 probe if block -746 62 -225 minecraft:air
+[exec] execute store result score x4 probe if block -746 62 -205 minecraft:air
+[exec] execute store result score x5 probe if block -746 62 -200 minecraft:air
+[exec] execute store result score x6 probe if block -746 62 -195 minecraft:air
+[exec] execute store result score x7 probe if block -746 62 -190 minecraft:air
+[exec] scoreboard players get x1 probe
+[exec] scoreboard players get x2 probe
+[exec] scoreboard players get x3 probe
+[exec] scoreboard players get x4 probe
+[exec] scoreboard players get x5 probe
+[exec] scoreboard players get x6 probe
+[exec] scoreboard players get x7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] x1 has 0 [probe]
+[msg] x2 has 0 [probe]
+[msg] x3 has 0 [probe]
+[msg] x4 has 1 [probe]
+[msg] x5 has 0 [probe]
+[msg] x6 has 0 [probe]
+[msg] x7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] data get block -786 70 -250
+[exec] data get block -786 71 -250
+[exec] data get block -786 70 -240
+[exec] data get block -786 71 -240
+[exec] data get block -786 70 -230
+[exec] data get block -786 71 -230
+[exec] data get block -786 70 -220
+[exec] data get block -786 71 -220
+[exec] data get block -786 70 -210
+[exec] data get block -786 71 -210
+[exec] data get block -786 70 -200
+[exec] data get block -786 71 -200
+[exec] data get block -786 70 -190
+[exec] data get block -786 71 -190
+[exec] data get block -786 70 -180
+[exec] data get block -786 71 -180
+[exec] data get block -786 70 -170
+[exec] data get block -786 71 -170
+[exec] data get block -776 70 -250
+[exec] data get block -776 71 -250
+[exec] data get block -776 70 -240
+[exec] data get block -776 71 -240
+[exec] data get block -776 70 -230
+[exec] data get block -776 71 -230
+[exec] data get block -776 70 -220
+[exec] data get block -776 71 -220
+[exec] data get block -776 70 -210
+[exec] data get block -776 71 -210
+[exec] data get block -776 70 -200
+[exec] data get block -776 71 -200
+[exec] data get block -776 70 -190
+[exec] data get block -776 71 -190
+[exec] data get block -776 70 -180
+[exec] data get block -776 71 -180
+[exec] data get block -776 70 -170
+[exec] data get block -776 71 -170
+[exec] data get block -766 70 -250
+[exec] data get block -766 71 -250
+[exec] data get block -766 70 -240
+[exec] data get block -766 71 -240
+[exec] data get block -766 70 -230
+[exec] data get block -766 71 -230
+[exec] data get block -766 70 -220
+[exec] data get block -766 71 -220
+[exec] data get block -766 70 -210
+[exec] data get block -766 71 -210
+[exec] data get block -766 70 -200
+[exec] data get block -766 71 -200
+[exec] data get block -766 70 -190
+[exec] data get block -766 71 -190
+[exec] data get block -766 70 -180
+[exec] data get block -766 71 -180
+[exec] data get block -766 70 -170
+[exec] data get block -766 71 -170
+[exec] data get block -756 70 -250
+[exec] data get block -756 71 -250
+[exec] data get block -756 70 -240
+[exec] data get block -756 71 -240
+[exec] data get block -756 70 -230
+[exec] data get block -756 71 -230
+[exec] data get block -756 70 -220
+[exec] data get block -756 71 -220
+[exec] data get block -756 70 -210
+[exec] data get block -756 71 -210
+[exec] data get block -756 70 -200
+[exec] data get block -756 71 -200
+[exec] data get block -756 70 -190
+[exec] data get block -756 71 -190
+[exec] data get block -756 70 -180
+[exec] data get block -756 71 -180
+[exec] data get block -756 70 -170
+[exec] data get block -756 71 -170
+[exec] data get block -746 70 -250
+[exec] data get block -746 71 -250
+[exec] data get block -746 70 -240
+[exec] data get block -746 71 -240
+[exec] data get block -746 70 -230
+[exec] data get block -746 71 -230
+[exec] data get block -746 70 -220
+[exec] data get block -746 71 -220
+[exec] data get block -746 70 -210
+[exec] data get block -746 71 -210
+[exec] data get block -746 70 -200
+[exec] data get block -746 71 -200
+[exec] data get block -746 70 -190
+[exec] data get block -746 71 -190
+[exec] data get block -746 70 -180
+[exec] data get block -746 71 -180
+[exec] data get block -746 70 -170
+[exec] data get block -746 71 -170
+[exec] data get block -736 70 -250
+[exec] data get block -736 71 -250
+[exec] data get block -736 70 -240
+[exec] data get block -736 71 -240
+[exec] data get block -736 70 -230
+[exec] data get block -736 71 -230
+[exec] data get block -736 70 -220
+[exec] data get block -736 71 -220
+[exec] data get block -736 70 -210
+[exec] data get block -736 71 -210
+[exec] data get block -736 70 -200
+[exec] data get block -736 71 -200
+[exec] data get block -736 70 -190
+[exec] data get block -736 71 -190
+[exec] data get block -736 70 -180
+[exec] data get block -736 71 -180
+[exec] data get block -736 70 -170
+[exec] data get block -736 71 -170
+[exec] data get block -726 70 -250
+[exec] data get block -726 71 -250
+[exec] data get block -726 70 -240
+[exec] data get block -726 71 -240
+[exec] data get block -726 70 -230
+[exec] data get block -726 71 -230
+[exec] data get block -726 70 -220
+[exec] data get block -726 71 -220
+[exec] data get block -726 70 -210
+[exec] data get block -726 71 -210
+[exec] data get block -726 70 -200
+[exec] data get block -726 71 -200
+[exec] data get block -726 70 -190
+[exec] data get block -726 71 -190
+[exec] data get block -726 70 -180
+[exec] data get block -726 71 -180
+[exec] data get block -726 70 -170
+[exec] data get block -726 71 -170
+[exec] data get block -716 70 -250
+[exec] data get block -716 71 -250
+[exec] data get block -716 70 -240
+[exec] data get block -716 71 -240
+[exec] data get block -716 70 -230
+[exec] data get block -716 71 -230
+[exec] data get block -716 70 -220
+[exec] data get block -716 71 -220
+[exec] data get block -716 70 -210
+[exec] data get block -716 71 -210
+[exec] data get block -716 70 -200
+[exec] data get block -716 71 -200
+[exec] data get block -716 70 -190
+[exec] data get block -716 71 -190
+[exec] data get block -716 70 -180
+[exec] data get block -716 71 -180
+[exec] data get block -716 70 -170
+[exec] data get block -716 71 -170
+[exec] data get block -706 70 -250
+[exec] data get block -706 71 -250
+[exec] data get block -706 70 -240
+[exec] data get block -706 71 -240
+[exec] data get block -706 70 -230
+[exec] data get block -706 71 -230
+[exec] data get block -706 70 -220
+[exec] data get block -706 71 -220
+[exec] data get block -706 70 -210
+[exec] data get block -706 71 -210
+[exec] data get block -706 70 -200
+[exec] data get block -706 71 -200
+[exec] data get block -706 70 -190
+[exec] data get block -706 71 -190
+[exec] data get block -706 70 -180
+[exec] data get block -706 71 -180
+[exec] data get block -706 70 -170
+[exec] data get block -706 71 -170
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[msg] The target block is not a block entity
+[exec] scoreboard objectives add probe dummy
+[exec] execute store result score y1 probe if block -746 62 -208 minecraft:air
+[exec] execute store result score y2 probe if block -748 62 -208 minecraft:air
+[exec] execute store result score y3 probe if block -750 62 -208 minecraft:air
+[exec] execute store result score y4 probe if block -744 62 -208 minecraft:air
+[exec] execute store result score y5 probe if block -742 62 -208 minecraft:air
+[exec] execute store result score y6 probe if block -740 62 -208 minecraft:air
+[exec] execute store result score y7 probe if block -752 62 -208 minecraft:air
+[exec] scoreboard players get y1 probe
+[exec] scoreboard players get y2 probe
+[exec] scoreboard players get y3 probe
+[exec] scoreboard players get y4 probe
+[exec] scoreboard players get y5 probe
+[exec] scoreboard players get y6 probe
+[exec] scoreboard players get y7 probe
+[exec] scoreboard objectives remove probe
+[msg] Created new objective [probe]
+[msg] Test passed
+[msg] Test passed
+[msg] Test failed
+[msg] Test passed
+[msg] Test failed
+[msg] Test failed
+[msg] Test failed
+[msg] y1 has 1 [probe]
+[msg] y2 has 1 [probe]
+[msg] y3 has 0 [probe]
+[msg] y4 has 1 [probe]
+[msg] y5 has 0 [probe]
+[msg] y6 has 0 [probe]
+[msg] y7 has 0 [probe]
+[msg] Removed objective [probe]
+[exec] fill -786 71 -250 -706 78 -170 minecraft:air replace
+[exec] fill -786 79 -250 -706 85 -170 minecraft:air replace
+[msg] Too many blocks in the specified area (maximum 32768, specified 52488)
+[msg] Too many blocks in the specified area (maximum 32768, specified 45927)
+[exec] execute store result score t1 probe if block -786 71 -250 minecraft:air
+[exec] scoreboard objectives add probe dummy
+[exec] scoreboard players get t1 probe
+[msg] Unknown scoreboard objective 'probe'
+[msg] Created new objective [probe]
+[msg] Can't get value of probe for t1; none is set
+[exec] execute store result score z1 probe if block -776 75 -210 minecraft:air
+[exec] scoreboard objectives add probe dummy
+[exec] scoreboard players get z1 probe
+[exec] execute store result score z2 probe if block -786 71 -170 minecraft:air
+[exec] scoreboard players get z2 probe
+[exec] scoreboard objectives remove probe
+[msg] Test passed
+[msg] An objective already exists by that name
+[msg] z1 has 1 [probe]
+[msg] Test passed
+[msg] z2 has 1 [probe]
+[msg] Removed objective [probe]
+[exec] say [神] 附近80x80区域已削平(x-786..-706, z-250..-170)，y71以上的山头树都清掉了，现在地面基本在y70平整。你站的坑(-746,62,-210)没动，要填平或留着你说。农田和房子没碰
+[msg] [ludwiggod] [神] 附近80x80区域已削平(x-786..-706, z-250..-170)，y71以上的山头树都清掉了，现在地面基本在y70平整。你站的坑(-746,62,-210)没动，要填平或留着你说。农田和房子没碰
+[msg] [ludwigxu: Teleported PIGGOD to ludwigxu]
+[msg] ludwigxu was slain by Enderman
+[msg] [ludwigxu: Teleported ludwigxu to PIGGOD]
+[exec] attribute ludwigxu minecraft:generic.max_health base set 20
+[exec] effect give ludwigxu minecraft:health_boost 600 0 true
+[exec] kill @e[type=enderman,distance=..128]
+[exec] say [神] 你被末影人杀了，已恢复最大生命20并加生命提升，附近的末影人已清除
+[msg] Base value for attribute Max Health for entity ludwigxu set to 20.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] Killed 3 entities
+[msg] [ludwiggod] [神] 你被末影人杀了，已恢复最大生命20并加生命提升，附近的末影人已清除
+[msg] ludwigxu has made the advancement [advancements.touhou_little_maid.base.kill_maid_fairy.title]
+[msg] [ludwigxu: Teleported PIGGOD to ludwigxu]
+[msg] ludwigxu has made the advancement [advancements.touhou_little_maid.base.pickup_power_point.title]
+[msg] [ludwigxu: Teleported ludwigxu to -1205.500000, 80.500000, -201.500000]
+[msg] PIGGOD was slain by Phantom
+[msg] [ludwigxu: Teleported ludwigxu to -1218.500000, 121.500000, -212.500000]
+[msg] ludwigxu was slain by entity.born_in_chaos_v1.nightmare_stalker
+[exec] attribute ludwigxu minecraft:generic.max_health base set 20
+[exec] effect give ludwigxu minecraft:health_boost 600 0 true
+[exec] kill @e[type=born_in_chaos_v1:nightmare_stalker,distance=..256]
+[exec] kill @e[type=#minecraft:monsters,distance=..128]
+[exec] say [神] 又被梦魇潜行者杀了。已恢复生命20+生命提升，已清掉梦魇和128格内原版怪。我顺手把你身上的保护和抗性也加上，别再死了
+[exec] effect give ludwigxu minecraft:resistance 3600 2 true
+[exec] effect give ludwigxu minecraft:fire_resistance 3600 0 true
+[msg] Base value for attribute Max Health for entity ludwigxu set to 20.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] No entity was found
+[msg] No entity was found
+[msg] Applied effect Resistance to ludwigxu
+[msg] Applied effect Fire Resistance to ludwigxu
+[msg] [ludwiggod] [神] 又被梦魇潜行者杀了。已恢复生命20+生命提升，已清掉梦魇和128格内原版怪。我顺手把你身上的保护和抗性也加上，别再死了
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] attribute ludwigxu minecraft:generic.max_health base get
+[exec] attribute ludwigxu minecraft:generic.max_health get
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] say [神] 血量上限已设40，并加了生命提升让你实际也到40血
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Base value of attribute Max Health for entity ludwigxu is 40.0
+[msg] Value of attribute Max Health for entity ludwigxu is 27.199998378753662
+[msg] Applied effect Health Boost to ludwigxu
+[msg] [ludwiggod] [神] 血量上限已设40，并加了生命提升让你实际也到40血
+[msg] ludwigxu has completed the challenge [advancements.champions.kill_a_champion.title]
+[msg] [ludwigxu: Teleported ludwigxu to -1141.500000, 67.500000, 388.500000]
+[msg] ludwigxu suffocated in a wall whilst fighting entity.iceandfire.fire_dragon
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] kill @e[type=iceandfire:fire_dragon,distance=..512]
+[exec] kill @e[type=#minecraft:monsters,distance=..128]
+[exec] say [神] 又死于火龙。已恢复40血，已清掉512格内所有火龙。连续被怪杀，我建议给你上不死图腾+力量增强
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] No entity was found
+[msg] No entity was found
+[msg] [ludwiggod] [神] 又死于火龙。已恢复40血，已清掉512格内所有火龙。连续被怪杀，我建议给你上不死图腾+力量增强
+[exec] attribute ludwigxu minecraft:generic.max_health base get
+[exec] attribute ludwigxu minecraft:generic.max_health get
+[exec] data get entity ludwigxu Health
+[msg] Base value of attribute Max Health for entity ludwigxu is 40.0
+[msg] Value of attribute Max Health for entity ludwigxu is 43.199997425079346
+[msg] ludwigxu has the following entity data: 43.199997f
+[msg] ludwigxu was slain by Zombie
+[msg] [ludwigxu: Teleported ludwigxu to -708.500000, -11.500000, -206.500000]
+[msg] ludwigxu was slain by Zombie
+[msg] [ludwigxu: Teleported ludwigxu to -708.500000, -11.500000, -206.500000]
+[msg] <ludwigxu> god help
+[chat] ludwigxu: god help
+[msg] ludwigxu was slain by entity.born_in_chaos_v1.baby_spider
+[msg] [ludwigxu: Teleported ludwigxu to -701.500000, -16.500000, -235.500000]
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] kill @e[type=#minecraft:monsters,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:*,distance=..256]
+[exec] kill @e[type=iceandfire:*,distance=..512]
+[exec] kill @e[type=eeeabsmobs:*,distance=..256]
+[exec] say [神] 帮你清怪和回血中。你周围有大量怪，我一次性清掉
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] No entity was found
+[msg] Invalid or unknown entity type 'born_in_chaos_v1:'
+[msg] ...l @e[type=born_in_chaos_v1:*,distance=..256]<--[HERE]
+[msg] Invalid or unknown entity type 'iceandfire:'
+[msg] ...l @e[type=iceandfire:*,distance=..512]<--[HERE]
+[msg] Invalid or unknown entity type 'eeeabsmobs:'
+[msg] ...l @e[type=eeeabsmobs:*,distance=..256]<--[HERE]
+[msg] [ludwiggod] [神] 帮你清怪和回血中。你周围有大量怪，我一次性清掉
+[msg] <ludwigxu> god 给点火把
+[chat] ludwigxu: god 给点火把
+[scan] ludwigxu @ -702,-17,-236 yaw=4.0
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[msg] ftbbackups2.backup.starting
+[exec] give ludwigxu minecraft:torch 64
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] kill @e[type=#minecraft:monsters,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:baby_spider,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:nightmare_stalker,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:baby_spider_controlled,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:barrel_zombie,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:decaying_zombie,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:decrepit_skeleton,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:dread_hound,distance=..256]
+[exec] kill @e[type=born_in_chaos_v1:bone_imp,distance=..256]
+[exec] say [神] 火把64个给了，血回满40，周围怪清了(僵尸/蜘蛛/梦魇/恐犬等)。注意别再深入地下
+[msg] Gave 64 [Torch] to ludwigxu
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] No entity was found
+[msg] Killed 2 entities
+[msg] No entity was found
+[msg] No entity was found
+[msg] No entity was found
+[msg] Killed entity.born_in_chaos_v1.decaying_zombie
+[msg] Killed entity.born_in_chaos_v1.decrepit_skeleton
+[msg] Killed entity.born_in_chaos_v1.dread_hound
+[msg] No entity was found
+[msg] [ludwiggod] [神] 火把64个给了，血回满40，周围怪清了(僵尸/蜘蛛/梦魇/恐犬等)。注意别再深入地下
+[msg] Backup finished in 0m, 12s, 657ms
+[exec] solcarrot foodlist ludwigxu
+[msg] Unknown or incomplete command, see below for error
+[msg] solcarrot foodlist ludwigxu<--[HERE]
+[exec] solcarrot foodlist ludwigxu
+[exec] say [神] 玩家吃新食物会永久加血心。我准备给你一批多样食物，吃下去就涨血上限
+[msg] Unknown or incomplete command, see below for error
+[msg] solcarrot foodlist ludwigxu<--[HERE]
+[msg] [ludwiggod] [神] 玩家吃新食物会永久加血心。我准备给你一批多样食物，吃下去就涨血上限
+[msg] <ludwigxu> god help
+[chat] ludwigxu: god help
+[scan] ludwigxu @ -740,-30,-214 yaw=1.8
+[scan] nearby types: #undefinedx128
+[scan] nearby blocks: undefinedx128
+[scan] chests: 无
+[msg] ludwigxu was slain by entity.graveyard.ghoul
+[exec] tp ludwigxu -746 73 -210
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] kill @e[type=#minecraft:monsters,distance=..256]
+[exec] say [神] 你在地下深处老遇怪，我把你传回地表削平区(-746,73,-210)安全位置了，血也回满40。别下矿了，等我给你做加血食物
+[msg] Teleported ludwigxu to -745.500000, 73.000000, -209.500000
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] No entity was found
+[msg] [ludwiggod] [神] 你在地下深处老遇怪，我把你传回地表削平区(-746,73,-210)安全位置了，血也回满40。别下矿了，等我给你做加血食物
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] effect give ludwigxu minecraft:absorption 999999 20 true
+[exec] effect give ludwigxu minecraft:resistance 999999 5 true
+[exec] effect give ludwigxu minecraft:fire_resistance 999999 1 true
+[exec] kill @e[type=#minecraft:monsters,distance=..128]
+[exec] kill @e[type=graveyard:ghoul,distance=..256]
+[exec] say [神] 又被食尸鬼杀。我给了你40血+20吸收+5级抗性+防火，够硬了别怕。等我给你刷加血食物
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] Applied effect Absorption to ludwigxu
+[msg] Applied effect Resistance to ludwigxu
+[msg] Applied effect Fire Resistance to ludwigxu
+[msg] No entity was found
+[msg] Killed 2 entities
+[msg] [ludwiggod] [神] 又被食尸鬼杀。我给了你40血+20吸收+5级抗性+防火，够硬了别怕。等我给你刷加血食物
+[exec] give ludwigxu farmersdelight:tomato 8
+[exec] give ludwigxu farmersdelight:onion 8
+[exec] give ludwigxu farmersdelight:fried_egg 8
+[exec] give ludwigxu farmersdelight:hot_cocoa 8
+[exec] give ludwigxu farmersdelight:apple_cider 8
+[exec] give ludwigxu farmersdelight:melon_juice 8
+[exec] give ludwigxu farmersdelight:bacon 8
+[exec] give ludwigxu farmersdelight:cooked_bacon 8
+[exec] give ludwigxu farmersdelight:ham 8
+[exec] give ludwigxu farmersdelight:smoked_ham 8
+[exec] give ludwigxu farmersdelight:fruit_salad 8
+[exec] give ludwigxu farmersdelight:sweet_berry_cookie 8
+[exec] give ludwigxu farmersdelight:honey_cookie 8
+[exec] give ludwigxu farmersdelight:cabbage 8
+[exec] give ludwigxu farmersdelight:beef_stew 8
+[exec] give ludwigxu farmersdelight:chicken_soup 8
+[exec] give ludwigxu farmersdelight:baked_cod_stew 8
+[exec] give ludwigxu farmersdelight:bacon_and_eggs 8
+[exec] give ludwigxu farmersdelight:barbecue_stick 8
+[exec] give ludwigxu farmersdelight:cooked_mutton_chops 8
+[exec] say [神] 给你刷了20种农夫乐事食物，每种8个。现在把它们都吃一遍(每吃新的一种，吃满进度就永久+1血心)。吃完告诉我
+[msg] Gave 8 [item.farmersdelight.tomato] to ludwigxu
+[msg] ludwigxu has made the advancement [farmersdelight.advancement.get_fd_seed]
+[msg] Gave 8 [item.farmersdelight.onion] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.fried_egg] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.hot_cocoa] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.apple_cider] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.melon_juice] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.bacon] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.cooked_bacon] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.ham] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.smoked_ham] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.fruit_salad] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.sweet_berry_cookie] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.honey_cookie] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.cabbage] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.beef_stew] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.chicken_soup] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.baked_cod_stew] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.bacon_and_eggs] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.barbecue_stick] to ludwigxu
+[msg] Gave 8 [item.farmersdelight.cooked_mutton_chops] to ludwigxu
+[msg] [ludwiggod] [神] 给你刷了20种农夫乐事食物，每种8个。现在把它们都吃一遍(每吃新的一种，吃满进度就永久+1血心)。吃完告诉我
+[exec] give ludwigxu fruitsdelight:baked_durian 8
+[exec] give ludwigxu fruitsdelight:baked_pear 8
+[exec] give ludwigxu fruitsdelight:bayberry 8
+[exec] give ludwigxu fruitsdelight:bayberry_cookie 8
+[exec] give ludwigxu fruitsdelight:bayberry_soup 8
+[exec] give ludwigxu fruitsdelight:bellini_cocktail 8
+[exec] give ludwigxu fruitsdelight:blueberry 8
+[exec] give ludwigxu fruitsdelight:blueberry_custard 8
+[exec] give ludwigxu fruitsdelight:blueberry_muffin 8
+[exec] give ludwigxu fruitsdelight:cranberry 8
+[exec] give ludwigxu fruitsdelight:cranberry_cookie 8
+[exec] give ludwigxu fruitsdelight:cranberry_muffin 8
+[exec] give ludwigxu fruitsdelight:dried_persimmon 8
+[exec] give ludwigxu fruitsdelight:durian_pie 8
+[exec] give ludwigxu fruitsdelight:fig 8
+[exec] give ludwigxu fruitsdelight:fig_chicken_stew 8
+[exec] give ludwigxu fruitsdelight:fig_tart 8
+[exec] give ludwigxu fruitsdelight:kiwi 8
+[exec] give ludwigxu fruitsdelight:lychee 8
+[exec] give ludwigxu fruitsdelight:mango 8
+[exec] say [神] 又刷了20种果园食物，加上之前20种共40种。都吃一遍就能触发好几个永久加心里程碑
+[msg] Gave 8 [item.fruitsdelight.baked_durian] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.baked_pear] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.bayberry] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.bayberry_cookie] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.bayberry_soup] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.bellini_cocktail] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.blueberry] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.blueberry_custard] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.blueberry_muffin] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.cranberry] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.cranberry_cookie] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.cranberry_muffin] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.dried_persimmon] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.durian_pie] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.fig] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.fig_chicken_stew] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.fig_tart] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.kiwi] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.lychee] to ludwigxu
+[msg] Gave 8 [item.fruitsdelight.mango] to ludwigxu
+[msg] [ludwiggod] [神] 又刷了20种果园食物，加上之前20种共40种。都吃一遍就能触发好几个永久加心里程碑
+[msg] [PIGGOD: Teleported PIGGOD to -777.500000, 72.500000, -196.500000]
+[exec] give ludwigxu minecraft:enchanted_golden_apple 64
+[exec] say [神] 64个附魔金苹果已给，效果：吸收4分钟+生命恢复+抗性+防火，吃了超硬
+[msg] Gave 64 [Enchanted Golden Apple] to ludwigxu
+[msg] [ludwiggod] [神] 64个附魔金苹果已给，效果：吸收4分钟+生命恢复+抗性+防火，吃了超硬
+[msg] ludwigxu was slain by PIGGOD
+[msg] ludwigxu has made the advancement [Sweet Dreams]
+[msg] 1/3 players sleeping
+[msg] 0/3 players sleeping
+[msg] <ludwigxu> w
+[chat-skip] ludwigxu: w
+[msg] [ludwigxu: Teleported ludwigxu to ludwiggod]
+[msg] [PIGGOD: Set own game mode to Creative Mode]
+[chat-skip] PIGGOD: Set own game mode to Creative Mode]
+[msg] PIGGOD was killed
+[msg] [ludwigxu: Killed PIGGOD]
+[chat] ludwigxu: Killed PIGGOD]
+[msg] ludwigxu left the game
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[diag] patched after inject: entity_metadata/declare_commands/block_action listeners: 1 1 1
+[fml3] got login_plugin_request, len=8709
+[fml3] handshake discriminator=ModData
+[fml3] got login_plugin_request, len=6433
+[fml3] handshake discriminator=ModList
+[fml3] got login_plugin_request, len=2294
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=371
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=290300
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3015
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9959
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=257
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=209
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=224
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=166
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4502
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4497
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3472
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=155611
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=18036
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=138
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1435
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1995
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=145674
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=307
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=232
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9855
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=2539
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4070
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=432
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=128
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=37678
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=512
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3096
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1218
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1839
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=6254
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3100
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=548
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=236
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1085
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=354
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=428
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=5047
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=670
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=277
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=15398
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=252
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=266
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3123
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=17675
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=141
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=11799
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1066
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1026
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1802
+[fml3] handshake discriminator=ConfigurationData
+[diag] declare_commands re-patched after login
+[join] ludwigxu
+[god] creative + invisible (attempt)
+[bot] 上线
+[msg] Set own game mode to Creative Mode
+[msg] Applied effect Invisibility to ludwiggod
+[msg] ludwigxu fell from a high place
+[msg] ludwigxu fell from a high place
+[scan err] Cannot read properties of undefined (reading 'ludwigxu')
+[outbox bad line] {"cmd":"data get block -681 73 -143"}
+[outbox bad line] {"cmd":"data get block -680 73 -143"}
+[outbox bad line] {"cmd":"give ludwigxu minecraft:enchanted_golden_apple 64"}
+[scan err] Cannot read properties of undefined (reading 'ludwigxu')
+[outbox bad line] {"cmd":"data get entity ludwigxu RespawnPos"}
+[outbox bad line] {"cmd":"data get entity ludwigxu Pos"}
+[outbox bad line] {"cmd":"data get entity ludwigxu Dimension"}
+[msg] <ludwigxu> 神 给我来电生命值 然后给我点附魔金苹果
+[chat] ludwigxu: 神 给我来电生命值 然后给我点附魔金苹果
+[msg] <ludwigxu> god 我现在要去挖坑
+[chat] ludwigxu: god 我现在要去挖坑
+[outbox bad line] {"cmd":"attribute ludwigxu minecraft:generic.max_health base set 40"}
+[outbox bad line] {"cmd":"effect give ludwigxu minecraft:health_boost 999999 10 true"}
+[outbox bad line] {"cmd":"effect give ludwigxu minecraft:instant_health 5 5 true"}
+[outbox bad line] {"cmd":"give ludwigxu minecraft:enchanted_golden_apple 64"}
+[outbox bad line] {"cmd":"say §a神:血量上限40 + 附魔金苹果x64 已给,收好"}
+[outbox bad line] {"cmd":"list"}
+[outbox bad line] {"cmd":"attribute ludwigxu minecraft:generic.max_health base set 40"}
+[outbox bad line] {"cmd":"effect give ludwigxu minecraft:health_boost 999999 10 true"}
+[outbox bad line] {"cmd":"effect give ludwigxu minecraft:instant_health 5 5 true"}
+[outbox bad line] {"cmd":"give ludwigxu minecraft:enchanted_golden_apple 64"}
+[outbox bad line] {"cmd":"give ludwigxu minecraft:diamond_pickaxe{efficiency:5,unbreaking:3,fortune:3,repair_cost:0} 1"}
+[outbox bad line] {"cmd":"say §b神: 生命值40已设,金苹果64已给。挖坑送神镐(效率V耐III时运III),有箱子挖到好东西也可以喊我"}
+[msg] ludwigxu fell from a high place
+[outbox bad line] {"cmd":"give ludwigxu minecraft:diamond_pickaxe{Enchantments:[{id:\\\\"minecraft:efficiency\\\\",lvl:5},{id:\\\\"minecraft:unbreaking\\\\",lvl:3},{id:\\\\"minecraft:fortune\\\\",lvl:3}]} 1"}
+[outbox bad line] {"cmd":"say §b神: 挖坑送神镐(效率V耐III时运III)"}
+[outbox bad line] {"cmd":"list"}
+[outbox bad line] {"cmd":"list"}
+[outbox bad line] {"cmd":"list"}
+[outbox bad line] {"cmd":"list"}
+[outbox bad line] {"cmd":"say UNIQUE-MARKER-1786883236"}
+(node:14728) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[diag] patched after inject: entity_metadata/declare_commands/block_action listeners: 1 1 1
+[fml3] got login_plugin_request, len=8709
+[fml3] handshake discriminator=ModData
+[fml3] got login_plugin_request, len=6433
+[fml3] handshake discriminator=ModList
+[fml3] got login_plugin_request, len=2294
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=371
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=290300
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3015
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9959
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=257
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=209
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=224
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=166
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4502
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4497
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3472
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=155611
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=18036
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=138
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1435
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1995
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=145674
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=307
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=232
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9855
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=2539
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4070
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=432
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=128
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=37678
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=512
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3096
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1218
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1839
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=6254
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3100
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=548
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=236
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1085
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=354
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=428
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=5047
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=670
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=277
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=15398
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=252
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=266
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3123
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=17675
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=141
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=11799
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1066
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1026
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1802
+[fml3] handshake discriminator=ConfigurationData
+[diag] declare_commands re-patched after login
+[join] ludwigxu
+[god] creative + invisible (attempt)
+[bot] 上线
+[msg] Set own game mode to Creative Mode
+[msg] Applied effect Invisibility to ludwiggod
+[exec] say TEST-BOT-OK-1786883333
+[msg] [ludwiggod] TEST-BOT-OK-1786883333
+[exec] attribute ludwigxu minecraft:generic.max_health base set 40
+[exec] effect give ludwigxu minecraft:health_boost 999999 10 true
+[exec] effect give ludwigxu minecraft:instant_health 5 5 true
+[exec] give ludwigxu minecraft:enchanted_golden_apple 64
+[exec] give ludwigxu minecraft:diamond_pickaxe{Enchantments:[{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:fortune",lvl:3}]} 1
+[msg] Base value for attribute Max Health for entity ludwigxu set to 40.0
+[msg] Applied effect Health Boost to ludwigxu
+[msg] Applied effect Instant Health to ludwigxu
+[msg] Gave 64 [Enchanted Golden Apple] to ludwigxu
+[msg] Gave 1 [Diamond Pickaxe] to ludwigxu
+[msg] ftbbackups2.backup.starting
+[exec] say §b神: 生命值上限40已重设(血条回满), 附魔金苹果x64 + 神镐(效率V耐III时运III)已到手。之前命令没发出去是我这边故障,已修好,抱歉
+[bot] 被踢: {"translate":"multiplayer.disconnect.illegal_characters"}
+[bot] 连接断开,5 秒后重连...
+[diag] patched after inject: entity_metadata/declare_commands/block_action listeners: 1 1 1
+[fml3] got login_plugin_request, len=8709
+[fml3] handshake discriminator=ModData
+[fml3] got login_plugin_request, len=6433
+[fml3] handshake discriminator=ModList
+[fml3] got login_plugin_request, len=2294
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=371
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=290300
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3015
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9959
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=257
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=209
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=224
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=166
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4502
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4497
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=3472
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=155611
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=18036
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=138
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1435
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=1995
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=145674
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=307
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=232
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=9855
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=2539
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=123
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=4070
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=432
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=128
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=37678
+[fml3] handshake discriminator=ServerRegistry
+[fml3] got login_plugin_request, len=512
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3096
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1218
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1839
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=6254
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3100
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=548
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=236
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1085
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=354
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=428
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=5047
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=670
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=277
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=15398
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=252
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=266
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=3123
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=17675
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=141
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=11799
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1066
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1026
+[fml3] handshake discriminator=ConfigurationData
+[fml3] got login_plugin_request, len=1802
+[fml3] handshake discriminator=ConfigurationData
+[diag] declare_commands re-patched after login
+[join] ludwigxu
+[god] creative + invisible (attempt)
+[bot] 上线
+[msg] Set own game mode to Creative Mode
+[msg] Applied effect Invisibility to ludwiggod
+[exec] say [神] 生命值上限40已重设(血条回满), 附魔金苹果x64 + 神镐(效率V耐III时运III)已到手。之前命令没发出去是我这边故障,已修好,抱歉
+[msg] ftbbackups2.backup.starting
+[msg] Backup finished in 0m, 6s, 456ms
+[msg] ludwigxu left the game
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
+[bot] 连接断开,5 秒后重连...
+Error: connect ECONNREFUSED 127.0.0.1:51620
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16) {
+  errno: -61,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 51620
+}
+[bot err] connect ECONNREFUSED 127.0.0.1:51620
